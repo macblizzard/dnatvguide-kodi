@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.12 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Sky Sports 1">
     <display-name lang="en">Sky Sports 1</display-name>
@@ -176,41 +176,6 @@
     <display-name lang="en">Big Ten Network</display-name>
     <url>http://www.locatetv.com</url>
   </channel>
-  <channel id="STADIUM 1 (CTH 211 SD / 56HD)">
-    <display-name lang="th">CTH Stadium 1HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/07/Stadium1.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <display-name lang="th">CTH Stadium 2HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/07/Stadium2.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <display-name lang="th">CTH Stadium 3HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/06/Stadium3.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <display-name lang="th">CTH Stadium 4HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/07/Stadium4.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <display-name lang="th">CTH Stadium 5HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/07/Stadium5.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <display-name lang="th">CTH Stadium 6HD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2013/06/Stadium6.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
-  <channel id="STADIUM X (CTH 217 SD / 62 HD)">
-    <display-name lang="th">CTH Stadium XHD</display-name>
-    <icon src="http://www.cth.co.th/en/wp-content/uploads/2014/09/416-X-2634.jpg" />
-    <url>http://www.cthbpl.com</url>
-  </channel>
   <channel id="Astro SuperSport">
     <display-name lang="en">Astro SuperSport</display-name>
     <url>http://www.astro.com.my</url>
@@ -238,7 +203,6 @@
     <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8733_home.png" />
     <url>http://www.guidatv.sky.it</url>
   </channel>
-  
   <programme start="20151216060000 +0000" stop="20151216061500 +0000" channel="Sky Sports 1">
     <title lang="en">Football League Gold</title>
     <sub-title lang="en">Burnley v Preston North End: 2006/07.</sub-title>
@@ -5105,7 +5069,7 @@
     <title lang="en">Freeview</title>
     <category lang="en">General Sports</category>
     <star-rating>
-      <value>5.5 /10</value>
+      <value>5.4 /10</value>
     </star-rating>
   </programme>
   <programme start="20151217213000 +0000" stop="20151217220000 +0000" channel="BoxNation">
@@ -6047,7 +6011,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20151217130000 +0000" stop="20151217133000 +0000" channel="12HD">
-    <title lang="en">Great Sporting Moments - One Night In Tokyo – Danish Delight</title>
+    <title lang="en">Great Sporting Moments - One Night In Tokyo â€“ Danish Delight</title>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20151217133000 +0000" stop="20151217140000 +0000" channel="12HD">
@@ -6071,7 +6035,7 @@
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20151217180000 +0000" stop="20151217183000 +0000" channel="12HD">
-    <title lang="en">Great Sporting Moments - One Night In Tokyo – Danish Delight</title>
+    <title lang="en">Great Sporting Moments - One Night In Tokyo â€“ Danish Delight</title>
     <icon src="https://static.beinsports-social.com/img/show_types/default.png" />
   </programme>
   <programme start="20151217183000 +0000" stop="20151217190000 +0000" channel="12HD">
@@ -7082,109 +7046,6 @@
       <value>8.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20151216043000 -0500" stop="20151216050000 -0500" channel="NBCSN HD">
-    <title lang="en">The Ed Sullivan Show</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!From the biggest names in showbiz and historical music performances to the most remarkable novelty acts from around the world, Ed Sullivan hosted the greatest variety show in television history(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/ed-sullivan-show/8661887/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216050000 -0500" stop="20151216053000 -0500" channel="NBCSN HD">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Paid programming(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/paid-programming/2577527/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216053000 -0500" stop="20151216060000 -0500" channel="NBCSN HD">
-    <title lang="en">Try Total Gym for $14.95</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Total Gym Fit is the only piece of fitness equipment you need to get into the best shape of your life! 30 Day Risk-Free Trial for only $14.95. Call today!(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/try-total-gym-for-14-95/9109282/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216060000 -0500" stop="20151216063000 -0500" channel="NBCSN HD">
-    <title lang="en">Pro Football Talk</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Mike Florio and Paul Burmeister discuss the top stories from around the NFL; interviews with players and coaches(n)</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Paul Burmeister</actor>
-      <actor>Erik Kuselias</actor>
-      <actor>Rodney Harrison</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/pro-football-talk/7261522/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216063000 -0500" stop="20151216070000 -0500" channel="NBCSN HD">
-    <title lang="en">Fantasy Football Live - Thursday Night!</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!The best fantasy football expertise, including metrics from Yahoo! Sports and full integration with NBC Sports' premier fantasy sports information site. Rotoworld.com(n)</desc>
-    <credits>
-      <actor>Dave Briggs</actor>
-      <actor>Kay Adams</actor>
-      <presenter>Erik Kuselias (Host)</presenter>
-    </credits>
-    <date>2013</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/fantasy-football-live-thursday-night/8203034/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216073000 -0500" channel="NBCSN HD">
-    <title lang="en">Pro Football Talk</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Mike Florio and Paul Burmeister discuss the top stories from around the NFL; interviews with players and coaches(n)</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Paul Burmeister</actor>
-      <actor>Erik Kuselias</actor>
-      <actor>Rodney Harrison</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/pro-football-talk/7261522/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216073000 -0500" stop="20151216080000 -0500" channel="NBCSN HD">
-    <title lang="en">Fantasy Football Live - Thursday Night!</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!The best fantasy football expertise, including metrics from Yahoo! Sports and full integration with NBC Sports' premier fantasy sports information site. Rotoworld.com(n)</desc>
-    <credits>
-      <actor>Dave Briggs</actor>
-      <actor>Kay Adams</actor>
-      <presenter>Erik Kuselias (Host)</presenter>
-    </credits>
-    <date>2013</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/fantasy-football-live-thursday-night/8203034/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216083000 -0500" channel="NBCSN HD">
-    <title lang="en">Pro Football Talk</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Mike Florio and Paul Burmeister discuss the top stories from around the NFL; interviews with players and coaches(n)</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Paul Burmeister</actor>
-      <actor>Erik Kuselias</actor>
-      <actor>Rodney Harrison</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/pro-football-talk/7261522/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216083000 -0500" stop="20151216090000 -0500" channel="NBCSN HD">
-    <title lang="en">Fantasy Football Live - Thursday Night!</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!The best fantasy football expertise, including metrics from Yahoo! Sports and full integration with NBC Sports' premier fantasy sports information site. Rotoworld.com(n)</desc>
-    <credits>
-      <actor>Dave Briggs</actor>
-      <actor>Kay Adams</actor>
-      <presenter>Erik Kuselias (Host)</presenter>
-    </credits>
-    <date>2013</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/fantasy-football-live-thursday-night/8203034/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216120000 -0500" channel="NBCSN HD">
-    <title lang="en">The Dan Patrick Show</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Host Dan Patrick brings his irreverent wit and humor to The 101 Network with an innovative daily TV version of his nationally syndicated sports talk radio program. Interviews and discussions with the biggest stars in sports. Live! Only on DIRECTV(n)</desc>
-    <credits>
-      <presenter>Dan Patrick (Host)</presenter>
-    </credits>
-    <date>2009-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/dan-patrick-show/6407269/mid/placeholder.png" />
-  </programme>
   <programme start="20151216120000 -0500" stop="20151216123000 -0500" channel="NBCSN HD">
     <title lang="en">Fishing With Roland Martin</title>
     <sub-title lang="en">Blue Water Sailfish</sub-title>
@@ -7673,101 +7534,6 @@
     <category lang="en">TV Show</category>
     <icon src="http://j.static-locatetv.com/images/content/mid/4/1447631_mobsteel.jpg" />
   </programme>
-  <programme start="20151216043000 -0500" stop="20151216050000 -0500" channel="The Golf Channel">
-    <title lang="en">Try Total Gym for $14.95</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Total Gym Fit is the only piece of fitness equipment you need to get into the best shape of your life! 30 Day Risk-Free Trial for only $14.95. Call today!(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/try-total-gym-for-14-95/9109282/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216050000 -0500" stop="20151216060000 -0500" channel="The Golf Channel">
-    <title lang="en">World Club Championship Highlights</title>
-    <sub-title lang="en">2015 Oakmont Country Club</sub-title>
-    <desc lang="en">Justin Miller and Spencer Mellon win the 2015 World Club Championship at the Oakmont Country Club. No Info available!. No Info available!. No Info available!(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/world-club-championship-highlights/9530909/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216060000 -0500" stop="20151216063000 -0500" channel="The Golf Channel">
-    <title lang="en">Golf Central</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Golfing news(n)</desc>
-    <date>1995</date>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/golf-central/2579500/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216063000 -0500" stop="20151216070000 -0500" channel="The Golf Channel">
-    <title lang="en">Golf Central</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Golfing news(n)</desc>
-    <date>1995</date>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/golf-central/2579500/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216080000 -0500" channel="The Golf Channel">
-    <title lang="en">Morning Drive</title>
-    <sub-title lang="en">Golf's Big Four</sub-title>
-    <desc lang="en">No Info available!. No Info available!Golf's Big Four: Palmer, Nicklaus, Player, and Trevino. No Info available!All the latest news and information from the world of Golf(n)</desc>
-    <credits>
-      <presenter>Erik Kuselias (Host)</presenter>
-      <presenter>Holly Sonders (Host)</presenter>
-      <presenter>Gary Williams (Host)</presenter>
-      <presenter>Damon Hack (Host)</presenter>
-    </credits>
-    <date>2011-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/1241348_morning_drive.jpg" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216090000 -0500" channel="The Golf Channel">
-    <title lang="en">Morning Drive</title>
-    <sub-title lang="en">Golf's Big Four</sub-title>
-    <desc lang="en">No Info available!. No Info available!Golf's Big Four: Palmer, Nicklaus, Player, and Trevino. No Info available!All the latest news and information from the world of Golf(n)</desc>
-    <credits>
-      <presenter>Erik Kuselias (Host)</presenter>
-      <presenter>Holly Sonders (Host)</presenter>
-      <presenter>Gary Williams (Host)</presenter>
-      <presenter>Damon Hack (Host)</presenter>
-    </credits>
-    <date>2011-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/1241348_morning_drive.jpg" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216100000 -0500" channel="The Golf Channel">
-    <title lang="en">Morning Drive</title>
-    <sub-title lang="en">Golf's Big Four</sub-title>
-    <desc lang="en">No Info available!. No Info available!Golf's Big Four: Palmer, Nicklaus, Player, and Trevino. No Info available!All the latest news and information from the world of Golf(n)</desc>
-    <credits>
-      <presenter>Erik Kuselias (Host)</presenter>
-      <presenter>Holly Sonders (Host)</presenter>
-      <presenter>Gary Williams (Host)</presenter>
-      <presenter>Damon Hack (Host)</presenter>
-    </credits>
-    <date>2011-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/1241348_morning_drive.jpg" />
-  </programme>
-  <programme start="20151216100000 -0500" stop="20151216110000 -0500" channel="The Golf Channel">
-    <title lang="en">Morning Drive</title>
-    <sub-title lang="en">Golf's Big Four</sub-title>
-    <desc lang="en">No Info available!. No Info available!Golf's Big Four: Palmer, Nicklaus, Player, and Trevino. No Info available!All the latest news and information from the world of Golf(n)</desc>
-    <credits>
-      <presenter>Erik Kuselias (Host)</presenter>
-      <presenter>Holly Sonders (Host)</presenter>
-      <presenter>Gary Williams (Host)</presenter>
-      <presenter>Damon Hack (Host)</presenter>
-    </credits>
-    <date>2011-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/1241348_morning_drive.jpg" />
-  </programme>
-  <programme start="20151216110000 -0500" stop="20151216120000 -0500" channel="The Golf Channel">
-    <title lang="en">The Golf Fix</title>
-    <desc lang="en">Observing what can be learned from seven of the best golfers of all time. No Info available!. No Info available!. No Info available!Golf instructor Michael Breed answers viewers' e-mail questions(n)</desc>
-    <credits>
-      <presenter>Michael Breed (Host)</presenter>
-    </credits>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/895386_the_golf_fix.jpg" />
-    <episode-num>E281</episode-num>
-  </programme>
   <programme start="20151216120000 -0500" stop="20151216123000 -0500" channel="The Golf Channel">
     <title lang="en">Champions Tour Learning Center</title>
     <sub-title lang="en">Legendary Lessons</sub-title>
@@ -8045,65 +7811,14 @@
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/pga-tour-golf/9563535/mid/placeholder.png" />
   </programme>
-  <programme start="20151216043000 -0500" stop="20151216052000 -0500" channel="Fox Sports 1">
-    <title lang="en">FOX Sports Live</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!FOX Sports nightly sports news, opinion, and highlight show(n)</desc>
-    <credits>
-      <presenter>Jay Onrait (Host)</presenter>
-      <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
-      <presenter>Charissa Thompson (Host)</presenter>
-      <presenter>Don Bell (Host)</presenter>
-    </credits>
-    <date>2013-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/901495_fox_sports_live.jpg" />
-  </programme>
-  <programme start="20151216052000 -0500" stop="20151216073000 -0500" channel="Fox Sports 1">
-    <title lang="en">FIFA Club World Cup Soccer</title>
-    <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: Winner Game 3 vs. River Plate (ARG). No Info available!(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9558995/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216073000 -0500" stop="20151216080000 -0500" channel="Fox Sports 1">
-    <title lang="en">2018 FIFA World Cup Magazine</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!World Cup qualifying highlights, and Russian preparations to host the 2018 event(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/2018-fifa-world-cup-magazine/9378946/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216090000 -0500" channel="Fox Sports 1">
-    <title lang="en">FOX Sports Live</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!FOX Sports nightly sports news, opinion, and highlight show(n)</desc>
-    <credits>
-      <presenter>Jay Onrait (Host)</presenter>
-      <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
-      <presenter>Charissa Thompson (Host)</presenter>
-      <presenter>Don Bell (Host)</presenter>
-    </credits>
-    <date>2013-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/901495_fox_sports_live.jpg" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216110000 -0500" channel="Fox Sports 1">
-    <title lang="en">FIFA Club World Cup Soccer</title>
-    <sub-title lang="en">5th Place</sub-title>
-    <desc lang="en">No Info available!. No Info available!5th Place: L Game 2 vs. L Game 3. No Info available!(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9558994/mid/placeholder.png" />
-  </programme>
   <programme start="20151216110000 -0500" stop="20151216120000 -0500" channel="Fox Sports 1">
     <title lang="en">FOX Sports Live</title>
     <desc lang="en">No Info available!. No Info available!. No Info available!FOX Sports nightly sports news, opinion, and highlight show(n)</desc>
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8124,7 +7839,7 @@
   <programme start="20151216150000 -0500" stop="20151216170000 -0500" channel="Fox Sports 1">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: Winner Game 3 vs. River Plate (ARG). No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!Semifinal: Sanfrecce Hiroshima (JPN) vs. River Plate (ARG). No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9558995/mid/placeholder.png" />
@@ -8178,21 +7893,14 @@
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/womens-soccer/9561113/mid/placeholder.png" />
   </programme>
-  <programme start="20151216223000 -0500" stop="20151216233000 -0500" channel="Fox Sports 1">
-    <title lang="en">Westminster Best in Show</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Since its inception the Westminster Kennel Club Dog Show has assembled thousands of the world's finest dogs with the goal of earning the title that matters most: Best In Show(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/westminster-best-in-show/9567299/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216233000 -0500" stop="20151217000000 -0500" channel="Fox Sports 1">
+  <programme start="20151216223000 -0500" stop="20151217000000 -0500" channel="Fox Sports 1">
     <title lang="en">FOX Sports Live</title>
     <desc lang="en">No Info available!. No Info available!. No Info available!FOX Sports nightly sports news, opinion, and highlight show(n)</desc>
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8222,8 +7930,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8236,8 +7944,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8262,7 +7970,7 @@
   <programme start="20151217052000 -0500" stop="20151217073000 -0500" channel="Fox Sports 1">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Winner Game 2. No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Guangzhou Evergrande FC. No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9560935/mid/placeholder.png" />
@@ -8280,8 +7988,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8302,8 +8010,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8324,7 +8032,7 @@
   <programme start="20151217150000 -0500" stop="20151217170000 -0500" channel="Fox Sports 1">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Winner Game 2. No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Guangzhou Evergrande FC. No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9560935/mid/placeholder.png" />
@@ -8373,59 +8081,6 @@
     <category lang="en">TV Show</category>
     <icon src="http://j.static-locatetv.com/images/content/mid/4/893580_ufc_reloaded.jpg" />
   </programme>
-  <programme start="20151216060000 -0500" stop="20151216063000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC Ultimate Insider</title>
-    <sub-title lang="en">Donald Cerrone</sub-title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Behind-the-scenes of the Ultimate Fighting Championship(n)</desc>
-    <credits>
-      <presenter>Jon Anik (Host)</presenter>
-    </credits>
-    <date>2012-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/893561_ufc_ultimate_insider.jpg" />
-  </programme>
-  <programme start="20151216063000 -0500" stop="20151216070000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC Ultimate Knockouts</title>
-    <sub-title lang="en">Knockouts From Around The World</sub-title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Memorable knock-outs from throughout MMA history(n)</desc>
-    <date>2014-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/ufc-ultimate-knockouts/9555568/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216090000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC 194: Aldo vs. McGregor - Prelims</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Kevin Lee vs. Leonardo Santos, lightweight bout; Colby Covington vs. Warlley Alves, welterweight bout; Jocelyn Jones-Lybarger vs. Tecia Torres, strawweight bout; Frankie Saenz vs. Urijah Faber, bantamweight bout. From Las Vegas(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/ufc-194-aldo-vs-mcgregor-prelims/9554452/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216100000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC's Road to the Octagon</title>
-    <sub-title lang="en">Dos Anjos vs. Cerrone</sub-title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/ufcs-road-to-the-octagon/9555816/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216100000 -0500" stop="20151216110000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC Unleashed</title>
-    <sub-title lang="en">Junior dos Santos vs. Frank Mir</sub-title>
-    <desc lang="en">Junior dos Santos defends his title for the first time against Frank Mir; Joe Lauzon and Jamie Varner; Donald Cerrone vs. Melvin Guillard, and Brian Stann vs. Alessio Sakara. No Info available!. No Info available!. No Info available!Features greatest moments from the UFC's vast library of fight footage(n)</desc>
-    <credits>
-      <presenter>Mike Goldberg (Host)</presenter>
-    </credits>
-    <date>2013-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/893942_ufc_unleashed.jpg" />
-  </programme>
-  <programme start="20151216110000 -0500" stop="20151216120000 -0500" channel="Fox Sports 2">
-    <title lang="en">UFC Main Event</title>
-    <sub-title lang="en">Pettis vs. Dos Anjos</sub-title>
-    <desc lang="en">UFC superstar and lightweight champion Anthony 'Showtime' Pettis makes his second title defense against hard-nosed Brazilian Rafael Dos Anjos. No Info available!. No Info available!. No Info available!(n)</desc>
-    <date>2014-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/ufc-main-event/9501624/mid/placeholder.png" />
-  </programme>
   <programme start="20151216120000 -0500" stop="20151216150000 -0500" channel="Fox Sports 2">
     <title lang="en">UFC Reloaded</title>
     <sub-title lang="en">UFC 185: Pettis vs. Dos Anjos</sub-title>
@@ -8451,7 +8106,7 @@
   <programme start="20151216173000 -0500" stop="20151216193000 -0500" channel="Fox Sports 2">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">5th Place</sub-title>
-    <desc lang="en">No Info available!. No Info available!5th Place: L Game 2 vs. L Game 3. No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!5th Place: Club America vs. TP Mazembe. No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9558994/mid/placeholder.png" />
@@ -8517,8 +8172,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8531,8 +8186,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8545,8 +8200,8 @@
     <credits>
       <presenter>Jay Onrait (Host)</presenter>
       <presenter>Dan O'Toole (Host)</presenter>
-      <presenter>Ryan Field (Host)</presenter>
       <presenter>Charissa Thompson (Host)</presenter>
+      <presenter>Ryan Field (Host)</presenter>
       <presenter>Don Bell (Host)</presenter>
     </credits>
     <date>2013-2015</date>
@@ -8607,7 +8262,7 @@
   <programme start="20151217190000 -0500" stop="20151217210000 -0500" channel="Fox Sports 2">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: Winner Game 3 vs. River Plate (ARG). No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!Semifinal: Sanfrecce Hiroshima (JPN) vs. River Plate (ARG). No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9558995/mid/placeholder.png" />
@@ -8615,7 +8270,7 @@
   <programme start="20151217210000 -0500" stop="20151217230000 -0500" channel="Fox Sports 2">
     <title lang="en">FIFA Club World Cup Soccer</title>
     <sub-title lang="en">Semifinal</sub-title>
-    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Winner Game 2. No Info available!(n)</desc>
+    <desc lang="en">No Info available!. No Info available!Semifinal: FC Barcelona vs. Guangzhou Evergrande FC. No Info available!(n)</desc>
     <date>2015</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/fifa-club-world-cup-soccer/9560935/mid/placeholder.png" />
@@ -8961,7 +8616,7 @@
   </programme>
   <programme start="20151216080000 +0000" stop="20151216083000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216083000 +0000" stop="20151216093000 +0000" channel="LiverpoolFCTV">
@@ -8974,7 +8629,7 @@
   </programme>
   <programme start="20151216093000 +0000" stop="20151216100000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216100000 +0000" stop="20151216100300 +0000" channel="LiverpoolFCTV">
@@ -8994,7 +8649,7 @@
   </programme>
   <programme start="20151216120300 +0000" stop="20151216123000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216123000 +0000" stop="20151216133000 +0000" channel="LiverpoolFCTV">
@@ -9041,7 +8696,7 @@
   </programme>
   <programme start="20151216153000 +0000" stop="20151216160000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216160000 +0000" stop="20151216160300 +0000" channel="LiverpoolFCTV">
@@ -9112,7 +8767,7 @@
   </programme>
   <programme start="20151216213000 +0000" stop="20151216220000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216220000 +0000" stop="20151216230000 +0000" channel="LiverpoolFCTV">
@@ -9134,7 +8789,7 @@
   </programme>
   <programme start="20151216231500 +0000" stop="20151216234500 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151216234500 +0000" stop="20151217000000 +0000" channel="LiverpoolFCTV">
@@ -9176,7 +8831,7 @@
   </programme>
   <programme start="20151217080000 +0000" stop="20151217083000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217083000 +0000" stop="20151217090000 +0000" channel="LiverpoolFCTV">
@@ -9191,7 +8846,7 @@
   </programme>
   <programme start="20151217093000 +0000" stop="20151217100000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217100000 +0000" stop="20151217100500 +0000" channel="LiverpoolFCTV">
@@ -9218,7 +8873,7 @@
   </programme>
   <programme start="20151217120500 +0000" stop="20151217123000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217123000 +0000" stop="20151217133000 +0000" channel="LiverpoolFCTV">
@@ -9259,7 +8914,7 @@
   </programme>
   <programme start="20151217150000 +0000" stop="20151217153000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217153000 +0000" stop="20151217160000 +0000" channel="LiverpoolFCTV">
@@ -9317,7 +8972,7 @@
   </programme>
   <programme start="20151217183000 +0000" stop="20151217190000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217190000 +0000" stop="20151217200000 +0000" channel="LiverpoolFCTV">
@@ -9341,7 +8996,7 @@
   </programme>
   <programme start="20151217203000 +0000" stop="20151217210000 +0000" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the Â£LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20151217210000 +0000" stop="20151217220000 +0000" channel="LiverpoolFCTV">
@@ -9477,55 +9132,6 @@
     <title lang="en">Chelsea U19s V Porto U19s-Uyl</title>
     <desc lang="en">Chelsea take on Porto in the group stage U19 UEFA Youth League.(n)</desc>
     <category lang="en">reserved</category>
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216080000 -0500" channel="MLB Network">
-    <title lang="en">MLB Now</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Veteran broadcaster Brian Kenny discusses baseball's hot topics(n)</desc>
-    <credits>
-      <presenter>Brian Kenny (Host)</presenter>
-      <presenter>Harold Reynolds (Host)</presenter>
-      <presenter>Kristina Akra (Host)</presenter>
-    </credits>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/mlb-now/8034337/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216090000 -0500" channel="MLB Network">
-    <title lang="en">MLB Tonight</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Featuring live look-ins, updates, highlights, reporting, interviews and analysis by MLB Network's experts(n)</desc>
-    <credits>
-      <actor>Alanna Rizzo</actor>
-      <actor>Peter Gammons</actor>
-      <actor>Kristina Akra</actor>
-      <actor>Paul Severino</actor>
-      <actor>Heidi Watney</actor>
-      <presenter>Greg Amsinger (Host)</presenter>
-      <presenter>Larry Bowa (Host)</presenter>
-      <presenter>Dan Plesac (Host)</presenter>
-      <presenter>Dave Valle (Host)</presenter>
-      <presenter>Harold Reynolds (Host)</presenter>
-      <presenter>Matt Vasgersian (Host)</presenter>
-      <presenter>Bill Ripken (Host)</presenter>
-      <presenter>Kevin Millar (Host)</presenter>
-      <presenter>Al Leiter (Host)</presenter>
-      <presenter>Mitch Williams (Host)</presenter>
-      <presenter>Brian Kenney (Anchor)</presenter>
-      <presenter>Chris Rose (Anchor)</presenter>
-    </credits>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/mlb-tonight/6110025/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216110000 -0500" channel="MLB Network">
-    <title lang="en">Hot Stove Live</title>
-    <sub-title lang="en">Hot Stove</sub-title>
-    <desc lang="en">Discussion of off-season trades, free agent signings and player movement rumors. No Info available!. No Info available!. No Info available!Discussion of off-season trades, free agent signings and player movement rumors(n)</desc>
-    <credits>
-      <actor>Matt Vasgersian</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/hot-stove-live/5996393/mid/placeholder.png" />
   </programme>
   <programme start="20151216110000 -0500" stop="20151216130000 -0500" channel="MLB Network">
     <title lang="en">Hot Stove Live</title>
@@ -10092,63 +9698,6 @@
     <icon src="http://j.static-locatetv.com/images/content/mid/4/996947_baseball.jpg" />
     <episode-num>S1E8</episode-num>
   </programme>
-  <programme start="20151216050000 -0500" stop="20151216060000 -0500" channel="NFL NETWORK">
-    <title lang="en">NFL Fantasy Live</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Discussion on the latest news, injuries, match-ups and their fantasy impact(n)</desc>
-    <credits>
-      <actor>James Koh</actor>
-      <actor>Michael Fabiano</actor>
-      <presenter>Jason Smith (Host)</presenter>
-      <presenter>Matt 'Money' Smith (Host)</presenter>
-    </credits>
-    <date>2014</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/nfl-fantasy-live/7260089/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216060000 -0500" stop="20151216070000 -0500" channel="NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!NFL information, opinion, debate and interviews with players and coaches(n)</desc>
-    <credits>
-      <presenter>Dan Hellie (Host)</presenter>
-      <presenter>Amber Theoharis (Host)</presenter>
-    </credits>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/nfl-total-access/2009796/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216080000 -0500" channel="NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!NFL information, opinion, debate and interviews with players and coaches(n)</desc>
-    <credits>
-      <presenter>Dan Hellie (Host)</presenter>
-      <presenter>Amber Theoharis (Host)</presenter>
-    </credits>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/nfl-total-access/2009796/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216100000 -0500" channel="NFL NETWORK">
-    <title lang="en">NFL HQ</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!The latest NFL highlights, breaking news, developing stories and player injury updates from around the league(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/nfl-hq/9378892/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216100000 -0500" stop="20151216120000 -0500" channel="NFL NETWORK">
-    <title lang="en">NFL HQ</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!The latest NFL highlights, breaking news, developing stories and player injury updates from around the league(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/nfl-hq/9378892/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216120000 -0500" stop="20151216150000 -0500" channel="NFL NETWORK">
-    <title lang="en">Super Bowl Classics</title>
-    <sub-title lang="en">XLIX</sub-title>
-    <desc lang="en">Tom Brady leads the New England Patriots comeback, scoring the go-ahead touchdown with 2-minutes left in the game. A game-ending interception by Malcolm Butler at the 1-yard line seals the 28-24 victory. From Feb. 1, 2015 in Glendale, Ariz. No Info available!. No Info available!XLIX: New England Patriots vs. Seattle Seahawks. No Info available!Complete re-airs of the greatest Super Bowls in NFL history(n)</desc>
-    <date>2009-2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/super-bowl-classics/9018255/mid/placeholder.png" />
-  </programme>
   <programme start="20151216150000 -0500" stop="20151216160000 -0500" channel="NFL NETWORK">
     <title lang="en">Top 10</title>
     <sub-title lang="en">Greatest Plays in the Super Bowl</sub-title>
@@ -10433,92 +9982,9 @@
   </programme>
   <programme start="20151217202500 -0500" stop="20151217233000 -0500" channel="NFL NETWORK">
     <title lang="en">NFL Football - Tampa Bay Buccaneers at St. Louis Rams</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Just one year removed from a 2-14 season, coach Lovie Smith has turned the Buccaneers around, and now they look to keep their playoff hopes alive when they visit Jeff Fisher's Rams(n)</desc>
+    <desc lang="en">No Info available!. No Info available!. No Info available!After running for 140 yards and two touchdowns last week against the Lions, rookie Todd Gurley leads the Rams (5-8) against Jameis Winston and the Bucs (6-7), who try to bounce back from last weeks defeat to New Orleans(n)</desc>
     <category lang="en">TV Special</category>
     <icon src="http://p.static-locatetv.com/tv/nfl-football-tampa-bay-buccaneers-at-st-louis-rams/9564934/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216040000 -0500" stop="20151216060000 -0500" channel="Big Ten Network">
-    <title lang="en">College Basketball - Texas A&amp;M-Corpus Christi at Wisconsin</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Coach Bo Ryan's Badgers have had an up-an-down start and look to gain momentum heading into the Big Ten season when they host the Texas A&amp;M-Corpus Christi Islanders(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/college-basketball-texas-aandm-corpus-christi-at-wisconsin/9560331/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216060000 -0500" stop="20151216063000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216063000 -0500" stop="20151216070000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216070000 -0500" stop="20151216073000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216073000 -0500" stop="20151216080000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216080000 -0500" stop="20151216083000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216083000 -0500" stop="20151216090000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216090000 -0500" stop="20151216093000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216093000 -0500" stop="20151216100000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216100000 -0500" stop="20151216103000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216103000 -0500" stop="20151216110000 -0500" channel="Big Ten Network">
-    <title lang="en">B1G Finale 2015-16</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Recapping all of the day's Big Ten basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/b1g-finale-2015-16/9506809/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216110000 -0500" stop="20151216120000 -0500" channel="Big Ten Network">
-    <title lang="en">BTN Basketball in 60</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!One-hour condensed version of Big Ten Basketball action(n)</desc>
-    <date>2015</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://p.static-locatetv.com/tv/btn-basketball-in-60/9534057/mid/placeholder.png" />
   </programme>
   <programme start="20151216120000 -0500" stop="20151216130000 -0500" channel="Big Ten Network">
     <title lang="en">BTN Basketball in 60</title>
@@ -10777,1441 +10243,6 @@
     <date>2014</date>
     <category lang="en">TV Show</category>
     <icon src="http://p.static-locatetv.com/tv/btn-live/7252598/mid/placeholder.png" />
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216030000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Leicester City vs Chelsea</title>
-    <sub-title lang="th">??????????   Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151216030000 +0700" stop="20151216050000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</title>
-    <sub-title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????????????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151216050000 +0700" stop="20151216080000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Tottenham Hotspur vs Newcastle United</title>
-    <sub-title lang="th">??????????   Tottenham Hotspur vs Newcastle United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ??????????????????(n)</desc>
-  </programme>
-  <programme start="20151216080000 +0700" stop="20151216083000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Netbusters</title>
-    <sub-title lang="th">Netbusters</sub-title>
-    <desc lang="th">??????????????? ???????????????????????????????? ????????????????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151216083000 +0700" stop="20151216090000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">BPL Legend</title>
-    <sub-title lang="th">BPL Legend</sub-title>
-    <desc lang="th">???????????????????????????????????????? ????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216093000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Highlight Manchester United vs Liverpool 2013/2014</title>
-    <sub-title lang="th">Highlight Manchester United vs Liverpool 2013/2014</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ??????????????????? ????? ?????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151216093000 +0700" stop="20151216100000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">World</title>
-    <sub-title lang="th">World</sub-title>
-    <desc lang="th">???????????????? ????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216100000 +0700" stop="20151216130000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Leicester City vs Chelsea</title>
-    <sub-title lang="th">??????????   Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151216130000 +0700" stop="20151216133000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Highlight Manchester United vs Liverpool 2013/2014</title>
-    <sub-title lang="th">Highlight Manchester United vs Liverpool 2013/2014</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ??????????????????? ????? ?????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151216133000 +0700" stop="20151216140000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">World</title>
-    <sub-title lang="th">World</sub-title>
-    <desc lang="th">???????????????? ????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216140000 +0700" stop="20151216143000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Netbusters</title>
-    <sub-title lang="th">Netbusters</sub-title>
-    <desc lang="th">??????????????? ???????????????????????????????? ????????????????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151216143000 +0700" stop="20151216150000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">BPL Legend</title>
-    <sub-title lang="th">BPL Legend</sub-title>
-    <desc lang="th">???????????????????????????????????????? ????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216150000 +0700" stop="20151216180000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Tottenham Hotspur vs Newcastle United</title>
-    <sub-title lang="th">??????????   Tottenham Hotspur vs Newcastle United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ??????????????????(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">???</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216190000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">BPL Legend</title>
-    <sub-title lang="th">BPL Legend</sub-title>
-    <desc lang="th">???????????????????????????????????????? ????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216190000 +0700" stop="20151216200000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">????????????????????? ? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216200000 +0700" stop="20151216203000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Netbusters</title>
-    <sub-title lang="th">Netbusters</sub-title>
-    <desc lang="th">??????????????? ???????????????????????????????? ????????????????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151216203000 +0700" stop="20151216210000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Highlight Manchester United vs Liverpool 2013/2014</title>
-    <sub-title lang="th">Highlight Manchester United vs Liverpool 2013/2014</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ??????????????????? ????? ?????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151216210000 +0700" stop="20151217000000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Leicester City vs Chelsea</title>
-    <sub-title lang="th">??????????   Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217030000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">??????????   Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217030000 +0700" stop="20151217033000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Highlight Manchester United vs Liverpool 2013/2014</title>
-    <sub-title lang="th">Highlight Manchester United vs Liverpool 2013/2014</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ??????????????????? ????? ?????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151217033000 +0700" stop="20151217040000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">World</title>
-    <sub-title lang="th">World</sub-title>
-    <desc lang="th">???????????????? ????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217040000 +0700" stop="20151217043000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Netbusters</title>
-    <sub-title lang="th">Netbusters</sub-title>
-    <desc lang="th">??????????????? ???????????????????????????????? ????????????????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151217043000 +0700" stop="20151217050000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">BPL Legend</title>
-    <sub-title lang="th">BPL Legend</sub-title>
-    <desc lang="th">???????????????????????????????????????? ????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217050000 +0700" stop="20151217080000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Sunderland vs Watford</title>
-    <sub-title lang="th">??????????   Sunderland vs Watford</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217080000 +0700" stop="20151217100000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</title>
-    <sub-title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????????????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151217100000 +0700" stop="20151217130000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">??????????   Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217130000 +0700" stop="20151217150000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</title>
-    <sub-title lang="th">Classic Match Sunderland vs Newcastle United 2013/2014</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????????????????? 2013/2014(n)</desc>
-  </programme>
-  <programme start="20151217150000 +0700" stop="20151217180000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Sunderland vs Watford</title>
-    <sub-title lang="th">??????????   Sunderland vs Watford</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">???</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Highlight Chelsea vs Liverpool 2001/2002</title>
-    <sub-title lang="th">Highlight Chelsea vs Liverpool 2001/2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ????? ????? ?????????? 2001/2002(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217210000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">Classic Match Arsenal vs Tottenham Hotspur 2011/2012</title>
-    <sub-title lang="th">Classic Match Arsenal vs Tottenham Hotspur 2011/2012</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????? ????? Tottenham Hotspur 2011/2012(n)</desc>
-  </programme>
-  <programme start="20151217210000 +0700" stop="20151218000000 +0700" channel="STADIUM 1 (CTH 211 SD / 56HD)">
-    <title lang="th">??????????   Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">??????????   Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216020000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Chelsea</title>
-    <sub-title lang="th">Classic Match Liverpool vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151216020000 +0700" stop="20151216050000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">?????????? Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216050000 +0700" stop="20151216070000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Arsenal</title>
-    <sub-title lang="th">Classic Match Liverpool vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151216070000 +0700" stop="20151216073000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Netbuster</title>
-    <sub-title lang="th">Netbuster</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216073000 +0700" stop="20151216080000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Mancherter City</title>
-    <sub-title lang="th">Classic Match Liverpool vs Mancherter City</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????(n)</desc>
-  </programme>
-  <programme start="20151216080000 +0700" stop="20151216090000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">?????????????????????? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216100000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Playlist</title>
-    <sub-title lang="th">Playlist</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216100000 +0700" stop="20151216103000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">GLOBAL CHAMPIONS TOUR 2015</title>
-    <sub-title lang="th">GLOBAL CHAMPIONS TOUR 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216103000 +0700" stop="20151216110000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">World Team Tennis 2015</title>
-    <sub-title lang="th">World Team Tennis 2015</sub-title>
-    <desc lang="th">??????????????????? World Team Tennis 2015(n)</desc>
-  </programme>
-  <programme start="20151216110000 +0700" stop="20151216113000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Extreme Sailing Series Transmission</title>
-    <sub-title lang="th">Extreme Sailing Series Transmission</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216113000 +0700" stop="20151216120000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Mancherter City</title>
-    <sub-title lang="th">Classic Match Liverpool vs Mancherter City</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????(n)</desc>
-  </programme>
-  <programme start="20151216120000 +0700" stop="20151216140000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Stoke City vs Liverpool</title>
-    <sub-title lang="th">Classic Match Stoke City vs Liverpool</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151216140000 +0700" stop="20151216143000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">World Team Tennis 2015</title>
-    <sub-title lang="th">World Team Tennis 2015</sub-title>
-    <desc lang="th">??????????????????? World Team Tennis 2015(n)</desc>
-  </programme>
-  <programme start="20151216143000 +0700" stop="20151216150000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Netbuster</title>
-    <sub-title lang="th">Netbuster</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216150000 +0700" stop="20151216180000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">?????????? Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216193000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">FEI World Equestrian Games</title>
-    <sub-title lang="th">FEI World Equestrian Games</sub-title>
-    <desc lang="th">???????????????????(n)</desc>
-  </programme>
-  <programme start="20151216193000 +0700" stop="20151216200000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Mancherter City</title>
-    <sub-title lang="th">Classic Match Liverpool vs Mancherter City</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????(n)</desc>
-  </programme>
-  <programme start="20151216200000 +0700" stop="20151216210000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Playlist</title>
-    <sub-title lang="th">Playlist</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216210000 +0700" stop="20151217000000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? Liverpool vs West Bromwich Albion</title>
-    <sub-title lang="th">?????????? Liverpool vs West Bromwich Albion</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ?????????? ????? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217020000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Stoke City vs Liverpool</title>
-    <sub-title lang="th">Classic Match Stoke City vs Liverpool</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151217020000 +0700" stop="20151217050000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? West Ham United vs Stoke City</title>
-    <sub-title lang="th">?????????? West Ham United vs Stoke City</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ???????????????? ????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151217050000 +0700" stop="20151217070000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Chelsea</title>
-    <sub-title lang="th">Classic Match Liverpool vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151217070000 +0700" stop="20151217073000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Netbuster</title>
-    <sub-title lang="th">Netbuster</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217073000 +0700" stop="20151217080000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Tottenham Hotspur</title>
-    <sub-title lang="th">Classic Match Liverpool vs Tottenham Hotspur</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ????????????????(n)</desc>
-  </programme>
-  <programme start="20151217080000 +0700" stop="20151217090000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Formula Drift</title>
-    <sub-title lang="th">Formula Drift</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217090000 +0700" stop="20151217100000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Playlist</title>
-    <sub-title lang="th">Playlist</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217100000 +0700" stop="20151217103000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Legends</title>
-    <sub-title lang="th">Legends</sub-title>
-    <desc lang="th">??????????????????? volvo(n)</desc>
-  </programme>
-  <programme start="20151217103000 +0700" stop="20151217133000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? West Ham United vs Stoke City</title>
-    <sub-title lang="th">?????????? West Ham United vs Stoke City</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ???????????????? ????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151217133000 +0700" stop="20151217140000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">GLOBAL CHAMPIONS TOUR 2015</title>
-    <sub-title lang="th">GLOBAL CHAMPIONS TOUR 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217140000 +0700" stop="20151217160000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Classic Match Liverpool vs Arsenal</title>
-    <sub-title lang="th">Classic Match Liverpool vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151217160000 +0700" stop="20151217170000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">FEI World Equestrian Games</title>
-    <sub-title lang="th">FEI World Equestrian Games</sub-title>
-    <desc lang="th">???????????????????(n)</desc>
-  </programme>
-  <programme start="20151217170000 +0700" stop="20151217180000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Playlist</title>
-    <sub-title lang="th">Playlist</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">World Team Tennis 2015</title>
-    <sub-title lang="th">World Team Tennis 2015</sub-title>
-    <desc lang="th">??????????????????? World Team Tennis 2015(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217200000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Monday Round Up</title>
-    <sub-title lang="th">Monday Round Up</sub-title>
-    <desc lang="th">????????????????? ????????????????????????? ????????????????????????????????????????? ?????????????????????????? ?????????????????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151217200000 +0700" stop="20151217203000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Extreme Sailing Series Transmission</title>
-    <sub-title lang="th">Extreme Sailing Series Transmission</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217203000 +0700" stop="20151217210000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">Legends</title>
-    <sub-title lang="th">Legends</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217210000 +0700" stop="20151218000000 +0700" channel="STADIUM 2 (CTH 212 SD / 57 HD)">
-    <title lang="th">?????????? West Ham United vs Stoke City</title>
-    <sub-title lang="th">?????????? West Ham United vs Stoke City</sub-title>
-    <desc lang="th">???????????????????????????? ??????? ???????????????? ????? ??????????(n)</desc>
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216003000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? AFC Bournemouth vs Manchester United</title>
-    <sub-title lang="th">?????????? AFC Bournemouth vs Manchester United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ???????? ????? ???????????????????(n)</desc>
-  </programme>
-  <programme start="20151216003000 +0700" stop="20151216010000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</title>
-    <sub-title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ?????????????????? ????? ????????? 2001-2002(n)</desc>
-  </programme>
-  <programme start="20151216010000 +0700" stop="20151216020000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">????????????????????? ? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216020000 +0700" stop="20151216023000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Fiba 3x3</title>
-    <sub-title lang="th">Fiba 3x3</sub-title>
-    <desc lang="th">???????????????????? Fiba 3x3(n)</desc>
-  </programme>
-  <programme start="20151216023000 +0700" stop="20151216053000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Aston Villa vs Arsenal</title>
-    <sub-title lang="th">?????????? Aston Villa vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151216053000 +0700" stop="20151216060000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</title>
-    <sub-title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ?????????????????? ????? ????????? 2001-2002(n)</desc>
-  </programme>
-  <programme start="20151216060000 +0700" stop="20151216090000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Crystal Palace vs Southampton</title>
-    <sub-title lang="th">?????????? Crystal Palace vs Southampton</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ????? ????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216113000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Supercars V8</title>
-    <sub-title lang="th">Supercars V8</sub-title>
-    <desc lang="th">??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216113000 +0700" stop="20151216143000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Aston Villa vs Arsenal</title>
-    <sub-title lang="th">?????????? Aston Villa vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151216143000 +0700" stop="20151216150000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Fiba 3x3</title>
-    <sub-title lang="th">Fiba 3x3</sub-title>
-    <desc lang="th">???????????????????? Fiba 3x3(n)</desc>
-  </programme>
-  <programme start="20151216150000 +0700" stop="20151216180000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Crystal Palace vs Southampton</title>
-    <sub-title lang="th">?????????? Crystal Palace vs Southampton</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ????? ????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">???</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216193000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">FIA European RallyCross Championship 2015</title>
-    <sub-title lang="th">FIA European RallyCross Championship 2015</sub-title>
-    <desc lang="th">????????????? FIA European RallyCross Championship 2015(n)</desc>
-  </programme>
-  <programme start="20151216193000 +0700" stop="20151216200000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</title>
-    <sub-title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ?????????????????? ????? ????????? 2001-2002(n)</desc>
-  </programme>
-  <programme start="20151216200000 +0700" stop="20151216203000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Locker Room By Singha</title>
-    <sub-title lang="th">Locker Room By Singha</sub-title>
-    <desc lang="th">??????????????? ??????? ?????? ??? ? ????????????? ????????????? ?????????????? ? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216203000 +0700" stop="20151216210000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Powerboat X-Cats</title>
-    <sub-title lang="th">Powerboat X-Cats</sub-title>
-    <desc lang="th">????????????????? Powerboat X-Cats(n)</desc>
-  </programme>
-  <programme start="20151216210000 +0700" stop="20151216213000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Fiba 3x3</title>
-    <sub-title lang="th">Fiba 3x3</sub-title>
-    <desc lang="th">???????????????????? Fiba 3x3(n)</desc>
-  </programme>
-  <programme start="20151216213000 +0700" stop="20151217000000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Aston Villa vs Arsenal</title>
-    <sub-title lang="th">?????????? Aston Villa vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217003000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Aston Villa vs Arsenal</title>
-    <sub-title lang="th">?????????? Aston Villa vs Arsenal</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????????? ????? ?????????(n)</desc>
-  </programme>
-  <programme start="20151217003000 +0700" stop="20151217010000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Fiba 3x3</title>
-    <sub-title lang="th">Fiba 3x3</sub-title>
-    <desc lang="th">???????????????????? Fiba 3x3(n)</desc>
-  </programme>
-  <programme start="20151217010000 +0700" stop="20151217020000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Monday Round UP</title>
-    <sub-title lang="th">Monday Round UP</sub-title>
-    <desc lang="th">????????????????? ????????????????????????? ????????????????????????????????????????? ?????????????????????????? ????????????????? ? ???????????(n)</desc>
-  </programme>
-  <programme start="20151217020000 +0700" stop="20151217023000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</title>
-    <sub-title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ?????????????????? ????? ????????? 2001-2002(n)</desc>
-  </programme>
-  <programme start="20151217023000 +0700" stop="20151217053000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? AFC Bournemouth vs Manchester United</title>
-    <sub-title lang="th">?????????? AFC Bournemouth vs Manchester United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ???????? ????? ???????????????????(n)</desc>
-  </programme>
-  <programme start="20151217053000 +0700" stop="20151217060000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Powerboat X-Cats</title>
-    <sub-title lang="th">Powerboat X-Cats</sub-title>
-    <desc lang="th">????????????????? Powerboat X-Cats(n)</desc>
-  </programme>
-  <programme start="20151217060000 +0700" stop="20151217090000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Norwich City vs Everton</title>
-    <sub-title lang="th">?????????? Norwich City vs Everton</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151217090000 +0700" stop="20151217113000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Supercars V8</title>
-    <sub-title lang="th">Supercars V8</sub-title>
-    <desc lang="th">??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217113000 +0700" stop="20151217143000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? AFC Bournemouth vs Manchester United</title>
-    <sub-title lang="th">?????????? AFC Bournemouth vs Manchester United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ???????? ????? ???????????????????(n)</desc>
-  </programme>
-  <programme start="20151217143000 +0700" stop="20151217150000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</title>
-    <sub-title lang="th">Highlight Newcastle United vs Arsenal 2001-2002</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ?????????????????? ????? ????????? 2001-2002(n)</desc>
-  </programme>
-  <programme start="20151217150000 +0700" stop="20151217180000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? Norwich City vs Everton</title>
-    <sub-title lang="th">?????????? Norwich City vs Everton</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ?????????? ????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">???</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Fiba 3x3</title>
-    <sub-title lang="th">Fiba 3x3</sub-title>
-    <desc lang="th">???????????????????? Fiba 3x3(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217200000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">FIA European RallyCross Championship 2015</title>
-    <sub-title lang="th">FIA European RallyCross Championship 2015</sub-title>
-    <desc lang="th">????????????? FIA European RallyCross Championship 2015(n)</desc>
-  </programme>
-  <programme start="20151217200000 +0700" stop="20151217203000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Locker Room By Singha</title>
-    <sub-title lang="th">Locker Room By Singha</sub-title>
-    <desc lang="th">??????????????? ??????? ?????? ??? ? ????????????? ????????????? ?????????????? ? ????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217203000 +0700" stop="20151217210000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Highlight Arsenal vs Liverpool 2014-2015</title>
-    <sub-title lang="th">Highlight Arsenal vs Liverpool 2014-2015</sub-title>
-    <desc lang="th">?????????????????????????????????? ??????? ????????? ????? ?????????? 2014-2015(n)</desc>
-  </programme>
-  <programme start="20151217210000 +0700" stop="20151217213000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">Powerboat X-Cats</title>
-    <sub-title lang="th">Powerboat X-Cats</sub-title>
-    <desc lang="th">????????????????? Powerboat X-Cats(n)</desc>
-  </programme>
-  <programme start="20151217213000 +0700" stop="20151218000000 +0700" channel="STADIUM 3 (CTH 213 SD / 58 HD)">
-    <title lang="th">?????????? AFC Bournemouth vs Manchester United</title>
-    <sub-title lang="th">?????????? AFC Bournemouth vs Manchester United</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ??????? ???????? ????? ???????????????????(n)</desc>
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216030000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216030000 +0700" stop="20151216040000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">????????????????????? ? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216040000 +0700" stop="20151216053000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216053000 +0700" stop="20151216083000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">?????????? Sunderland  vs Watford</title>
-    <sub-title lang="th">?????????? Sunderland  vs Watford</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216083000 +0700" stop="20151216090000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216110000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216110000 +0700" stop="20151216140000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216140000 +0700" stop="20151216160000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216160000 +0700" stop="20151216170000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">????????????????????? ? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216170000 +0700" stop="20151216173000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216173000 +0700" stop="20151216180000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216213000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">?????????? Sunderland  vs Watford</title>
-    <sub-title lang="th">?????????? Sunderland  vs Watford</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216213000 +0700" stop="20151216220000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151216220000 +0700" stop="20151217000000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217030000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217030000 +0700" stop="20151217050000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217050000 +0700" stop="20151217080000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217080000 +0700" stop="20151217100000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217100000 +0700" stop="20151217130000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217130000 +0700" stop="20151217150000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217150000 +0700" stop="20151217180000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">Formula Drift Championship 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Formula Drift Championship 2015</title>
-    <sub-title lang="th">???</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217210000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">Classic Match</title>
-    <sub-title lang="th">Classic Match</sub-title>
-    <desc lang="th">???????????????????????????????????????????? ?(n)</desc>
-  </programme>
-  <programme start="20151217210000 +0700" stop="20151218000000 +0700" channel="STADIUM 4 (CTH 214 SD / 59 HD)">
-    <title lang="th">?????????? Leicester City vs Chelsea</title>
-    <sub-title lang="th">?????????? Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216003000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216003000 +0700" stop="20151216010000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216010000 +0700" stop="20151216020000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216020000 +0700" stop="20151216023000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216023000 +0700" stop="20151216030000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 2</title>
-    <sub-title lang="th">Big 6 News 2</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216030000 +0700" stop="20151216033000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Underdog Football</title>
-    <sub-title lang="th">Underdog Football</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????? ?????????????? ??????? ???? ????? ????????????????????????????????????????? ???????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216033000 +0700" stop="20151216040000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Sunday Highlight</title>
-    <sub-title lang="th">Sunday Highlight</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216040000 +0700" stop="20151216043000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 3</title>
-    <sub-title lang="th">Big 6 News 3</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216043000 +0700" stop="20151216050000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL IDOL</title>
-    <sub-title lang="th">BPL IDOL</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216050000 +0700" stop="20151216060000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">?????????????????????? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216060000 +0700" stop="20151216063000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216063000 +0700" stop="20151216070000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216070000 +0700" stop="20151216080000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216080000 +0700" stop="20151216090000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216093000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 2</title>
-    <sub-title lang="th">Big 6 News 2</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216093000 +0700" stop="20151216100000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Underdog Football</title>
-    <sub-title lang="th">Underdog Football</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????? ?????????????? ??????? ???? ????? ????????????????????????????????????????? ???????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216100000 +0700" stop="20151216110000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Monday Round Up</title>
-    <sub-title lang="th">Monday Round Up</sub-title>
-    <desc lang="th">????????????????? ????????????????????????? ????????????????????????????????????????? ?????????????????????????? ?????????????????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151216110000 +0700" stop="20151216113000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Inside Big Match</title>
-    <sub-title lang="th">BPL Inside Big Match</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????? ???????????????????????????? ????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216113000 +0700" stop="20151216120000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 3</title>
-    <sub-title lang="th">Big 6 News 3</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216120000 +0700" stop="20151216123000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216123000 +0700" stop="20151216130000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216130000 +0700" stop="20151216133000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216133000 +0700" stop="20151216143000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216143000 +0700" stop="20151216173000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????? Manchester City vs Swansea City</title>
-    <sub-title lang="th">?????????? Manchester City vs Swansea City</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ???????????(n)</desc>
-  </programme>
-  <programme start="20151216173000 +0700" stop="20151216180000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Classic Match West Bromwich Albion vs Aston Villa</title>
-    <sub-title lang="th">Classic Match West Bromwich Albion vs Aston Villa</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????????? ????? ??????????? ?????? 2012 - 2013(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216190000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216190000 +0700" stop="20151216200000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216200000 +0700" stop="20151216203000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 1</title>
-    <sub-title lang="th">Big 6 News 1</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216203000 +0700" stop="20151216210000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216210000 +0700" stop="20151216213000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 3</title>
-    <sub-title lang="th">Big 6 News 3</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216213000 +0700" stop="20151216233000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Classic Match Manchester City vs Queens Park Rangers</title>
-    <sub-title lang="th">Classic Match Manchester City vs Queens Park Rangers</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ???????????????????? ?????? 2011 - 2012(n)</desc>
-  </programme>
-  <programme start="20151216233000 +0700" stop="20151217000000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Underdog Football</title>
-    <sub-title lang="th">Underdog Football</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????? ?????????????? ??????? ???? ????? ????????????????????????????????????????? ???????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217003000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217003000 +0700" stop="20151217010000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217010000 +0700" stop="20151217020000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217020000 +0700" stop="20151217050000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????? Leicester City vs Chelsea</title>
-    <sub-title lang="th">?????????? Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151217050000 +0700" stop="20151217053000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL IDOL</title>
-    <sub-title lang="th">BPL IDOL</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217053000 +0700" stop="20151217060000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Underdog Football</title>
-    <sub-title lang="th">Underdog Football</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????? ?????????????? ??????? ???? ????? ????????????????????????????????????????? ???????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217060000 +0700" stop="20151217063000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217063000 +0700" stop="20151217070000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217070000 +0700" stop="20151217080000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217080000 +0700" stop="20151217090000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217090000 +0700" stop="20151217093000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Inside Big Match</title>
-    <sub-title lang="th">BPL Inside Big Match</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????? ???????????????????????????? ????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217093000 +0700" stop="20151217100000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 3</title>
-    <sub-title lang="th">Big 6 News 3</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217100000 +0700" stop="20151217110000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Tuesday Weekly Magazine</title>
-    <sub-title lang="th">Tuesday Weekly Magazine</sub-title>
-    <desc lang="th">?????????????????????? ???????????????????????????????????????? ??????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217110000 +0700" stop="20151217113000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Big 6 News 1</title>
-    <sub-title lang="th">Big 6 News 1</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217113000 +0700" stop="20151217120000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL IDOL</title>
-    <sub-title lang="th">BPL IDOL</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217120000 +0700" stop="20151217123000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217123000 +0700" stop="20151217130000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????</title>
-    <sub-title lang="th">?????????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217130000 +0700" stop="20151217133000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217133000 +0700" stop="20151217143000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217143000 +0700" stop="20151217173000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">?????????? Leicester City vs Chelsea</title>
-    <sub-title lang="th">?????????? Leicester City vs Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ????????????? ????? ?????(n)</desc>
-  </programme>
-  <programme start="20151217173000 +0700" stop="20151217180000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Classic Match Manchester City vs Tottenham Hotspur</title>
-    <sub-title lang="th">Classic Match Manchester City vs Tottenham Hotspur</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ???????????????? ?????? 2011 - 2012(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">????</title>
-    <sub-title lang="th">????</sub-title>
-    <desc lang="th">???????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217200000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golfing World 2015</title>
-    <sub-title lang="th">Golfing World 2015</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217200000 +0700" stop="20151217203000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golf European Challenge Series Highlight</title>
-    <sub-title lang="th">Golf European Challenge Series Highlight</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217203000 +0700" stop="20151217213000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Golf European Senior Tour Highlight</title>
-    <sub-title lang="th">Golf European Senior Tour Highlight</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217213000 +0700" stop="20151217233000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">Classic Match Manchester City vs  Chelsea</title>
-    <sub-title lang="th">Classic Match Manchester City vs  Chelsea</sub-title>
-    <desc lang="th">??????????????????????????????? ??????? ???????????????? ????? ????? ?????? 2014 - 2015(n)</desc>
-  </programme>
-  <programme start="20151217233000 +0700" stop="20151218000000 +0700" channel="STADIUM 5 (CTH 216 SD / 60 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216010000 +0700" stop="20151216013000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NEWS LIVE</title>
-    <sub-title lang="th">NEWS LIVE</sub-title>
-    <desc lang="th">The latest Barclays Premier League news(n)</desc>
-  </programme>
-  <programme start="20151216013000 +0700" stop="20151216020000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NETBUSTERS 2015/2016</title>
-    <sub-title lang="th">NETBUSTERS 2015/2016</sub-title>
-    <desc lang="th">The best goals and action from the latest round of the Premier League(n)</desc>
-  </programme>
-  <programme start="20151216020000 +0700" stop="20151216023000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">FANZONE LIVE</title>
-    <sub-title lang="th">FANZONE LIVE</sub-title>
-    <desc lang="th">Join the debate as we discuss the major news and issues of the day from the Barclays Premier League. Phone number: +44 207 100 0442; Text number: +44 7786 207 442 &amp; SKYPE/email account: email@plfanzone.com(n)</desc>
-  </programme>
-  <programme start="20151216023000 +0700" stop="20151216033000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">REVIEW OF THE SEASON</title>
-    <sub-title lang="th">REVIEW OF THE SEASON</sub-title>
-    <desc lang="th">A review of all the best goals, action &amp; drama from seasons past(n)</desc>
-  </programme>
-  <programme start="20151216033000 +0700" stop="20151216050000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">FOOTBALL TODAY REPEAT 2015/2016</title>
-    <sub-title lang="th">FOOTBALL TODAY REPEAT 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216050000 +0700" stop="20151216053000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">CLASSIC MATCH 93/94</title>
-    <sub-title lang="th">CLASSIC MATCH 93/94</sub-title>
-    <desc lang="th">We delve into the Premier League archive to bring you a Classic Match from the 1993/1994 season(n)</desc>
-  </programme>
-  <programme start="20151216053000 +0700" stop="20151216063000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">REVIEW 2015/2016</title>
-    <sub-title lang="th">REVIEW 2015/2016</sub-title>
-    <desc lang="th">All the very best action from the latest round of the Barclays Premier League(n)</desc>
-  </programme>
-  <programme start="20151216063000 +0700" stop="20151216070000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NETBUSTERS 2015/2016</title>
-    <sub-title lang="th">NETBUSTERS 2015/2016</sub-title>
-    <desc lang="th">The best goals and action from the latest round of the Premier League(n)</desc>
-  </programme>
-  <programme start="20151216070000 +0700" stop="20151216090000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">MATCH-DAY 2015/2016</title>
-    <sub-title lang="th">MATCH-DAY 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216093000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">PL LEGENDS 13-14 SERIES 1</title>
-    <sub-title lang="th">PL LEGENDS 13-14 SERIES 1</sub-title>
-    <desc lang="th">Legends (Series 1)we turn the spotlight upon an icon of the Barclays Premier League. This week features Manchester United legend Peter Schmiechel(n)</desc>
-  </programme>
-  <programme start="20151216093000 +0700" stop="20151216100000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NETBUSTERS 2015/2016</title>
-    <sub-title lang="th">NETBUSTERS 2015/2016</sub-title>
-    <desc lang="th">The best goals and action from the latest round of the Premier League(n)</desc>
-  </programme>
-  <programme start="20151216100000 +0700" stop="20151216113000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">FOOTBALL TODAY REPEAT 2015/2016</title>
-    <sub-title lang="th">FOOTBALL TODAY REPEAT 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216113000 +0700" stop="20151216133000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">MATCH-DAY 2015/2016</title>
-    <sub-title lang="th">MATCH-DAY 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216133000 +0700" stop="20151216140000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NETBUSTERS 2015/2016</title>
-    <sub-title lang="th">NETBUSTERS 2015/2016</sub-title>
-    <desc lang="th">The best goals and action from the latest round of the Premier League(n)</desc>
-  </programme>
-  <programme start="20151216140000 +0700" stop="20151216150000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">PREMIER LEAGUE PLAYLIST 14/15</title>
-    <sub-title lang="th">PREMIER LEAGUE PLAYLIST 14/15</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216150000 +0700" stop="20151216170000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">MATCH-DAY 2015/2016</title>
-    <sub-title lang="th">MATCH-DAY 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216170000 +0700" stop="20151216190000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">MATCH-DAY 2015/2016</title>
-    <sub-title lang="th">MATCH-DAY 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216190000 +0700" stop="20151216193000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NEWS LIVE RECORD 2015/2016</title>
-    <sub-title lang="th">NEWS LIVE RECORD 2015/2016</sub-title>
-    <desc lang="th">The latest Barclays Premier League news(n)</desc>
-  </programme>
-  <programme start="20151216193000 +0700" stop="20151216203000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">PREMIER LEAGUE PLAYLIST 14/15</title>
-    <sub-title lang="th">PREMIER LEAGUE PLAYLIST 14/15</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216203000 +0700" stop="20151216220000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">FOOTBALL TODAY LIVE RECORD 2015/2016</title>
-    <sub-title lang="th">FOOTBALL TODAY LIVE RECORD 2015/2016</sub-title>
-    <desc lang="th">Live action, analysis, discussion and debate from the Barclays Premier League(n)</desc>
-  </programme>
-  <programme start="20151216220000 +0700" stop="20151216223000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">NETBUSTERS 2015/2016</title>
-    <sub-title lang="th">NETBUSTERS 2015/2016</sub-title>
-    <desc lang="th">The best goals and action from the latest round of the Premier League(n)</desc>
-  </programme>
-  <programme start="20151216223000 +0700" stop="20151216230000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">FANZONE LIVE</title>
-    <sub-title lang="th">FANZONE LIVE</sub-title>
-    <desc lang="th">Join the debate as we discuss the major news and issues of the day from the Barclays Premier League. Phone number: +44 207 100 0442; Text number: +44 7786 207 442 &amp; SKYPE/email account: email@plfanzone.com(n)</desc>
-  </programme>
-  <programme start="20151216230000 +0700" stop="20151217010000 +0700" channel="STADIUM 6 (CTH 216 SD / 61 HD)">
-    <title lang="th">MATCH-DAY 2015/2016</title>
-    <sub-title lang="th">MATCH-DAY 2015/2016</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216000000 +0700" stop="20151216003000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216003000 +0700" stop="20151216010000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216010000 +0700" stop="20151216020000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216020000 +0700" stop="20151216030000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216030000 +0700" stop="20151216033000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Inside Big Match</title>
-    <sub-title lang="th">Inside Big Match</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????? ???????????????????????????? ????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216033000 +0700" stop="20151216040000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Volvo Ocean R</title>
-    <sub-title lang="th">Volvo Ocean R</sub-title>
-    <desc lang="th">?????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216040000 +0700" stop="20151216043000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216043000 +0700" stop="20151216050000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216050000 +0700" stop="20151216060000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216060000 +0700" stop="20151216070000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216070000 +0700" stop="20151216080000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FIA WORD</title>
-    <sub-title lang="th">FIA WORD</sub-title>
-    <desc lang="th">?????? ??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216080000 +0700" stop="20151216083000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216083000 +0700" stop="20151216090000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216090000 +0700" stop="20151216100000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216100000 +0700" stop="20151216103000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216103000 +0700" stop="20151216110000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Volvo Ocean R</title>
-    <sub-title lang="th">Volvo Ocean R</sub-title>
-    <desc lang="th">?????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216110000 +0700" stop="20151216120000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FIA WORD</title>
-    <sub-title lang="th">FIA WORD</sub-title>
-    <desc lang="th">?????? ??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216120000 +0700" stop="20151216123000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216123000 +0700" stop="20151216130000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216130000 +0700" stop="20151216140000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216140000 +0700" stop="20151216143000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Inside Big Match</title>
-    <sub-title lang="th">Inside Big Match</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????? ???????????????????????????? ????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216143000 +0700" stop="20151216150000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216150000 +0700" stop="20151216160000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216160000 +0700" stop="20151216163000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216163000 +0700" stop="20151216170000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216170000 +0700" stop="20151216180000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216180000 +0700" stop="20151216183000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151216183000 +0700" stop="20151216190000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216190000 +0700" stop="20151216200000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216200000 +0700" stop="20151216203000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216203000 +0700" stop="20151216210000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Variety</title>
-    <sub-title lang="th">BPL Variety</sub-title>
-    <desc lang="th">?????????? ?????????????????? ???????????????? ???????????????????????????????????? ??????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216210000 +0700" stop="20151216220000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216220000 +0700" stop="20151216223000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151216223000 +0700" stop="20151216233000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151216233000 +0700" stop="20151217000000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Volvo Ocean R</title>
-    <sub-title lang="th">Volvo Ocean R</sub-title>
-    <desc lang="th">?????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217000000 +0700" stop="20151217003000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217003000 +0700" stop="20151217010000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217010000 +0700" stop="20151217020000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217020000 +0700" stop="20151217030000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">AWMRT 14</title>
-    <sub-title lang="th">AWMRT 14</sub-title>
-    <desc lang="th">???????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217030000 +0700" stop="20151217033000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Volvo Ocean R</title>
-    <sub-title lang="th">Volvo Ocean R</sub-title>
-    <desc lang="th">?????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217033000 +0700" stop="20151217040000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217040000 +0700" stop="20151217043000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217043000 +0700" stop="20151217050000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217050000 +0700" stop="20151217060000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217060000 +0700" stop="20151217070000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FIA WORD</title>
-    <sub-title lang="th">FIA WORD</sub-title>
-    <desc lang="th">?????? ??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217070000 +0700" stop="20151217080000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217080000 +0700" stop="20151217083000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217083000 +0700" stop="20151217090000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217090000 +0700" stop="20151217100000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217100000 +0700" stop="20151217110000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">AWMRT 14</title>
-    <sub-title lang="th">AWMRT 14</sub-title>
-    <desc lang="th">???????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217110000 +0700" stop="20151217120000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217120000 +0700" stop="20151217123000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217123000 +0700" stop="20151217130000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Inside Big Match</title>
-    <sub-title lang="th">Inside Big Match</sub-title>
-    <desc lang="th">??????????????????????????????????????????????????????????? ?????????????????????????????? ???????????????????????????? ????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217130000 +0700" stop="20151217140000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217140000 +0700" stop="20151217143000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217143000 +0700" stop="20151217150000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 2015</title>
-    <sub-title lang="th">Mobil 2015</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217150000 +0700" stop="20151217160000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FIA WORD</title>
-    <sub-title lang="th">FIA WORD</sub-title>
-    <desc lang="th">?????? ??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217160000 +0700" stop="20151217163000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217163000 +0700" stop="20151217170000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217170000 +0700" stop="20151217180000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217180000 +0700" stop="20151217183000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">???.</title>
-    <sub-title lang="th">???.</sub-title>
-    <desc lang="th">-(n)</desc>
-  </programme>
-  <programme start="20151217183000 +0700" stop="20151217190000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Mobil 1</title>
-    <sub-title lang="th">Mobil 1</sub-title>
-    <desc lang="th">?????? Update  ????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217190000 +0700" stop="20151217200000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">Golfing World</title>
-    <sub-title lang="th">Golfing World</sub-title>
-    <desc lang="th">?????????????????????????? ??????????????????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217200000 +0700" stop="20151217203000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217203000 +0700" stop="20151217210000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">BPL Quiz</title>
-    <sub-title lang="th">BPL Quiz</sub-title>
-    <desc lang="th">?????????????????-??? ?????????????????????????????????????????????????????? ??????????????????????????  ?????????????????????????????????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217210000 +0700" stop="20151217220000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217220000 +0700" stop="20151217230000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FIA WORD</title>
-    <sub-title lang="th">FIA WORD</sub-title>
-    <desc lang="th">?????? ??????????????????????(n)</desc>
-  </programme>
-  <programme start="20151217230000 +0700" stop="20151217233000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
-  </programme>
-  <programme start="20151217233000 +0700" stop="20151218000000 +0700" channel="STADIUM X (CTH 217 SD / 62 HD)">
-    <title lang="th">FEI</title>
-    <sub-title lang="th">FEI</sub-title>
-    <desc lang="th">?????????????? ?????? ????????(n)</desc>
   </programme>
   <programme start="20151216001500 +0800" stop="20151216003000 +0800" channel="Astro SuperSport">
     <title lang="en">Dashing Daily</title>
@@ -12549,15 +10580,6 @@
   <programme start="20151217220000 +0800" stop="20151217221500 +0800" channel="Astro SuperSport">
     <title lang="en">Dashing Daily</title>
     <desc lang="en">News and highlights from the world of sport. Hosted by Reem Shahwa, Michelle Lee, Amelia Henderson, Lez Ann &amp; Nadia Nash.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151216000000 +0800" stop="20151216003000 +0800" channel="Astro SuperSport 2">
-    <title lang="en">#YOUASK</title>
-    <desc lang="en">Reem spoke to WWE wrestler and former World champ Daniel Bryan about his career highlights, his wedding day and meeting Connor the Crusher.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Other Sports (General)</category>
     <rating>
@@ -12906,54 +10928,9 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme start="20151216230000 +0800" stop="20151217000000 +0800" channel="Astro SuperSport 3">
+  <programme start="20151216230000 +0800" stop="20151217063000 +0800" channel="Astro SuperSport 3">
     <title lang="en">WWE SuperStars</title>
     <desc lang="en">Catch the entire WWE stars in one place, as the Superstars and Divas from both Raw and Smackdown converge in this action packed show.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20151217000000 +0800" stop="20151217020000 +0800" channel="Astro SuperSport 3">
-    <title lang="en">WWE Smackdown</title>
-    <desc lang="en">A term originally coined by The Rock, catch the high-flying action and drama from the superstars of WWE in this weekly showcase of one of the flagship shows of WWE.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20151217020000 +0800" stop="20151217023000 +0800" channel="Astro SuperSport 3">
-    <title lang="en">La Liga World Week 15</title>
-    <desc lang="en">Get to know the clubs, the players, the team behind all the clubs in the Spanish Primera Liga, all you need to know only on La Liga World.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151217023000 +0800" stop="20151217030000 +0800" channel="Astro SuperSport 3">
-    <title lang="en">Netbusters</title>
-    <desc lang="en">The best goals and action from the weekend's Barclays Premier League.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151217030000 +0800" stop="20151217032500 +0800" channel="Astro SuperSport 3">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">Delivers the latest game action, league news and an inside lock at the best players in the game.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports (General)</category>
-    <rating>
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20151217053000 +0800" stop="20151217063000 +0800" channel="Astro SuperSport 3">
-    <title lang="en">WWE Vintage Collection</title>
-    <desc lang="en">WWE Vintage Collection is a professional wrestling television program from WWE showcasing action from the extensive WWE video library.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Other Sports (General)</category>
     <rating>
@@ -13053,6 +11030,15 @@
   <programme start="20151217220000 +0800" stop="20151217230000 +0800" channel="Astro SuperSport 3">
     <title lang="en">WWE Main Event</title>
     <desc lang="en">Features in-ring action, each week sees new storylines derived from WWE Raw &amp; Smackdown, Catch the entire WWE stars in one place, converge in this action packed show.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports (General)</category>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20151217230000 +0800" stop="20151218000000 +0800" channel="Astro SuperSport 3">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">Witness the future of WWE, as the next generation of WWE superstars, on-air personalities and even behind-the-scene staff are being groomed to take the center stage.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Other Sports (General)</category>
     <rating>
