@@ -20,10 +20,6 @@
     <display-name lang="en">Sky News</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20160124080000 +0000" stop="20160124090000 +0000" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">MediaBuzz</title>
-    <desc lang="en">Journalist Howard Kurtz analyzes the state of the news media; discusses current affairs with reporters and commentators; and examines the evolution of social media(n)</desc>
-  </programme>
   <programme start="20160124090000 +0000" stop="20160124093000 +0000" channel="Fox News Channel HDTV (FNCHD)">
     <title lang="en">America's News HQ</title>
     <desc lang="en">News coverage is provided(n)</desc>
@@ -861,17 +857,6 @@
       <value>3.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160124130000 -0500" stop="20160124140000 -0500" channel="CNN HD">
-    <title lang="en">Fareed Zakaria GPS</title>
-    <desc lang="en">Current U.S. strategy enough to defeat ISIS in question; regional countries doing their share; Afghanistan crumbling; U.S. potentially sending boots on the ground to Syria; GITMO closing. No Info available!. No Info available!. No Info available!Foreign affairs and policies shaping the world(n)</desc>
-    <credits>
-      <presenter>Fareed Zakaria (Host)</presenter>
-    </credits>
-    <date>2008-2016</date>
-    <category lang="en">TV Show</category>
-    <icon src="http://j.static-locatetv.com/images/content/mid/4/892877_fareed_zakaria_gps.jpg" />
-    <episode-num>E271</episode-num>
-  </programme>
   <programme start="20160124140000 -0500" stop="20160124150000 -0500" channel="CNN HD">
     <title lang="en">CNN Newsroom with Fredricka Whitfield</title>
     <desc lang="en">No Info available!. No Info available!. No Info available!Fredricka Whitfield brings you the latest on the day's top news stories(n)</desc>
@@ -1211,18 +1196,6 @@
     <date>2016</date>
     <category lang="en">TV Special</category>
     <icon src="http://p.static-locatetv.com/tv/cnn-iowa-democratic-town-hall/9652840/mid/placeholder.png" />
-  </programme>
-  <programme start="20160124123000 -0500" stop="20160124130000 -0500" channel="CNBC">
-    <title lang="en">Easy way to make Great Holiday Meals for the Entire Family</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Cook an entire holiday turkey or ham easier than ever before all while saving time and energy! The NuWave Oven's Triple Combo Cooking Power allows you to enjoy delicious meals in less time while using less energy!(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/easy-way-to-make-great-holiday-meals-for-the-entire-family/7476640/mid/placeholder.png" />
-  </programme>
-  <programme start="20160124130000 -0500" stop="20160124133000 -0500" channel="CNBC">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">No Info available!. No Info available!. No Info available!Paid programming(n)</desc>
-    <category lang="en">TV Special</category>
-    <icon src="http://p.static-locatetv.com/tv/paid-programming/2577527/mid/placeholder.png" />
   </programme>
   <programme start="20160124133000 -0500" stop="20160124140000 -0500" channel="CNBC">
     <title lang="en">Drop Your CIZE!</title>
