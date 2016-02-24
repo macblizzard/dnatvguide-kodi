@@ -24,158 +24,6 @@
   <channel id="Vevo Hits Music Videos">
     <display-name lang="en">Vevo Hits</display-name>
   </channel>
-  <programme start="20160223060000 +0000" stop="20160223071500 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>5.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223071500 +0000" stop="20160223085000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Download Chart</title>
-    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>9.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223085000 +0000" stop="20160223090000 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>5.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223090000 +0000" stop="20160223123000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223123000 +0000" stop="20160223130000 +0000" channel="MTV Hits">
-    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>6.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223130000 +0000" stop="20160223140000 +0000" channel="MTV Hits">
-    <title lang="en">Brits 2016: The Nominees</title>
-    <desc lang="en">Check out who is gearing up for the prestigious Brit awards. Who do you think deserves to clean up this year?.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223140000 +0000" stop="20160223155000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Audio Streaming Chart</title>
-    <desc lang="en">Countdown of the most popular streaming tunes.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.8 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223155000 +0000" stop="20160223155500 +0000" channel="MTV Hits">
-    <title lang="en">Jess Glynne: Brand New Vid</title>
-    <desc lang="en">From Hampstead to Havana, Brit nominee Jess Glynne lands in Cuba for her new vid for 'Ain't Got Far To Go'.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223155500 +0000" stop="20160223160000 +0000" channel="MTV Hits">
-    <title lang="en">Sigala &amp; DJ Fresh: Brand New Vid</title>
-    <desc lang="en">With a hook lifted from an old Mariah Carey tune, Sigala &amp; DJ Fresh team up for this dance monster! We dare you to watch this vid and not dream of Summer..(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223160000 +0000" stop="20160223180000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Top 20</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>3.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223180000 +0000" stop="20160223190000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Chart Update</title>
-    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>7.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223190000 +0000" stop="20160223205000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Download Chart</title>
-    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>9.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223205000 +0000" stop="20160223205500 +0000" channel="MTV Hits">
-    <title lang="en">Selena Gomez: Brand New Video</title>
-    <desc lang="en">Is this Selena's steamiest video yet? Check out 'Hands To Myself'.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223205500 +0000" stop="20160223210000 +0000" channel="MTV Hits">
-    <title lang="en">Jess Glynne: Brand New Vid</title>
-    <desc lang="en">From Hampstead to Havana, Brit nominee Jess Glynne lands in Cuba for her new vid for 'Ain't Got Far To Go'.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223210000 +0000" stop="20160223230000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Top 20</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>3.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223230000 +0000" stop="20160224000000 +0000" channel="MTV Hits">
-    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>6.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160224000000 +0000" stop="20160224010000 +0000" channel="MTV Hits">
-    <title lang="en">Brits 2016: The Nominees</title>
-    <desc lang="en">Check out who is gearing up for the prestigious Brit awards. Who do you think deserves to clean up this year?.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160224010000 +0000" stop="20160224030000 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>5.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160224030000 +0000" stop="20160224060000 +0000" channel="MTV Hits">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
-    <star-rating>
-      <value>1.8 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20160224060000 +0000" stop="20160224071500 +0000" channel="MTV Hits">
     <title lang="en">Big Fat Hits</title>
     <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
@@ -184,13 +32,24 @@
       <value>5.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160224071500 +0000" stop="20160224090000 +0000" channel="MTV Hits">
+  <programme start="20160224071500 +0000" stop="20160224085000 +0000" channel="MTV Hits">
     <title lang="en">The Official Audio Streaming Chart</title>
     <desc lang="en">Countdown of the most popular streaming tunes.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
       <value>7.8 /10</value>
     </star-rating>
+  </programme>
+  <programme start="20160224085000 +0000" stop="20160224085500 +0000" channel="MTV Hits">
+    <title lang="en">Sia &amp; Sean Paul: New Vid</title>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+  </programme>
+  <programme start="20160224085500 +0000" stop="20160224090000 +0000" channel="MTV Hits">
+    <title lang="en">Sigala &amp; DJ Fresh: Brand New Vid</title>
+    <desc lang="en">With a hook lifted from an old Mariah Carey tune, Sigala &amp; DJ Fresh team up for this dance monster! We dare you to watch this vid and not dream of Summer..(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20160224090000 +0000" stop="20160224110000 +0000" channel="MTV Hits">
     <title lang="en">Brits 2016: The Nominees</title>
@@ -218,7 +77,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160224123000 +0000" stop="20160224160000 +0000" channel="MTV Hits">
+  <programme start="20160224123000 +0000" stop="20160224155000 +0000" channel="MTV Hits">
     <title lang="en">The Official UK Top 40</title>
     <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
     <category lang="en">General Music</category>
@@ -227,6 +86,16 @@
     <star-rating>
       <value>4.1 /10</value>
     </star-rating>
+  </programme>
+  <programme start="20160224155000 +0000" stop="20160224155500 +0000" channel="MTV Hits">
+    <title lang="en">Selena Gomez: Brand New Video</title>
+    <desc lang="en">Is this Selena's steamiest video yet? Check out 'Hands To Myself'.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160224155500 +0000" stop="20160224160000 +0000" channel="MTV Hits">
+    <title lang="en">Jess Glynne: Brand New Vid</title>
+    <desc lang="en">From Hampstead to Havana, Brit nominee Jess Glynne lands in Cuba for her new vid for 'Ain't Got Far To Go'.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20160224160000 +0000" stop="20160224180000 +0000" channel="MTV Hits">
     <title lang="en">The Official UK Top 20</title>
@@ -264,22 +133,70 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160223060000 +0000" stop="20160223100000 +0000" channel="VH1">
-    <title lang="en">Rise and Shine</title>
-    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
-    <category lang="en">reserved</category>
+  <programme start="20160225000000 +0000" stop="20160225010000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>7.2 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20160223100000 +0000" stop="20160223110000 +0000" channel="VH1">
-    <title lang="en">Bruno Mars: Official Top 10</title>
-    <desc lang="en">Exclusive countdown of Bruno Mars' 10 biggest hits, according to Official sales figures.(n)</desc>
+  <programme start="20160225010000 +0000" stop="20160225030000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
+    <star-rating>
+      <value>5.5 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20160223110000 +0000" stop="20160223120000 +0000" channel="VH1">
-    <title lang="en">Best Of British: Adele</title>
-    <desc lang="en">We show our love and huge respect for the almighty voice and talent of Britain's super successful global star Adele.(n)</desc>
+  <programme start="20160225030000 +0000" stop="20160225060000 +0000" channel="MTV Hits">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating>
+      <value>1.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225060000 +0000" stop="20160225071500 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
+    <star-rating>
+      <value>5.5 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20160223120000 +0000" stop="20160223153000 +0000" channel="VH1">
+  <programme start="20160225071500 +0000" stop="20160225090000 +0000" channel="MTV Hits">
+    <title lang="en">The Official UK Top 20</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>3.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225090000 +0000" stop="20160225100000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>7.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225100000 +0000" stop="20160225110000 +0000" channel="MTV Hits">
+    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225110000 +0000" stop="20160225143000 +0000" channel="MTV Hits">
     <title lang="en">The Official UK Top 40</title>
     <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
     <category lang="en">General Music</category>
@@ -289,59 +206,85 @@
       <value>4.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160223153000 +0000" stop="20160223160000 +0000" channel="VH1">
-    <title lang="en">5 Reasons To Love Take That</title>
-    <desc lang="en">Regardless of the configuration - as a trio, foursome or in the original line up we've got love for Take That! We're sure you're with us and don't need excuses but here are our 5 Take That faves.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223160000 +0000" stop="20160223175000 +0000" channel="VH1">
-    <title lang="en">Mariah Carey: Top 20</title>
-    <desc lang="en">A countdown with the biggest voice in R&amp;B and soul of the last decade... it's Mariah Carey, of course.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223175000 +0000" stop="20160223180000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160223180000 +0000" stop="20160223194500 +0000" channel="VH1">
-    <title lang="en">Pink: Top 20</title>
-    <desc lang="en">We love Pink, we really do! If you're with us on this, then keep your eyes peeled as we play out a prime selection of her 20 most amazing songs to date.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223194500 +0000" stop="20160223200000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160223200000 +0000" stop="20160224001000 +0000" channel="VH1">
-    <title lang="en">Fab 50! Songs From The Musicals</title>
-    <desc lang="en">Stay tuned to this absolutely fabulous 50, filled with some musical gems that we know you'll love.(n)</desc>
+  <programme start="20160225143000 +0000" stop="20160225150000 +0000" channel="MTV Hits">
+    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
-      <value>3.8 /10</value>
+      <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160224001000 +0000" stop="20160224010000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
+  <programme start="20160225150000 +0000" stop="20160225160000 +0000" channel="MTV Hits">
+    <title lang="en">Hot New Hits! This Week's Top 10</title>
+    <desc lang="en">MTV's the destination for all the newest, biggest &amp; downright best smashes around. Stay tuned to see the hottest new hits in This Week's Top 10.(n)</desc>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20160224010000 +0000" stop="20160224030000 +0000" channel="VH1">
-    <title lang="en">Late Night Love</title>
-    <desc lang="en">It's time to dim the lights, slip into something more comfortable and light the candles with that someone special. It's Late Night Love with VH1.(n)</desc>
+  <programme start="20160225160000 +0000" stop="20160225180000 +0000" channel="MTV Hits">
+    <title lang="en">The Official UK Top 20</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>3.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225180000 +0000" stop="20160225190000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>7.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225190000 +0000" stop="20160225205000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Audio Streaming Chart</title>
+    <desc lang="en">Countdown of the most popular streaming tunes.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225205000 +0000" stop="20160225205500 +0000" channel="MTV Hits">
+    <title lang="en">Selena Gomez: Brand New Video</title>
+    <desc lang="en">Is this Selena's steamiest video yet? Check out 'Hands To Myself'.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160224030000 +0000" stop="20160224060000 +0000" channel="VH1">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
+  <programme start="20160225205500 +0000" stop="20160225210000 +0000" channel="MTV Hits">
+    <title lang="en">Jess Glynne: Brand New Vid</title>
+    <desc lang="en">From Hampstead to Havana, Brit nominee Jess Glynne lands in Cuba for her new vid for 'Ain't Got Far To Go'.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225210000 +0000" stop="20160225225000 +0000" channel="MTV Hits">
+    <title lang="en">The Official UK Download Chart</title>
+    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
     <star-rating>
-      <value>1.8 /10</value>
+      <value>9.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225225000 +0000" stop="20160225230000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>5.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225230000 +0000" stop="20160226000000 +0000" channel="MTV Hits">
+    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.5 /10</value>
     </star-rating>
   </programme>
   <programme start="20160224060000 +0000" stop="20160224080000 +0000" channel="VH1">
@@ -384,117 +327,79 @@
     <desc lang="en">We show our love and huge respect for the almighty voice and talent of Britain's super successful global star Adele.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160223060000 +0000" stop="20160223085500 +0000" channel="Kiss TV">
-    <title lang="en">Turn Up The Morning</title>
-    <desc lang="en">Join Kiss for the best sounding alarm clock you can find. We welcome the day with the biggest bangers. There is nothing like Kiss to turn up the morning.(n)</desc>
+  <programme start="20160225010000 +0000" stop="20160225030000 +0000" channel="VH1">
+    <title lang="en">Late Night Love</title>
+    <desc lang="en">It's time to dim the lights, slip into something more comfortable and light the candles with that someone special. It's Late Night Love with VH1.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160223085500 +0000" stop="20160223090000 +0000" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+  <programme start="20160225030000 +0000" stop="20160225060000 +0000" channel="VH1">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
+    <star-rating>
+      <value>1.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225060000 +0000" stop="20160225080000 +0000" channel="VH1">
+    <title lang="en">Rise and Shine</title>
+    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225080000 +0000" stop="20160225090000 +0000" channel="VH1">
+    <title lang="en">Best Of British: Adele</title>
+    <desc lang="en">We show our love and huge respect for the almighty voice and talent of Britain's super successful global star Adele.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225090000 +0000" stop="20160225100000 +0000" channel="VH1">
+    <title lang="en">Ed Sheeran: Official Top 10</title>
+    <desc lang="en">Exclusive countdown of Ed Sheeran's biggest selling hits to date, as compiled by the Official Charts Company. Will 'Sing', 'Drunk' or 'Lego House' make it to his top spot?.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225100000 +0000" stop="20160225105000 +0000" channel="VH1">
+    <title lang="en">The VH1 Airplay Chart</title>
+    <desc lang="en">Enjoy the latest videos to make it into this week's VH1 Airplay Chart.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225105000 +0000" stop="20160225110000 +0000" channel="VH1">
+    <title lang="en">Music Never Felt So Good</title>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+  </programme>
+  <programme start="20160225110000 +0000" stop="20160225151000 +0000" channel="VH1">
+    <title lang="en">Fab 50! Songs From The Musicals</title>
+    <desc lang="en">Stay tuned to this absolutely fabulous 50, filled with some musical gems that we know you'll love.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>3.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225151000 +0000" stop="20160225180000 +0000" channel="VH1">
+    <title lang="en">Music Never Felt So Good</title>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+  </programme>
+  <programme start="20160225180000 +0000" stop="20160225224000 +0000" channel="VH1">
+    <title lang="en">Alesha Dixon's Talented Brits</title>
+    <desc lang="en">'Britain's Got Talent' judge Alesha Dixon reveals her 50 best music Brits with Talent!.(n)</desc>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
     <star-rating>
-      <value>6.8 /10</value>
+      <value>8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160223090000 +0000" stop="20160223103000 +0000" channel="Kiss TV">
-    <title lang="en">21 Bumpiest Anthems This Week</title>
-    <desc lang="en">Join us for 21 of the bumpiest anthems of the week! It's going to get lively.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223103000 +0000" stop="20160223115500 +0000" channel="Kiss TV">
-    <title lang="en">Chunky Beats &amp; Massive R'n'B</title>
-    <desc lang="en">Join us here at Kiss for a collection of chunky beats and massive R'n'B.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>8.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223115500 +0000" stop="20160223120000 +0000" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+  <programme start="20160225224000 +0000" stop="20160225230000 +0000" channel="VH1">
+    <title lang="en">Music Never Felt So Good</title>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
-    <star-rating>
-      <value>6.8 /10</value>
-    </star-rating>
   </programme>
-  <programme start="20160223120000 +0000" stop="20160223133000 +0000" channel="Kiss TV">
-    <title lang="en">21 Dance Songs With Guest Rappers</title>
-    <desc lang="en">Join us for 21 amazing dance songs! These guest rappers manage to make them even better.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223133000 +0000" stop="20160223144500 +0000" channel="Kiss TV">
-    <title lang="en">Biggest RnB &amp; Dance £RN</title>
-    <desc lang="en">Your urban music bible! We are bringing you the biggest R'n'B &amp; dance tracks right now on Kiss.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223144500 +0000" stop="20160223153000 +0000" channel="Kiss TV">
-    <title lang="en">The Newness! Today's Top 10</title>
-    <desc lang="en">We have only new and fresh hits right here! These are our top 10.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223153000 +0000" stop="20160223160000 +0000" channel="Kiss TV">
-    <title lang="en">Craig David's Hangout</title>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223160000 +0000" stop="20160223173000 +0000" channel="Kiss TV">
-    <title lang="en">21 Dance Songs With Guest Rappers</title>
-    <desc lang="en">Join us for 21 amazing dance songs! These guest rappers manage to make them even better.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223173000 +0000" stop="20160223180000 +0000" channel="Kiss TV">
-    <title lang="en">Freshly Baked Beats</title>
-    <desc lang="en">We are only bringing you the freshest beats around, still hot from the oven.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223180000 +0000" stop="20160223190000 +0000" channel="Kiss TV">
-    <title lang="en">HYPE</title>
-    <desc lang="en">Tune in every week and catch the latest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R&amp;B, Hip Hop and Dance beats exploding right now.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223190000 +0000" stop="20160223203000 +0000" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban</title>
-    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223203000 +0000" stop="20160223225500 +0000" channel="Kiss TV">
-    <title lang="en">Biggest RnB &amp; Dance £RN</title>
-    <desc lang="en">Your urban music bible! We are bringing you the biggest R'n'B &amp; dance tracks right now on Kiss.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160223225500 +0000" stop="20160223230000 +0000" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>6.8 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160223230000 +0000" stop="20160224003000 +0000" channel="Kiss TV">
-    <title lang="en">Bring the Trap Queen Party 20</title>
-    <desc lang="en">Will Manning brings you the most amazing trap queen party beats that will get any party moving. Keep it locked with Kiss.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160224003000 +0000" stop="20160224020000 +0000" channel="Kiss TV">
-    <title lang="en">Chunky Beats &amp; Massive R'n'B</title>
-    <desc lang="en">Join us here at Kiss for a collection of chunky beats and massive R'n'B.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>8.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160224020000 +0000" stop="20160224060000 +0000" channel="Kiss TV">
-    <title lang="en">Sweet RnB Dreams</title>
-    <desc lang="en">Dreams don't get any better with some sweet RnB from Kiss.(n)</desc>
+  <programme start="20160225230000 +0000" stop="20160226010000 +0000" channel="VH1">
+    <title lang="en">Mariah Carey: Top 20</title>
+    <desc lang="en">A countdown with the biggest voice in R&amp;B and soul of the last decade... it's Mariah Carey, of course.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
   <programme start="20160224060000 +0000" stop="20160224085500 +0000" channel="Kiss TV">
@@ -614,28 +519,167 @@
     <desc lang="en">Will Manning brings you the most bangin' beats that will get any party moving. Keep it locked with Kiss.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160223000000 +0000" stop="20160223235900 +0000" channel="VOX Music Videos">
-    <title lang="en">VOX Music Videos</title>
+  <programme start="20160225003000 +0000" stop="20160225020000 +0000" channel="Kiss TV">
+    <title lang="en">Biggest RnB &amp; Dance £RN</title>
+    <desc lang="en">Your urban music bible! We are bringing you the biggest R'n'B &amp; dance tracks right now on Kiss.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225020000 +0000" stop="20160225060000 +0000" channel="Kiss TV">
+    <title lang="en">Sweet RnB Dreams</title>
+    <desc lang="en">Dreams don't get any better with some sweet RnB from Kiss.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225060000 +0000" stop="20160225085500 +0000" channel="Kiss TV">
+    <title lang="en">Turn Up The Morning</title>
+    <desc lang="en">Join Kiss for the best sounding alarm clock you can find. We welcome the day with the biggest bangers. There is nothing like Kiss to turn up the morning.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225085500 +0000" stop="20160225090000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225090000 +0000" stop="20160225103000 +0000" channel="Kiss TV">
+    <title lang="en">21 Rappers Who Should Be Crowned As The Greatest Ever</title>
+    <desc lang="en">We welcome the 21 rappers who are simply the best ever.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225103000 +0000" stop="20160225115500 +0000" channel="Kiss TV">
+    <title lang="en">Chunky Beats &amp; Massive R'n'B</title>
+    <desc lang="en">Join us here at Kiss for a collection of chunky beats and massive R'n'B.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>8.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225115500 +0000" stop="20160225120000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225120000 +0000" stop="20160225133000 +0000" channel="Kiss TV">
+    <title lang="en">21 Bumpiest Anthems This Week</title>
+    <desc lang="en">Join us for 21 of the bumpiest anthems of the week! It's going to get lively.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225133000 +0000" stop="20160225140000 +0000" channel="Kiss TV">
+    <title lang="en">Freshly Baked Beats</title>
+    <desc lang="en">We are only bringing you the freshest beats around, still hot from the oven.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225140000 +0000" stop="20160225144500 +0000" channel="Kiss TV">
+    <title lang="en">The Newness! Today's Top 10</title>
+    <desc lang="en">We have only new and fresh hits right here! These are our top 10.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225144500 +0000" stop="20160225155500 +0000" channel="Kiss TV">
+    <title lang="en">Chunky Beats &amp; Massive R'n'B</title>
+    <desc lang="en">Join us here at Kiss for a collection of chunky beats and massive R'n'B.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>8.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225155500 +0000" stop="20160225160000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225160000 +0000" stop="20160225173000 +0000" channel="Kiss TV">
+    <title lang="en">UK HOTLIST Urban</title>
+    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225173000 +0000" stop="20160225185500 +0000" channel="Kiss TV">
+    <title lang="en">Craig David's Hangout</title>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225185500 +0000" stop="20160225190000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225190000 +0000" stop="20160225203000 +0000" channel="Kiss TV">
+    <title lang="en">21 Luv Songs That Changed The Game</title>
+    <desc lang="en">Join us for 21 amazing luv songs that changed the game! Kiss helps you to get romantic.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225203000 +0000" stop="20160225220000 +0000" channel="Kiss TV">
+    <title lang="en">Chunky Beats &amp; Massive R'n'B</title>
+    <desc lang="en">Join us here at Kiss for a collection of chunky beats and massive R'n'B.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>8.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225220000 +0000" stop="20160225225500 +0000" channel="Kiss TV">
+    <title lang="en">Freshly Baked Beats</title>
+    <desc lang="en">We are only bringing you the freshest beats around, still hot from the oven.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160225225500 +0000" stop="20160225230000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">Check out this week's brand new VIP track.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160225230000 +0000" stop="20160226003000 +0000" channel="Kiss TV">
+    <title lang="en">UK HOTLIST Urban</title>
+    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
   </programme>
   <programme start="20160224000000 +0000" stop="20160224235900 +0000" channel="VOX Music Videos">
     <title lang="en">VOX Music Videos</title>
   </programme>
-  <programme start="20160223000000 +0000" stop="20160223235900 +0000" channel="Vevo Nashville Music Videos">
-    <title lang="en">Vevo Nashville Music Videos</title>
+  <programme start="20160225000000 +0000" stop="20160225235900 +0000" channel="VOX Music Videos">
+    <title lang="en">VOX Music Videos</title>
   </programme>
   <programme start="20160224000000 +0000" stop="20160224235900 +0000" channel="Vevo Nashville Music Videos">
     <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
-  <programme start="20160223000000 +0000" stop="20160223235900 +0000" channel="Vevo Flow Music Videos">
-    <title lang="en">Vevo Flow Music Videos</title>
+  <programme start="20160225000000 +0000" stop="20160225235900 +0000" channel="Vevo Nashville Music Videos">
+    <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
   <programme start="20160224000000 +0000" stop="20160224235900 +0000" channel="Vevo Flow Music Videos">
     <title lang="en">Vevo Flow Music Videos</title>
   </programme>
-  <programme start="20160223000000 +0000" stop="20160223235900 +0000" channel="Vevo Hits Music Videos">
-    <title lang="en">Vevo Hits Music Videos</title>
+  <programme start="20160225000000 +0000" stop="20160225235900 +0000" channel="Vevo Flow Music Videos">
+    <title lang="en">Vevo Flow Music Videos</title>
   </programme>
   <programme start="20160224000000 +0000" stop="20160224235900 +0000" channel="Vevo Hits Music Videos">
+    <title lang="en">Vevo Hits Music Videos</title>
+  </programme>
+  <programme start="20160225000000 +0000" stop="20160225235900 +0000" channel="Vevo Hits Music Videos">
     <title lang="en">Vevo Hits Music Videos</title>
   </programme>
 </tv>
