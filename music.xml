@@ -24,118 +24,6 @@
   <channel id="Vevo Hits Music Videos">
     <display-name lang="en">Vevo Hits</display-name>
   </channel>
-  <programme start="20160528060000 +0000" stop="20160528080000 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528080000 +0000" stop="20160528095000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Chart Update</title>
-    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>7.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528095000 +0000" stop="20160528110000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Top 20 Singles Of 2016... So Far</title>
-    <desc lang="en">Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528110000 +0000" stop="20160528113000 +0000" channel="MTV Hits">
-    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528113000 +0000" stop="20160528123000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Chart Update</title>
-    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>7.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528123000 +0000" stop="20160528160000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528160000 +0000" stop="20160528180000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Top 20 Singles Of 2016... So Far</title>
-    <desc lang="en">Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528180000 +0000" stop="20160528200000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Urban Chart</title>
-    <desc lang="en">Tune in to the official urban chart for an exclusive countdown of the week's best selling urban singles. As compiled by The Official Charts Company.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528200000 +0000" stop="20160528210000 +0000" channel="MTV Hits">
-    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528210000 +0000" stop="20160528230000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Download Chart</title>
-    <sub-title lang="en">The Official UK Download Chart.</sub-title>
-    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>8.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528230000 +0000" stop="20160529023000 +0000" channel="MTV Hits">
-    <title lang="en">The Official UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160529023000 +0000" stop="20160529030000 +0000" channel="MTV Hits">
-    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160529030000 +0000" stop="20160529060000 +0000" channel="MTV Hits">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
-    <star-rating>
-      <value>1.9 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20160529060000 +0000" stop="20160529080000 +0000" channel="MTV Hits">
     <title lang="en">Big Fat Hits</title>
     <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
@@ -176,8 +64,8 @@
     </star-rating>
   </programme>
   <programme start="20160529170000 +0000" stop="20160529184500 +0000" channel="MTV Hits">
-    <title lang="en">2016's Official Top 20 Singles From The Boys.</title>
-    <desc lang="en">So Far! Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
+    <title lang="en">2016's Official Top 20 Singles</title>
+    <desc lang="en">Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
   <programme start="20160529184500 +0000" stop="20160529190000 +0000" channel="MTV Hits">
@@ -211,80 +99,96 @@
     <desc lang="en">Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160528060000 +0000" stop="20160528080000 +0000" channel="VH1">
-    <title lang="en">Rise and Shine</title>
-    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
+  <programme start="20160530010000 +0000" stop="20160530030000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
-      <value>10 /10</value>
+      <value>7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160528080000 +0000" stop="20160528090000 +0000" channel="VH1">
-    <title lang="en">10 Reasons To Love Taylor Swift</title>
-    <desc lang="en">We love Taylor, we really do! If you do to, then keep your eyes and ears wide open as we play out a prime selection of her most amazing videos to date.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528090000 +0000" stop="20160528095000 +0000" channel="VH1">
-    <title lang="en">10 Reasons To Love Kelly Clarkson</title>
-    <desc lang="en">Since she's been gone...we've missed her so much! And now that she's back she's got our heart beating again! So celebrate with us as we out a selection of Kelly Clarkson's most amazing songs to date.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528095000 +0000" stop="20160528100000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160528100000 +0000" stop="20160528150000 +0000" channel="VH1">
-    <title lang="en">Should've Been No.1s</title>
-    <desc lang="en">We know everyone loves these songs! And that's why we believe they should've been No.1! Join us as we count down our Top 100 songs we feel are just as worthy for the top spot.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528150000 +0000" stop="20160528185000 +0000" channel="VH1">
-    <title lang="en">Should've Been No.1s</title>
-    <desc lang="en">We know everyone loves these songs! And that's why we believe they should've been No.1! Join us as we count down our Top 100 songs we feel are just as worthy for the top spot.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528185000 +0000" stop="20160528190000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160528190000 +0000" stop="20160528195500 +0000" channel="VH1">
-    <title lang="en">The VH1 Airplay Chart</title>
-    <desc lang="en">Enjoy the latest videos to make it into this week's VH1 Airplay Chart.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528195500 +0000" stop="20160528200000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160528200000 +0000" stop="20160529002500 +0000" channel="VH1">
-    <title lang="en">Walking On Sunshine! 50 Feel Good Favourites</title>
-    <desc lang="en">The summer's finally on its way and we're feeling good, so stay tuned for 50 of our favourite feel good hits especially for you! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160529002500 +0000" stop="20160529010000 +0000" channel="VH1">
-    <title lang="en">Music Never Felt So Good</title>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20160529010000 +0000" stop="20160529030000 +0000" channel="VH1">
-    <title lang="en">Greatest Ever! Duets</title>
-    <desc lang="en">It's all about that moment when 2 become 1 and the magic of music is born! Join us as we're counting down some of our greatest ever duets! Will your favourites make the cut?.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160529030000 +0000" stop="20160529060000 +0000" channel="VH1">
+  <programme start="20160530030000 +0000" stop="20160530060000 +0000" channel="MTV Hits">
     <title lang="en">Teleshopping</title>
     <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
     <category lang="en">Advertisement</category>
     <category lang="en">Shopping</category>
     <star-rating>
       <value>1.9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530060000 +0000" stop="20160530102500 +0000" channel="MTV Hits">
+    <title lang="en">The Official Top 100 Singles Of</title>
+    <desc lang="en">An official run-down of the year's biggest-selling, most-streamed songs so far. If it's been big in 2016, you'll find right here! But who has bagged the prestigious number one spot?.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530102500 +0000" stop="20160530135000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Top 100 Singles Of</title>
+    <desc lang="en">An official run-down of the year's biggest-selling, most-streamed songs so far. If it's been big in 2016, you'll find right here! But who has bagged the prestigious number one spot?.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530135000 +0000" stop="20160530160000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530160000 +0000" stop="20160530174500 +0000" channel="MTV Hits">
+    <title lang="en">2016's Official Top 20 Singles</title>
+    <desc lang="en">Find out who's bagged the biggest selling single so far in 2016, compiled exclusively by the Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530174500 +0000" stop="20160530180000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530180000 +0000" stop="20160530194500 +0000" channel="MTV Hits">
+    <title lang="en">The Official Audio Streaming Chart Top 20</title>
+    <desc lang="en">Be the first to discover who is Number One in the only Official Streaming Chart compiled exclusively by the Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530194500 +0000" stop="20160530200000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530200000 +0000" stop="20160530205000 +0000" channel="MTV Hits">
+    <title lang="en">Official Top 10 Urban Singles of 2016 So Far</title>
+    <desc lang="en">Tune in to an exclusive countdown of the year's best selling top 10 urban singles. As compiled by The Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530205000 +0000" stop="20160530210000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530210000 +0000" stop="20160530213000 +0000" channel="MTV Hits">
+    <title lang="en">Fresh Vidz &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits presents the ultimate blend of the biggest hits right now! Expect nothing but the hottest chart toppers and the brand new vidz that we predict will be massive.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530213000 +0000" stop="20160531010000 +0000" channel="MTV Hits">
+    <title lang="en">The Official UK Top 40</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>4.1 /10</value>
     </star-rating>
   </programme>
   <programme start="20160529060000 +0000" stop="20160529080000 +0000" channel="VH1">
@@ -338,104 +242,45 @@
     <desc lang="en">Enjoy a countdown of the most fabulous American Idols.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160528060000 +0000" stop="20160528095500 +0000" channel="Kiss TV">
-    <title lang="en">Get Up, Twerk Out</title>
-    <desc lang="en">There is no better way to enjoy the morning than with these twerk worthy beats.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528095500 +0000" stop="20160528100000 +0000" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <subtitles />
+  <programme start="20160530030000 +0000" stop="20160530060000 +0000" channel="VH1">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance for viewers to purchase goods from the comfort of home.(n)</desc>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
     <star-rating>
-      <value>6.9 /10</value>
+      <value>1.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160528100000 +0000" stop="20160528110000 +0000" channel="Kiss TV">
-    <title lang="en">£THROWBACK Killer Collabs</title>
-    <desc lang="en">We are taking you back to some of the greatest urban collaborations £THROWBACK.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528110000 +0000" stop="20160528120000 +0000" channel="Kiss TV">
-    <title lang="en">HYPE</title>
-    <desc lang="en">Tune in every week and catch the latest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R&amp;B, Hip Hop and Dance beats exploding right now.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528120000 +0000" stop="20160528133000 +0000" channel="Kiss TV">
-    <title lang="en">Jay-Z &amp; Friends! The Top 20</title>
-    <desc lang="en">Join us for some amazing hits from the incredible Jay-Z and some other superstars.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528133000 +0000" stop="20160528135500 +0000" channel="Kiss TV">
-    <title lang="en">Giants Of The USA</title>
-    <desc lang="en">These stars from across the pond are massive! Join us for a selection of great beats from the USA.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528135500 +0000" stop="20160528140000 +0000" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <subtitles />
-    <star-rating>
-      <value>6.9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528140000 +0000" stop="20160528144500 +0000" channel="Kiss TV">
-    <title lang="en">Official! Rihanna's Most Viewed</title>
-    <desc lang="en">Stay tuned for the definitive guide to Official! Rihanna's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528144500 +0000" stop="20160528150000 +0000" channel="Kiss TV">
-    <title lang="en">The KissMix</title>
-    <desc lang="en">Tune in for our exclusive non-stop mix of the hottest tracks to party-start your night.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528150000 +0000" stop="20160528163000 +0000" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban</title>
-    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20160528163000 +0000" stop="20160528180000 +0000" channel="Kiss TV">
-    <title lang="en">KissMix: Saturday Warm-Up</title>
-    <desc lang="en">Tune in for our exclusive non-stop mix of the hottest club tracks to party-start your Saturday night.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528180000 +0000" stop="20160528220000 +0000" channel="Kiss TV">
-    <title lang="en">Bring The US Party Slammers! Top 50</title>
-    <desc lang="en">We are bringing you the top 50 US party slammers that you need to hear! The party doesn't stop here at Kiss.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20160528220000 +0000" stop="20160529010000 +0000" channel="Kiss TV">
-    <title lang="en">Blazin' Weekend Anthems! Top 40</title>
-    <desc lang="en">Join us for 40 incredible weekend anthems! These are absolutely scorching.(n)</desc>
+  <programme start="20160530060000 +0000" stop="20160530080000 +0000" channel="VH1">
+    <title lang="en">Rise and Shine</title>
+    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
       <value>10 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160529010000 +0000" stop="20160529030000 +0000" channel="Kiss TV">
-    <title lang="en">The KissMix</title>
-    <desc lang="en">Tune in for our exclusive non-stop mix of the hottest tracks to party-start your night.(n)</desc>
+  <programme start="20160530080000 +0000" stop="20160530130000 +0000" channel="VH1">
+    <title lang="en">Nothing Compares 2 U! Power Ballad 20</title>
+    <desc lang="en">Nothing compares to the songs in this powerful top 50.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160529030000 +0000" stop="20160529060000 +0000" channel="Kiss TV">
-    <title lang="en">Kiss In The Night</title>
-    <desc lang="en">Close your day with a great big Kiss! We have the hottest urban beats for you.(n)</desc>
+  <programme start="20160530130000 +0000" stop="20160530150000 +0000" channel="VH1">
+    <title lang="en">Top 20 Laid Back Hits</title>
+    <desc lang="en">Sit back, relax and enjoy a countdown of laid back hits.(n)</desc>
     <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530150000 +0000" stop="20160530200000 +0000" channel="VH1">
+    <title lang="en">Top 50 Feel Good Floorfillers</title>
+    <desc lang="en">Whether you're at your desk, in the kitchen or on the sofa - get ready to dance to these 50 feel good floorfillers.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530200000 +0000" stop="20160531010000 +0000" channel="VH1">
+    <title lang="en">Fab 50! Songs From The Musicals</title>
+    <desc lang="en">Stay tuned to this absolutely fabulous 50, filled with some musical gems that we know you'll love.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>4.3 /10</value>
+    </star-rating>
   </programme>
   <programme start="20160529060000 +0000" stop="20160529095500 +0000" channel="Kiss TV">
     <title lang="en">Get Up, Twerk Out</title>
@@ -586,28 +431,133 @@
     <desc lang="en">Right, it's battle of the decades! Who's got better game? The 00's or the 10's?.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20160528000000 +0000" stop="20160528235900 +0000" channel="VOX Music Videos">
-    <title lang="en">VOX Music Videos</title>
+  <programme start="20160530000000 +0000" stop="20160530013000 +0000" channel="Kiss TV">
+    <title lang="en">£KISS20 Noughtie's vs Tensie's</title>
+    <desc lang="en">It's a decade off! We bring you 20 massive hits to decide who's got the biggest beats, the 00's or 10's?.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530013000 +0000" stop="20160530020000 +0000" channel="Kiss TV">
+    <title lang="en">£KissReload Beyonce</title>
+    <desc lang="en">It is time to wind back the clock on one of our favourite acts here at Kiss! Get ready for some of the best joints from a certain Mrs Beyonce.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530020000 +0000" stop="20160530060000 +0000" channel="Kiss TV">
+    <title lang="en">Kiss In The Night</title>
+    <desc lang="en">Close your day with a great big Kiss! We have the hottest urban beats for you.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530060000 +0000" stop="20160530085500 +0000" channel="Kiss TV">
+    <title lang="en">Get Up, Twerk Out</title>
+    <desc lang="en">There is no better way to enjoy the morning than with these twerk worthy beats.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530085500 +0000" stop="20160530090000 +0000" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <subtitles />
+    <star-rating>
+      <value>6.9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20160530090000 +0000" stop="20160530100000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530100000 +0000" stop="20160530105000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Rihanna's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Rihanna's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530105000 +0000" stop="20160530120000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530120000 +0000" stop="20160530125000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Tinie Tempah's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Tinie Tempah's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530125000 +0000" stop="20160530140000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530140000 +0000" stop="20160530145000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Kanye's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Kanye's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530145000 +0000" stop="20160530160000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530160000 +0000" stop="20160530165000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Breezy's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Breezy's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530165000 +0000" stop="20160530180000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530180000 +0000" stop="20160530185000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Drake's Most Viewed</title>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530185000 +0000" stop="20160530200000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530200000 +0000" stop="20160530205000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Sean Paul's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Sean Paul's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530205000 +0000" stop="20160530220000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530220000 +0000" stop="20160530225000 +0000" channel="Kiss TV">
+    <title lang="en">Official! Nicki Minaj's Most Viewed</title>
+    <desc lang="en">Stay tuned for the definitive guide to Official! Nicki Minaj's most viewed videos across The Box Plus Network from the last 5 years.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20160530225000 +0000" stop="20160531000000 +0000" channel="Kiss TV">
+    <title lang="en">Urban All-Stars 2016</title>
+    <desc lang="en">TBC.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20160529000000 +0000" stop="20160529235900 +0000" channel="VOX Music Videos">
     <title lang="en">VOX Music Videos</title>
   </programme>
-  <programme start="20160528000000 +0000" stop="20160528235900 +0000" channel="Vevo Nashville Music Videos">
-    <title lang="en">Vevo Nashville Music Videos</title>
+  <programme start="20160530000000 +0000" stop="20160530235900 +0000" channel="VOX Music Videos">
+    <title lang="en">VOX Music Videos</title>
   </programme>
   <programme start="20160529000000 +0000" stop="20160529235900 +0000" channel="Vevo Nashville Music Videos">
     <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
-  <programme start="20160528000000 +0000" stop="20160528235900 +0000" channel="Vevo Flow Music Videos">
-    <title lang="en">Vevo Flow Music Videos</title>
+  <programme start="20160530000000 +0000" stop="20160530235900 +0000" channel="Vevo Nashville Music Videos">
+    <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
   <programme start="20160529000000 +0000" stop="20160529235900 +0000" channel="Vevo Flow Music Videos">
     <title lang="en">Vevo Flow Music Videos</title>
   </programme>
-  <programme start="20160528000000 +0000" stop="20160528235900 +0000" channel="Vevo Hits Music Videos">
-    <title lang="en">Vevo Hits Music Videos</title>
+  <programme start="20160530000000 +0000" stop="20160530235900 +0000" channel="Vevo Flow Music Videos">
+    <title lang="en">Vevo Flow Music Videos</title>
   </programme>
   <programme start="20160529000000 +0000" stop="20160529235900 +0000" channel="Vevo Hits Music Videos">
+    <title lang="en">Vevo Hits Music Videos</title>
+  </programme>
+  <programme start="20160530000000 +0000" stop="20160530235900 +0000" channel="Vevo Hits Music Videos">
     <title lang="en">Vevo Hits Music Videos</title>
   </programme>
 </tv>
