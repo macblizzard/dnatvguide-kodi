@@ -39,7 +39,7 @@
   </programme>
   <programme start="20160815050000 -0500" stop="20160815080000 -0500" channel="Fox News Channel HDTV (FNCHD)">
     <title lang="en">FOX &amp; Friends</title>
-    <desc lang="en">A morning show that highlights the latest headlines in news, weather, sports and entertainment, and is known for the cohosts' casual and spontaneous discussions(n)</desc>
+    <desc lang="en">Fox and Friends is a conservative opinion show that begins at 6:00 a.m. Eastern Time with the latest Fox News Live headlines and analyzes the news of the morning. It continues with many different segments including interviews, updates of news stories with correspondents at any number of bureaus, analysis from the hosts, and many different regular morning show segments. Fox &amp; Friends evolved from Fox X-press, Fox New(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/2263.jpg" />
   </programme>
   <programme start="20160815080000 -0500" stop="20160815100000 -0500" channel="Fox News Channel HDTV (FNCHD)">
@@ -138,7 +138,7 @@
   </programme>
   <programme start="20160816050000 -0500" stop="20160816080000 -0500" channel="Fox News Channel HDTV (FNCHD)">
     <title lang="en">FOX &amp; Friends</title>
-    <desc lang="en">A morning show that highlights the latest headlines in news, weather, sports and entertainment, and is known for the cohosts' casual and spontaneous discussions(n)</desc>
+    <desc lang="en">Fox and Friends is a conservative opinion show that begins at 6:00 a.m. Eastern Time with the latest Fox News Live headlines and analyzes the news of the morning. It continues with many different segments including interviews, updates of news stories with correspondents at any number of bureaus, analysis from the hosts, and many different regular morning show segments. Fox &amp; Friends evolved from Fox X-press, Fox New(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/2263.jpg" />
   </programme>
   <programme start="20160816080000 -0500" stop="20160816100000 -0500" channel="Fox News Channel HDTV (FNCHD)">
@@ -211,7 +211,7 @@
     <desc lang="en">Journalist Megyn Kelly analyzes the top news stories of the day and interviews newsmakers(n)</desc>
     <icon src="http://img2.tvtome.com/i/tvp/sm/192662.jpg" />
   </programme>
-  <programme start="20160815060000 +0000" stop="20160815083000 +0000" channel="BBC News">
+  <programme start="20160815060000 +0100" stop="20160815083000 +0100" channel="BBC News">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">Olympic Breakfast.</sub-title>
     <desc lang="en">Round-up of national and international news, plus the latest from the money markets.(n)</desc>
@@ -223,7 +223,7 @@
       <value>1.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815083000 +0000" stop="20160815090000 +0000" channel="BBC News">
+  <programme start="20160815083000 +0100" stop="20160815090000 +0100" channel="BBC News">
     <title lang="en">BBC Business Live</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">A look at the global business stories.(n)</desc>
@@ -233,7 +233,7 @@
       <value>5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815090000 +0000" stop="20160815110000 +0000" channel="BBC News">
+  <programme start="20160815090000 +0100" stop="20160815110000 +0100" channel="BBC News">
     <title lang="en">Victoria Derbyshire</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <category lang="en">News Magazine</category>
@@ -242,7 +242,7 @@
       <value>1.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815110000 +0000" stop="20160815130000 +0000" channel="BBC News">
+  <programme start="20160815110000 +0100" stop="20160815130000 +0100" channel="BBC News">
     <title lang="en">BBC Newsroom Live</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">A chance to stay up to date on the day's leading stories, with the latest breaking news as it happens.(n)</desc>
@@ -252,13 +252,13 @@
       <value>6.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815130000 +0000" stop="20160815133000 +0000" channel="BBC News">
+  <programme start="20160815130000 +0100" stop="20160815133000 +0100" channel="BBC News">
     <title lang="en">BBC News at One; Weather</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <category lang="en">News</category>
     <subtitles />
   </programme>
-  <programme start="20160815133000 +0000" stop="20160815140000 +0000" channel="BBC News">
+  <programme start="20160815133000 +0100" stop="20160815140000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -267,7 +267,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815140000 +0000" stop="20160815150000 +0000" channel="BBC News">
+  <programme start="20160815140000 +0100" stop="20160815150000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -276,7 +276,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815150000 +0000" stop="20160815160000 +0000" channel="BBC News">
+  <programme start="20160815150000 +0100" stop="20160815160000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -285,7 +285,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815160000 +0000" stop="20160815170000 +0000" channel="BBC News">
+  <programme start="20160815160000 +0100" stop="20160815170000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -294,7 +294,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815170000 +0000" stop="20160815180000 +0000" channel="BBC News">
+  <programme start="20160815170000 +0100" stop="20160815180000 +0100" channel="BBC News">
     <title lang="en">BBC News at Five</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">The BBC News at Five O'Clock with in-depth discussions and analysis as well as breaking news.(n)</desc>
@@ -303,7 +303,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815180000 +0000" stop="20160815183000 +0000" channel="BBC News">
+  <programme start="20160815180000 +0100" stop="20160815183000 +0100" channel="BBC News">
     <title lang="en">BBC News at Six</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <category lang="en">News</category>
@@ -311,7 +311,7 @@
       <value>2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815183000 +0000" stop="20160815190000 +0000" channel="BBC News">
+  <programme start="20160815183000 +0100" stop="20160815190000 +0100" channel="BBC News">
     <title lang="en">Olympic Sportsday</title>
     <desc lang="en">A round-up of the day's sports events, including news and results from the Rio Olympics.(n)</desc>
     <category lang="en">Olympics</category>
@@ -319,7 +319,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815190000 +0000" stop="20160815200000 +0000" channel="BBC News">
+  <programme start="20160815190000 +0100" stop="20160815200000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -328,7 +328,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815200000 +0000" stop="20160815203000 +0000" channel="BBC News">
+  <programme start="20160815200000 +0100" stop="20160815203000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -337,7 +337,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815203000 +0000" stop="20160815210000 +0000" channel="BBC News">
+  <programme start="20160815203000 +0100" stop="20160815210000 +0100" channel="BBC News">
     <title lang="en">HARDtalk</title>
     <sub-title lang="en">14/08/2016.</sub-title>
     <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
@@ -346,21 +346,21 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815210000 +0000" stop="20160815213000 +0000" channel="BBC News">
+  <programme start="20160815210000 +0100" stop="20160815213000 +0100" channel="BBC News">
     <title lang="en">Outside Source</title>
     <category lang="en">reserved</category>
     <star-rating>
       <value>2.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815213000 +0000" stop="20160815220000 +0000" channel="BBC News">
+  <programme start="20160815213000 +0100" stop="20160815220000 +0100" channel="BBC News">
     <title lang="en">Outside Source</title>
     <category lang="en">reserved</category>
     <star-rating>
       <value>2.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815220000 +0000" stop="20160815223000 +0000" channel="BBC News">
+  <programme start="20160815220000 +0100" stop="20160815223000 +0100" channel="BBC News">
     <title lang="en">BBC News at Ten</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <category lang="en">News</category>
@@ -368,7 +368,7 @@
       <value>2.4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815223000 +0000" stop="20160815224000 +0000" channel="BBC News">
+  <programme start="20160815223000 +0100" stop="20160815224000 +0100" channel="BBC News">
     <title lang="en">Sportsday</title>
     <desc lang="en">Results and analysis from countrywide events.(n)</desc>
     <category lang="en">General Sports</category>
@@ -376,7 +376,7 @@
       <value>3.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815224000 +0000" stop="20160815230000 +0000" channel="BBC News">
+  <programme start="20160815224000 +0100" stop="20160815230000 +0100" channel="BBC News">
     <title lang="en">The Papers</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">No need to wait until tomorrow morning to see what's in the papers - tune in to BBC News and hear a lively, informed and engaging conversation about the next day's papers.(n)</desc>
@@ -385,7 +385,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815230000 +0000" stop="20160815232500 +0000" channel="BBC News">
+  <programme start="20160815230000 +0100" stop="20160815232500 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -394,7 +394,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815232500 +0000" stop="20160816000000 +0000" channel="BBC News">
+  <programme start="20160815232500 +0100" stop="20160816000000 +0100" channel="BBC News">
     <title lang="en">Newsnight</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">Analysis of the day's events, presented by Evan Davis.(n)</desc>
@@ -405,7 +405,7 @@
       <value>4.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816000000 +0000" stop="20160816003000 +0000" channel="BBC News">
+  <programme start="20160816000000 +0100" stop="20160816003000 +0100" channel="BBC News">
     <title lang="en">Newsday</title>
     <category lang="en">News Magazine</category>
     <category lang="en">Current Affairs</category>
@@ -413,7 +413,7 @@
       <value>2.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816003000 +0000" stop="20160816010000 +0000" channel="BBC News">
+  <programme start="20160816003000 +0100" stop="20160816010000 +0100" channel="BBC News">
     <title lang="en">HARDtalk</title>
     <sub-title lang="en">14/08/2016.</sub-title>
     <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
@@ -422,7 +422,7 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816010000 +0000" stop="20160816013000 +0000" channel="BBC News">
+  <programme start="20160816010000 +0100" stop="20160816013000 +0100" channel="BBC News">
     <title lang="en">Newsday</title>
     <category lang="en">News Magazine</category>
     <category lang="en">Current Affairs</category>
@@ -430,7 +430,7 @@
       <value>2.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816013000 +0000" stop="20160816014500 +0000" channel="BBC News">
+  <programme start="20160816013000 +0100" stop="20160816014500 +0100" channel="BBC News">
     <title lang="en">Asia Business Report</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.(n)</desc>
@@ -440,7 +440,7 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816014500 +0000" stop="20160816020000 +0000" channel="BBC News">
+  <programme start="20160816014500 +0100" stop="20160816020000 +0100" channel="BBC News">
     <title lang="en">Sport Today</title>
     <desc lang="en">News and results from around the world.(n)</desc>
     <category lang="en">General Sports</category>
@@ -448,7 +448,7 @@
       <value>4.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816020000 +0000" stop="20160816023000 +0000" channel="BBC News">
+  <programme start="20160816020000 +0100" stop="20160816023000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -457,7 +457,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816023000 +0000" stop="20160816030000 +0000" channel="BBC News">
+  <programme start="20160816023000 +0100" stop="20160816030000 +0100" channel="BBC News">
     <title lang="en">HARDtalk</title>
     <sub-title lang="en">14/08/2016.</sub-title>
     <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
@@ -466,7 +466,7 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816030000 +0000" stop="20160816033000 +0000" channel="BBC News">
+  <programme start="20160816030000 +0100" stop="20160816033000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -475,7 +475,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816033000 +0000" stop="20160816040000 +0000" channel="BBC News">
+  <programme start="20160816033000 +0100" stop="20160816040000 +0100" channel="BBC News">
     <title lang="en">Reporters</title>
     <sub-title lang="en">13/08/2016.</sub-title>
     <desc lang="en">A weekly showcase of the best reports from the BBC's global network of correspondents.(n)</desc>
@@ -484,7 +484,7 @@
       <value>6.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816040000 +0000" stop="20160816043000 +0000" channel="BBC News">
+  <programme start="20160816040000 +0100" stop="20160816043000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -493,7 +493,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816043000 +0000" stop="20160816050000 +0000" channel="BBC News">
+  <programme start="20160816043000 +0100" stop="20160816050000 +0100" channel="BBC News">
     <title lang="en">HARDtalk</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
@@ -502,7 +502,7 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816050000 +0000" stop="20160816053000 +0000" channel="BBC News">
+  <programme start="20160816050000 +0100" stop="20160816053000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -511,7 +511,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816053000 +0000" stop="20160816054500 +0000" channel="BBC News">
+  <programme start="20160816053000 +0100" stop="20160816054500 +0100" channel="BBC News">
     <title lang="en">World Business Report</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">Financial news.(n)</desc>
@@ -522,7 +522,7 @@
       <value>4.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816054500 +0000" stop="20160816060000 +0000" channel="BBC News">
+  <programme start="20160816054500 +0100" stop="20160816060000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -531,7 +531,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816060000 +0000" stop="20160816083000 +0000" channel="BBC News">
+  <programme start="20160816060000 +0100" stop="20160816083000 +0100" channel="BBC News">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">Olympic Breakfast.</sub-title>
     <desc lang="en">Round-up of national and international news, plus the latest from the money markets.(n)</desc>
@@ -542,7 +542,7 @@
       <value>1.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816083000 +0000" stop="20160816090000 +0000" channel="BBC News">
+  <programme start="20160816083000 +0100" stop="20160816090000 +0100" channel="BBC News">
     <title lang="en">BBC Business Live</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">A look at the global business stories.(n)</desc>
@@ -552,7 +552,7 @@
       <value>5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816090000 +0000" stop="20160816110000 +0000" channel="BBC News">
+  <programme start="20160816090000 +0100" stop="20160816110000 +0100" channel="BBC News">
     <title lang="en">Victoria Derbyshire</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">Daily news and current-affairs programme offering discussion of breaking stories, exclusive interviews and audience interaction via social media.(n)</desc>
@@ -562,7 +562,7 @@
       <value>1.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816110000 +0000" stop="20160816130000 +0000" channel="BBC News">
+  <programme start="20160816110000 +0100" stop="20160816130000 +0100" channel="BBC News">
     <title lang="en">BBC Newsroom Live</title>
     <desc lang="en">A chance to stay up to date on the day's leading stories, with the latest breaking news as it happens.(n)</desc>
     <category lang="en">General News</category>
@@ -571,12 +571,12 @@
       <value>6.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816130000 +0000" stop="20160816133000 +0000" channel="BBC News">
+  <programme start="20160816130000 +0100" stop="20160816133000 +0100" channel="BBC News">
     <title lang="en">BBC News at One; Weather</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20160816133000 +0000" stop="20160816140000 +0000" channel="BBC News">
+  <programme start="20160816133000 +0100" stop="20160816140000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -585,7 +585,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816140000 +0000" stop="20160816150000 +0000" channel="BBC News">
+  <programme start="20160816140000 +0100" stop="20160816150000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -594,7 +594,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816150000 +0000" stop="20160816160000 +0000" channel="BBC News">
+  <programme start="20160816150000 +0100" stop="20160816160000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -603,7 +603,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816160000 +0000" stop="20160816170000 +0000" channel="BBC News">
+  <programme start="20160816160000 +0100" stop="20160816170000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -612,7 +612,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816170000 +0000" stop="20160816180000 +0000" channel="BBC News">
+  <programme start="20160816170000 +0100" stop="20160816180000 +0100" channel="BBC News">
     <title lang="en">BBC News at Five</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">The BBC News at Five O'Clock with in-depth discussions and analysis as well as breaking news.(n)</desc>
@@ -621,7 +621,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816180000 +0000" stop="20160816183000 +0000" channel="BBC News">
+  <programme start="20160816180000 +0100" stop="20160816183000 +0100" channel="BBC News">
     <title lang="en">BBC News at Six</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <category lang="en">News</category>
@@ -629,7 +629,7 @@
       <value>2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816183000 +0000" stop="20160816190000 +0000" channel="BBC News">
+  <programme start="20160816183000 +0100" stop="20160816190000 +0100" channel="BBC News">
     <title lang="en">Olympic Sportsday</title>
     <desc lang="en">A round-up of the day's sports events, including news and results from the Rio Olympics.(n)</desc>
     <category lang="en">Olympics</category>
@@ -637,7 +637,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816190000 +0000" stop="20160816200000 +0000" channel="BBC News">
+  <programme start="20160816190000 +0100" stop="20160816200000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -646,7 +646,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816200000 +0000" stop="20160816203000 +0000" channel="BBC News">
+  <programme start="20160816200000 +0100" stop="20160816203000 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -655,7 +655,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816203000 +0000" stop="20160816210000 +0000" channel="BBC News">
+  <programme start="20160816203000 +0100" stop="20160816210000 +0100" channel="BBC News">
     <title lang="en">HARDtalk</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
@@ -664,21 +664,21 @@
       <value>4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816210000 +0000" stop="20160816213000 +0000" channel="BBC News">
+  <programme start="20160816210000 +0100" stop="20160816213000 +0100" channel="BBC News">
     <title lang="en">Outside Source</title>
     <category lang="en">reserved</category>
     <star-rating>
       <value>2.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816213000 +0000" stop="20160816220000 +0000" channel="BBC News">
+  <programme start="20160816213000 +0100" stop="20160816220000 +0100" channel="BBC News">
     <title lang="en">Outside Source</title>
     <category lang="en">reserved</category>
     <star-rating>
       <value>2.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816220000 +0000" stop="20160816223000 +0000" channel="BBC News">
+  <programme start="20160816220000 +0100" stop="20160816223000 +0100" channel="BBC News">
     <title lang="en">BBC News at Ten</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <category lang="en">News</category>
@@ -686,7 +686,7 @@
       <value>2.4 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816223000 +0000" stop="20160816224000 +0000" channel="BBC News">
+  <programme start="20160816223000 +0100" stop="20160816224000 +0100" channel="BBC News">
     <title lang="en">Sportsday</title>
     <desc lang="en">Results and analysis from countrywide events.(n)</desc>
     <category lang="en">General Sports</category>
@@ -694,7 +694,7 @@
       <value>3.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816224000 +0000" stop="20160816230000 +0000" channel="BBC News">
+  <programme start="20160816224000 +0100" stop="20160816230000 +0100" channel="BBC News">
     <title lang="en">The Papers</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">No need to wait until tomorrow morning to see what's in the papers - tune in to BBC News and hear a lively, informed and engaging conversation about the next day's papers.(n)</desc>
@@ -703,7 +703,7 @@
       <value>1.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816230000 +0000" stop="20160816232500 +0000" channel="BBC News">
+  <programme start="20160816230000 +0100" stop="20160816232500 +0100" channel="BBC News">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
@@ -712,7 +712,7 @@
       <value>3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816232500 +0000" stop="20160817000000 +0000" channel="BBC News">
+  <programme start="20160816232500 +0100" stop="20160817000000 +0100" channel="BBC News">
     <title lang="en">Newsnight</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">Analysis of the day's events, presented by Evan Davis.(n)</desc>
@@ -723,7 +723,7 @@
       <value>4.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815060000 +0000" stop="20160815063000 +0000" channel="Sky News">
+  <programme start="20160815060000 +0100" stop="20160815063000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -731,7 +731,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815063000 +0000" stop="20160815070000 +0000" channel="Sky News">
+  <programme start="20160815063000 +0100" stop="20160815070000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -739,7 +739,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815070000 +0000" stop="20160815073000 +0000" channel="Sky News">
+  <programme start="20160815070000 +0100" stop="20160815073000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -747,7 +747,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815073000 +0000" stop="20160815080000 +0000" channel="Sky News">
+  <programme start="20160815073000 +0100" stop="20160815080000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -755,7 +755,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815080000 +0000" stop="20160815083000 +0000" channel="Sky News">
+  <programme start="20160815080000 +0100" stop="20160815083000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -763,7 +763,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815083000 +0000" stop="20160815090000 +0000" channel="Sky News">
+  <programme start="20160815083000 +0100" stop="20160815090000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -771,7 +771,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815090000 +0000" stop="20160815093000 +0000" channel="Sky News">
+  <programme start="20160815090000 +0100" stop="20160815093000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -780,7 +780,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815093000 +0000" stop="20160815100000 +0000" channel="Sky News">
+  <programme start="20160815093000 +0100" stop="20160815100000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -789,7 +789,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815100000 +0000" stop="20160815103000 +0000" channel="Sky News">
+  <programme start="20160815100000 +0100" stop="20160815103000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -798,7 +798,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815103000 +0000" stop="20160815110000 +0000" channel="Sky News">
+  <programme start="20160815103000 +0100" stop="20160815110000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -807,7 +807,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815110000 +0000" stop="20160815113000 +0000" channel="Sky News">
+  <programme start="20160815110000 +0100" stop="20160815113000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -816,7 +816,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815113000 +0000" stop="20160815120000 +0000" channel="Sky News">
+  <programme start="20160815113000 +0100" stop="20160815120000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -825,7 +825,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815120000 +0000" stop="20160815123000 +0000" channel="Sky News">
+  <programme start="20160815120000 +0100" stop="20160815123000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -834,7 +834,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815123000 +0000" stop="20160815130000 +0000" channel="Sky News">
+  <programme start="20160815123000 +0100" stop="20160815130000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -843,7 +843,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815130000 +0000" stop="20160815133000 +0000" channel="Sky News">
+  <programme start="20160815130000 +0100" stop="20160815133000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -852,7 +852,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815133000 +0000" stop="20160815140000 +0000" channel="Sky News">
+  <programme start="20160815133000 +0100" stop="20160815140000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -861,7 +861,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815140000 +0000" stop="20160815143000 +0000" channel="Sky News">
+  <programme start="20160815140000 +0100" stop="20160815143000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -870,7 +870,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815143000 +0000" stop="20160815150000 +0000" channel="Sky News">
+  <programme start="20160815143000 +0100" stop="20160815150000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -879,7 +879,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815150000 +0000" stop="20160815153000 +0000" channel="Sky News">
+  <programme start="20160815150000 +0100" stop="20160815153000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -888,7 +888,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815153000 +0000" stop="20160815160000 +0000" channel="Sky News">
+  <programme start="20160815153000 +0100" stop="20160815160000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -897,7 +897,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815160000 +0000" stop="20160815163000 +0000" channel="Sky News">
+  <programme start="20160815160000 +0100" stop="20160815163000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -906,7 +906,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815163000 +0000" stop="20160815170000 +0000" channel="Sky News">
+  <programme start="20160815163000 +0100" stop="20160815170000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -915,7 +915,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815170000 +0000" stop="20160815173000 +0000" channel="Sky News">
+  <programme start="20160815170000 +0100" stop="20160815173000 +0100" channel="Sky News">
     <title lang="en">Sky News at 5 with Jeremy Thompson</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -924,7 +924,7 @@
       <value>1.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815173000 +0000" stop="20160815180000 +0000" channel="Sky News">
+  <programme start="20160815173000 +0100" stop="20160815180000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, presented by Jeremy Thompson.(n)</desc>
     <category lang="en">General News</category>
@@ -933,7 +933,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815180000 +0000" stop="20160815183000 +0000" channel="Sky News">
+  <programme start="20160815180000 +0100" stop="20160815183000 +0100" channel="Sky News">
     <title lang="en">Sky News at 6 with Jeremy Thompson</title>
     <desc lang="en">Interviews and debates on the day's major stories. Plus, a weather report.(n)</desc>
     <category lang="en">General News</category>
@@ -942,7 +942,7 @@
       <value>7.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815183000 +0000" stop="20160815190000 +0000" channel="Sky News">
+  <programme start="20160815183000 +0100" stop="20160815190000 +0100" channel="Sky News">
     <title lang="en">Ian King Live</title>
     <sub-title lang="en">15/08/2016.</sub-title>
     <desc lang="en">All the day's business news live from Sky's City of London studio, with Ian King.(n)</desc>
@@ -952,7 +952,7 @@
       <value>6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815190000 +0000" stop="20160815193000 +0000" channel="Sky News">
+  <programme start="20160815190000 +0100" stop="20160815193000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -961,7 +961,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815193000 +0000" stop="20160815200000 +0000" channel="Sky News">
+  <programme start="20160815193000 +0100" stop="20160815200000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -970,7 +970,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815200000 +0000" stop="20160815203000 +0000" channel="Sky News">
+  <programme start="20160815200000 +0100" stop="20160815203000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -979,7 +979,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815203000 +0000" stop="20160815210000 +0000" channel="Sky News">
+  <programme start="20160815203000 +0100" stop="20160815210000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -988,7 +988,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815210000 +0000" stop="20160815213000 +0000" channel="Sky News">
+  <programme start="20160815210000 +0100" stop="20160815213000 +0100" channel="Sky News">
     <title lang="en">Sky News at Nine</title>
     <desc lang="en">A round-up of the stories that have hit the headlines today, featuring reports from correspondents around the world. Presented by Anna Botting.(n)</desc>
     <category lang="en">News</category>
@@ -996,7 +996,7 @@
       <value>3.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815213000 +0000" stop="20160815220000 +0000" channel="Sky News">
+  <programme start="20160815213000 +0100" stop="20160815220000 +0100" channel="Sky News">
     <title lang="en">News, Sport, Weather</title>
     <desc lang="en">Round-up of the latest news and sports headlines, plus weather forecasts.(n)</desc>
     <category lang="en">News</category>
@@ -1004,7 +1004,7 @@
       <value>4.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815220000 +0000" stop="20160815223000 +0000" channel="Sky News">
+  <programme start="20160815220000 +0100" stop="20160815223000 +0100" channel="Sky News">
     <title lang="en">Sky News at Ten</title>
     <desc lang="en">A round-up of the stories that have hit the headlines today, with Anna Botting.(n)</desc>
     <category lang="en">National News</category>
@@ -1012,7 +1012,7 @@
       <value>5.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815223000 +0000" stop="20160815230000 +0000" channel="Sky News">
+  <programme start="20160815223000 +0100" stop="20160815230000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">15/08/2016 - 1.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
@@ -1022,7 +1022,7 @@
       <value>4.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815230000 +0000" stop="20160815233000 +0000" channel="Sky News">
+  <programme start="20160815230000 +0100" stop="20160815233000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories.(n)</desc>
     <category lang="en">General News</category>
@@ -1031,7 +1031,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160815233000 +0000" stop="20160816000000 +0000" channel="Sky News">
+  <programme start="20160815233000 +0100" stop="20160816000000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">15/08/2016 - 2.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
@@ -1041,7 +1041,7 @@
       <value>4.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816000000 +0000" stop="20160816003000 +0000" channel="Sky News">
+  <programme start="20160816000000 +0100" stop="20160816003000 +0100" channel="Sky News">
     <title lang="en">Sky Midnight News</title>
     <desc lang="en">Update on the day's headlines, plus a weather report.(n)</desc>
     <category lang="en">News</category>
@@ -1050,7 +1050,7 @@
       <value>2.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816003000 +0000" stop="20160816010000 +0000" channel="Sky News">
+  <programme start="20160816003000 +0100" stop="20160816010000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">15/08/2016 - 2.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
@@ -1060,12 +1060,12 @@
       <value>4.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816010000 +0000" stop="20160816013000 +0000" channel="Sky News">
+  <programme start="20160816010000 +0100" stop="20160816013000 +0100" channel="Sky News">
     <title lang="en">Sky News on the Hour</title>
     <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20160816013000 +0000" stop="20160816020000 +0000" channel="Sky News">
+  <programme start="20160816013000 +0100" stop="20160816020000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">15/08/2016 - 2.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
@@ -1075,12 +1075,12 @@
       <value>4.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816020000 +0000" stop="20160816023000 +0000" channel="Sky News">
+  <programme start="20160816020000 +0100" stop="20160816023000 +0100" channel="Sky News">
     <title lang="en">Sky News on the Hour</title>
     <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20160816023000 +0000" stop="20160816030000 +0000" channel="Sky News">
+  <programme start="20160816023000 +0100" stop="20160816030000 +0100" channel="Sky News">
     <title lang="en">CBS News</title>
     <desc lang="en">The main evening bulletin from the leading US network, featuring headlines from across the Atlantic and around the world.(n)</desc>
     <category lang="en">News</category>
@@ -1088,7 +1088,7 @@
       <value>5.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816030000 +0000" stop="20160816033000 +0000" channel="Sky News">
+  <programme start="20160816030000 +0100" stop="20160816033000 +0100" channel="Sky News">
     <title lang="en">Sky World News</title>
     <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
     <category lang="en">News</category>
@@ -1096,7 +1096,7 @@
       <value>4.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816033000 +0000" stop="20160816040000 +0000" channel="Sky News">
+  <programme start="20160816033000 +0100" stop="20160816040000 +0100" channel="Sky News">
     <title lang="en">Sky World Review &amp; Business Report</title>
     <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
     <category lang="en">News</category>
@@ -1104,7 +1104,7 @@
       <value>5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816040000 +0000" stop="20160816043000 +0000" channel="Sky News">
+  <programme start="20160816040000 +0100" stop="20160816043000 +0100" channel="Sky News">
     <title lang="en">Sky World News</title>
     <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
     <category lang="en">News</category>
@@ -1112,7 +1112,7 @@
       <value>4.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816043000 +0000" stop="20160816050000 +0000" channel="Sky News">
+  <programme start="20160816043000 +0100" stop="20160816050000 +0100" channel="Sky News">
     <title lang="en">Sky World Review &amp; Business Report</title>
     <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
     <category lang="en">News</category>
@@ -1120,7 +1120,7 @@
       <value>5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816050000 +0000" stop="20160816053000 +0000" channel="Sky News">
+  <programme start="20160816050000 +0100" stop="20160816053000 +0100" channel="Sky News">
     <title lang="en">Sky World News</title>
     <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
     <category lang="en">News</category>
@@ -1128,7 +1128,7 @@
       <value>4.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816053000 +0000" stop="20160816060000 +0000" channel="Sky News">
+  <programme start="20160816053000 +0100" stop="20160816060000 +0100" channel="Sky News">
     <title lang="en">Sky World Review &amp; Business Report</title>
     <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
     <category lang="en">News</category>
@@ -1136,7 +1136,7 @@
       <value>5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816060000 +0000" stop="20160816063000 +0000" channel="Sky News">
+  <programme start="20160816060000 +0100" stop="20160816063000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1144,7 +1144,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816063000 +0000" stop="20160816070000 +0000" channel="Sky News">
+  <programme start="20160816063000 +0100" stop="20160816070000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1152,7 +1152,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816070000 +0000" stop="20160816073000 +0000" channel="Sky News">
+  <programme start="20160816070000 +0100" stop="20160816073000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1160,7 +1160,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816073000 +0000" stop="20160816080000 +0000" channel="Sky News">
+  <programme start="20160816073000 +0100" stop="20160816080000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1168,7 +1168,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816080000 +0000" stop="20160816083000 +0000" channel="Sky News">
+  <programme start="20160816080000 +0100" stop="20160816083000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1176,7 +1176,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816083000 +0000" stop="20160816090000 +0000" channel="Sky News">
+  <programme start="20160816083000 +0100" stop="20160816090000 +0100" channel="Sky News">
     <title lang="en">Sunrise</title>
     <desc lang="en">Round-up of national and international news, presented by Eamonn Holmes.(n)</desc>
     <category lang="en">News</category>
@@ -1184,7 +1184,7 @@
       <value>3.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816090000 +0000" stop="20160816093000 +0000" channel="Sky News">
+  <programme start="20160816090000 +0100" stop="20160816093000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1193,7 +1193,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816093000 +0000" stop="20160816100000 +0000" channel="Sky News">
+  <programme start="20160816093000 +0100" stop="20160816100000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1202,7 +1202,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816100000 +0000" stop="20160816103000 +0000" channel="Sky News">
+  <programme start="20160816100000 +0100" stop="20160816103000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1211,7 +1211,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816103000 +0000" stop="20160816110000 +0000" channel="Sky News">
+  <programme start="20160816103000 +0100" stop="20160816110000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1220,7 +1220,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816110000 +0000" stop="20160816113000 +0000" channel="Sky News">
+  <programme start="20160816110000 +0100" stop="20160816113000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1229,7 +1229,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816113000 +0000" stop="20160816120000 +0000" channel="Sky News">
+  <programme start="20160816113000 +0100" stop="20160816120000 +0100" channel="Sky News">
     <title lang="en">Sky News with Colin Brazier</title>
     <desc lang="en">Colin Brazier and Jayne Secker present an overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1238,7 +1238,7 @@
       <value>9.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816120000 +0000" stop="20160816123000 +0000" channel="Sky News">
+  <programme start="20160816120000 +0100" stop="20160816123000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1247,7 +1247,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816123000 +0000" stop="20160816130000 +0000" channel="Sky News">
+  <programme start="20160816123000 +0100" stop="20160816130000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1256,7 +1256,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816130000 +0000" stop="20160816133000 +0000" channel="Sky News">
+  <programme start="20160816130000 +0100" stop="20160816133000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1265,7 +1265,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816133000 +0000" stop="20160816140000 +0000" channel="Sky News">
+  <programme start="20160816133000 +0100" stop="20160816140000 +0100" channel="Sky News">
     <title lang="en">Sky News with Dermot Murnaghan</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1274,7 +1274,7 @@
       <value>0 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816140000 +0000" stop="20160816143000 +0000" channel="Sky News">
+  <programme start="20160816140000 +0100" stop="20160816143000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1283,7 +1283,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816143000 +0000" stop="20160816150000 +0000" channel="Sky News">
+  <programme start="20160816143000 +0100" stop="20160816150000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1292,7 +1292,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816150000 +0000" stop="20160816153000 +0000" channel="Sky News">
+  <programme start="20160816150000 +0100" stop="20160816153000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1301,7 +1301,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816153000 +0000" stop="20160816160000 +0000" channel="Sky News">
+  <programme start="20160816153000 +0100" stop="20160816160000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1310,7 +1310,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816160000 +0000" stop="20160816163000 +0000" channel="Sky News">
+  <programme start="20160816160000 +0100" stop="20160816163000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1319,7 +1319,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816163000 +0000" stop="20160816170000 +0000" channel="Sky News">
+  <programme start="20160816163000 +0100" stop="20160816170000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
     <category lang="en">General News</category>
@@ -1328,7 +1328,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816170000 +0000" stop="20160816173000 +0000" channel="Sky News">
+  <programme start="20160816170000 +0100" stop="20160816173000 +0100" channel="Sky News">
     <title lang="en">Sky News at 5 with Jeremy Thompson</title>
     <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
     <category lang="en">General News</category>
@@ -1337,7 +1337,7 @@
       <value>1.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816173000 +0000" stop="20160816180000 +0000" channel="Sky News">
+  <programme start="20160816173000 +0100" stop="20160816180000 +0100" channel="Sky News">
     <title lang="en">Sky News</title>
     <desc lang="en">A summary of the latest news headlines, presented by Jeremy Thompson.(n)</desc>
     <category lang="en">General News</category>
@@ -1346,7 +1346,7 @@
       <value>6.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816180000 +0000" stop="20160816183000 +0000" channel="Sky News">
+  <programme start="20160816180000 +0100" stop="20160816183000 +0100" channel="Sky News">
     <title lang="en">Sky News at 6 with Jeremy Thompson</title>
     <desc lang="en">Interviews and debates on the day's major stories. Plus, a weather report.(n)</desc>
     <category lang="en">General News</category>
@@ -1355,7 +1355,7 @@
       <value>7.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816183000 +0000" stop="20160816190000 +0000" channel="Sky News">
+  <programme start="20160816183000 +0100" stop="20160816190000 +0100" channel="Sky News">
     <title lang="en">Ian King Live</title>
     <sub-title lang="en">16/08/2016.</sub-title>
     <desc lang="en">All the day's business news live from Sky's City of London studio, with Ian King.(n)</desc>
@@ -1365,7 +1365,7 @@
       <value>6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816190000 +0000" stop="20160816193000 +0000" channel="Sky News">
+  <programme start="20160816190000 +0100" stop="20160816193000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -1374,7 +1374,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816193000 +0000" stop="20160816200000 +0000" channel="Sky News">
+  <programme start="20160816193000 +0100" stop="20160816200000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -1383,7 +1383,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816200000 +0000" stop="20160816203000 +0000" channel="Sky News">
+  <programme start="20160816200000 +0100" stop="20160816203000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -1392,7 +1392,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816203000 +0000" stop="20160816210000 +0000" channel="Sky News">
+  <programme start="20160816203000 +0100" stop="20160816210000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories, presented by Adam Boulton and Sarah Hewson.(n)</desc>
     <category lang="en">General News</category>
@@ -1401,7 +1401,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816210000 +0000" stop="20160816213000 +0000" channel="Sky News">
+  <programme start="20160816210000 +0100" stop="20160816213000 +0100" channel="Sky News">
     <title lang="en">Sky News at Nine</title>
     <desc lang="en">A round-up of the stories that have hit the headlines today, featuring reports from correspondents around the world. Presented by Anna Botting.(n)</desc>
     <category lang="en">News</category>
@@ -1409,7 +1409,7 @@
       <value>3.7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816213000 +0000" stop="20160816220000 +0000" channel="Sky News">
+  <programme start="20160816213000 +0100" stop="20160816220000 +0100" channel="Sky News">
     <title lang="en">News, Sport, Weather</title>
     <desc lang="en">Round-up of the latest news and sports headlines, plus weather forecasts.(n)</desc>
     <category lang="en">News</category>
@@ -1417,7 +1417,7 @@
       <value>4.5 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816220000 +0000" stop="20160816223000 +0000" channel="Sky News">
+  <programme start="20160816220000 +0100" stop="20160816223000 +0100" channel="Sky News">
     <title lang="en">Sky News at Ten</title>
     <desc lang="en">A round-up of the stories that have hit the headlines today, with Anna Botting.(n)</desc>
     <category lang="en">National News</category>
@@ -1425,7 +1425,7 @@
       <value>5.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816223000 +0000" stop="20160816230000 +0000" channel="Sky News">
+  <programme start="20160816223000 +0100" stop="20160816230000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">16/08/2016 - 1.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
@@ -1435,7 +1435,7 @@
       <value>4.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816230000 +0000" stop="20160816233000 +0000" channel="Sky News">
+  <programme start="20160816230000 +0100" stop="20160816233000 +0100" channel="Sky News">
     <title lang="en">Sky News Tonight</title>
     <desc lang="en">A round-up of the day's major stories.(n)</desc>
     <category lang="en">General News</category>
@@ -1444,7 +1444,7 @@
       <value>4.6 /10</value>
     </star-rating>
   </programme>
-  <programme start="20160816233000 +0000" stop="20160817000000 +0000" channel="Sky News">
+  <programme start="20160816233000 +0100" stop="20160817000000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">16/08/2016 - 2.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers.(n)</desc>
