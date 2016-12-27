@@ -24,96 +24,6 @@
   <channel id="Vevo Hits Music Videos">
     <display-name lang="en">Vevo Hits</display-name>
   </channel>
-  <programme start="20161226060000 +0000" stop="20161226071500 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20161226071500 +0000" stop="20161226080000 +0000" channel="MTV Hits">
-    <title lang="en">2015: All The Number 1s</title>
-    <desc lang="en">As 2015 is drawing to an end we take a look at the songs that have made it to the giddy heights of chart-topping success; it's the Number Ones of 2015.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226080000 +0000" stop="20161226090000 +0000" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226090000 +0000" stop="20161226134500 +0000" channel="MTV Hits">
-    <title lang="en">The Official Top 100 Singles Of 2016.</title>
-    <desc lang="en">So Far! We use official charts stats to bring you the definitive countdown of the biggest and best singles of 2016 so far! What will be Number 1? Tune in to find out.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226134500 +0000" stop="20161226170000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Top 100 Singles Of 2016.</title>
-    <desc lang="en">So Far! We use official charts stats to bring you the definitive countdown of the biggest and best singles of 2016 so far! What will be Number 1? Tune in to find out.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226170000 +0000" stop="20161226180000 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20161226180000 +0000" stop="20161226200000 +0000" channel="MTV Hits">
-    <title lang="en">The Official Top 20 Download Singles Of 2016</title>
-    <desc lang="en">Join us as we count down the 20 biggest Downloads of the year, based purely on sales and streaming data provided by The Official Charts Company.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226200000 +0000" stop="20161226205000 +0000" channel="MTV Hits">
-    <title lang="en">MTV Trax Trending Chart</title>
-    <desc lang="en">Find out which songs have been trending on MTV's very own music app 'MTV Trax' - This is the MTV Trax Trending Chart.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20161226205000 +0000" stop="20161226205500 +0000" channel="MTV Hits">
-    <title lang="en">Lady Gaga: Brand New Vid</title>
-    <desc lang="en">Check out the brand new official video for Lady Gaga's 'Million Reasons' - the second single from her fifth hit album 'Joanne'.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226205500 +0000" stop="20161226210000 +0000" channel="MTV Hits">
-    <title lang="en">Brand New Vid</title>
-    <desc lang="en">Here it is people, the vid for this year's X Factor winner! Matt Terry with the Ed Sheeran-penned 'When Christmas Comes Around'.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20161226210000 +0000" stop="20161226213000 +0000" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226213000 +0000" stop="20161227005500 +0000" channel="MTV Hits">
-    <title lang="en">The Official Christmas UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official Christmas UK Number One spot.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20161227005500 +0000" stop="20161227030000 +0000" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20161227030000 +0000" stop="20161227060000 +0000" channel="MTV Hits">
-    <title lang="en">Teleshopping</title>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
-    <star-rating>
-      <value>1.9 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20161227060000 +0000" stop="20161227071500 +0000" channel="MTV Hits">
     <title lang="en">Big Fat Hits</title>
     <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
@@ -217,61 +127,88 @@
     <desc lang="en">As 2015 is drawing to an end we take a look at the songs that have made it to the giddy heights of chart-topping success; it's the Number Ones of 2015.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161226060000 +0000" stop="20161226080000 +0000" channel="VH1">
-    <title lang="en">Rise and Shine</title>
-    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
+  <programme start="20161228000000 +0000" stop="20161228010000 +0000" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228010000 +0000" stop="20161228030000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
-      <value>6 /10</value>
+      <value>7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20161226080000 +0000" stop="20161226122000 +0000" channel="VH1">
-    <title lang="en">Breathtaking Boxing Day Ballads</title>
-    <desc lang="en">These songs will set your heart alight, make your tear ducts pour and take your breath away. Enjoy these breathtaking boxing day ballads.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226122000 +0000" stop="20161226130000 +0000" channel="VH1">
-    <title lang="en">Biggest No.1 Singles</title>
-    <desc lang="en">Take a look the biggest No.1 Singles that we all love.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226130000 +0000" stop="20161226140000 +0000" channel="VH1">
-    <title lang="en">10 Reasons To Love 2016</title>
-    <desc lang="en">It's been a topsy-turvy year with plenty of ups and downs, but we've managed to bring together ten reasons to love 2016. Check out the songs that have helped make 2016 what it is.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226140000 +0000" stop="20161226172500 +0000" channel="VH1">
-    <title lang="en">The 40 Greatest Albums Of The 21st Century</title>
-    <desc lang="en">It's time for the definitive countdown of the 40 greatest albums of this century! It's an amazing list populated with instant classics. Tune in to see if your fave made it.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226172500 +0000" stop="20161226180000 +0000" channel="VH1">
-    <title lang="en">Biggest No.1 Singles</title>
-    <desc lang="en">Take a look the biggest No.1 Singles that we all love.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226180000 +0000" stop="20161226200500 +0000" channel="VH1">
-    <title lang="en">LeAnn Rimes' Greatest Movie Hits</title>
-    <desc lang="en">The lovely LeAnn Rimes is here playing her favourite songs from the biggest flicks to hit the silver screen! Expect classic tracks from Titanic, Dirty Dancing, Grease and, of course, Coyote Ugly.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226200500 +0000" stop="20161227004500 +0000" channel="VH1">
-    <title lang="en">Greatest Ever! Duets</title>
-    <desc lang="en">It's all about that moment when 2 become 1 and the magic of music is born! Join us as we're counting down some of our greatest ever duets! Will your favourites make the cut?.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161227004500 +0000" stop="20161227030000 +0000" channel="VH1">
-    <title lang="en">Songs To Get Cozy To</title>
-    <desc lang="en">While we wait for summer to come back round, check out our selection of songs which'll keep you nice and snug! Think of it as your very own musical hot water bottle.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161227030000 +0000" stop="20161227060000 +0000" channel="VH1">
+  <programme start="20161228030000 +0000" stop="20161228060000 +0000" channel="MTV Hits">
     <title lang="en">Teleshopping</title>
     <category lang="en">Advertisement</category>
     <category lang="en">Shopping</category>
     <star-rating>
       <value>1.9 /10</value>
     </star-rating>
+  </programme>
+  <programme start="20161228060000 +0000" stop="20161228070000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228070000 +0000" stop="20161228080000 +0000" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228080000 +0000" stop="20161228112500 +0000" channel="MTV Hits">
+    <title lang="en">The Official Top 40 Singles Of 2016</title>
+    <desc lang="en">Join us as we use count down the 40 biggest and best songs of the year, based purely on sales and streaming data provided by The Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228112500 +0000" stop="20161228123000 +0000" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228123000 +0000" stop="20161228160000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Christmas UK Top 40</title>
+    <desc lang="en">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official Christmas UK Number One spot.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228160000 +0000" stop="20161228173500 +0000" channel="MTV Hits">
+    <title lang="en">Official 20 Dance Singles Of 2016</title>
+    <desc lang="en">Your full countdown of the 20 biggest-selling &amp; most-streamed Dance songs of 2016, as compiled by The Official Charts Company. Who will take the number 1 spot?.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228173500 +0000" stop="20161228180000 +0000" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228180000 +0000" stop="20161228200000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Top 20 Download Singles Of 2016</title>
+    <desc lang="en">Join us as we count down the 20 biggest Downloads of the year, based purely on sales and streaming data provided by The Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228200000 +0000" stop="20161228233000 +0000" channel="MTV Hits">
+    <title lang="en">The Official Christmas UK Top 40</title>
+    <desc lang="en">Exclusive first look at the biggest-selling songs of the week as we reveal the winners and losers of the race to the Official Christmas UK Number One spot.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228233000 +0000" stop="20161229000000 +0000" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20161227060000 +0000" stop="20161227080000 +0000" channel="VH1">
     <title lang="en">Rise and Shine</title>
@@ -336,72 +273,60 @@
     <desc lang="en">Join us as we reveal the 20 biggest voices of VH1! Expect some moving performances by Beyonce, Bruno Mars, P!nk and many more of your favourite VH1 artists.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161226060000 +0000" stop="20161226070000 +0000" channel="Kiss TV">
-    <title lang="en">Boxing Day Beats</title>
-    <desc lang="en">Here at Kiss we hope you had a perfect Christmas! Make your Boxing Day even better we some urban beats.(n)</desc>
+  <programme start="20161228005000 +0000" stop="20161228030000 +0000" channel="VH1">
+    <title lang="en">Songs To Get Cozy To</title>
+    <desc lang="en">While we wait for summer to come back round, check out our selection of songs which'll keep you nice and snug! Think of it as your very own musical hot water bottle.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161226070000 +0000" stop="20161226081500 +0000" channel="Kiss TV">
-    <title lang="en">Top 20 Hot Baes Who Slayed 2016</title>
-    <desc lang="en">Here come the girls! All the girls that ruled 2016, check out the Top 20 right here.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226081500 +0000" stop="20161226090000 +0000" channel="Kiss TV">
-    <title lang="en">Boxing Day Beats</title>
-    <desc lang="en">Here at Kiss we hope you had a perfect Christmas! Make your Boxing Day even better we some urban beats.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226090000 +0000" stop="20161226120000 +0000" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban Chart of 2016: Top 40</title>
-    <desc lang="en">Andrea Zara counts down the UK's 40 hottest urban beats of the year, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226120000 +0000" stop="20161226133000 +0000" channel="Kiss TV">
-    <title lang="en">Top 20 R'n'B Stars of 2016</title>
-    <desc lang="en">All the brightest stars of RnB in 2016, check out the Top 20 right here.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226133000 +0000" stop="20161226140000 +0000" channel="Kiss TV">
-    <title lang="en">Boxing Day Beats</title>
-    <desc lang="en">Here at Kiss we hope you had a perfect Christmas! Make your Boxing Day even better we some urban beats.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226140000 +0000" stop="20161226180000 +0000" channel="Kiss TV">
-    <title lang="en">Official! R'n'B &amp; Dance Hits of 2016: Top 50</title>
-    <desc lang="en">Top 50. Bringing you all of the best RnB and Dance hits from 2016, all in one place.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226180000 +0000" stop="20161226210000 +0000" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban Chart of 2016: Top 40</title>
-    <desc lang="en">Andrea Zara counts down the UK's 40 hottest urban beats of the year, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226210000 +0000" stop="20161226220000 +0000" channel="Kiss TV">
-    <title lang="en">Boxing Day Beats</title>
-    <desc lang="en">Here at Kiss we hope you had a perfect Christmas! Make your Boxing Day even better we some urban beats.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20161226220000 +0000" stop="20161226230000 +0000" channel="Kiss TV">
-    <title lang="en">HYPE</title>
-    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats that exploded this year.(n)</desc>
-    <category lang="en">reserved</category>
+  <programme start="20161228030000 +0000" stop="20161228060000 +0000" channel="VH1">
+    <title lang="en">Teleshopping</title>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
     <star-rating>
-      <value>6.3 /10</value>
+      <value>1.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20161226230000 +0000" stop="20161227003000 +0000" channel="Kiss TV">
-    <title lang="en">Top 20 Hot R'n'B Tunes of 2016</title>
-    <desc lang="en">2016 was a great year for R'N'B. We count down 20 of the hottest.(n)</desc>
+  <programme start="20161228060000 +0000" stop="20161228080000 +0000" channel="VH1">
+    <title lang="en">Rise and Shine</title>
+    <desc lang="en">Wake up with VH1 - join us for a collection of uplifting hits guaranteed to put a spring in your step for the whole day.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228080000 +0000" stop="20161228113000 +0000" channel="VH1">
+    <title lang="en">The 40 Greatest Albums Of The 21st Century</title>
+    <desc lang="en">It's time for the definitive countdown of the 40 greatest albums of this century! It's an amazing list populated with instant classics. Tune in to see if your fave made it.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161227003000 +0000" stop="20161227020000 +0000" channel="Kiss TV">
-    <title lang="en">KissMix: Hugest Tunes of 2016</title>
-    <desc lang="en">Tune in for our exclusive non-stop mix of the hugest tracks of the year to party-start your night.(n)</desc>
+  <programme start="20161228113000 +0000" stop="20161228120000 +0000" channel="VH1">
+    <title lang="en">Biggest No.1 Singles</title>
+    <desc lang="en">Take a look the biggest No.1 Singles that we all love.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161227020000 +0000" stop="20161227060000 +0000" channel="Kiss TV">
-    <title lang="en">Up All Night! Kiss Beats</title>
-    <desc lang="en">Let the world sleep! But here at Kiss we are still up, still delivering the finest beats for your nocturnal jam.(n)</desc>
+  <programme start="20161228120000 +0000" stop="20161228170000 +0000" channel="VH1">
+    <title lang="en">Should've Been No.1</title>
+    <desc lang="en">We know everyone loves these songs! And that's why we believe they should've been No.1! Join us as we count down our Top 100 songs we feel are just as worthy for the top spot.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228170000 +0000" stop="20161228204500 +0000" channel="VH1">
+    <title lang="en">Should've Been No.1</title>
+    <desc lang="en">We know everyone loves these songs! And that's why we believe they should've been No.1! Join us as we count down our Top 100 songs we feel are just as worthy for the top spot.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228204500 +0000" stop="20161228210000 +0000" channel="VH1">
+    <title lang="en">The Best Of VH1</title>
+    <desc lang="en">We have delved deep into the archives to give you the best of VH1.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228210000 +0000" stop="20161228230000 +0000" channel="VH1">
+    <title lang="en">Sing-a-long With 2016</title>
+    <desc lang="en">These are all the tracks that have made you wanna drop what you're doing and bash out some sweet harmonies. Tune in to check out the catchiest songs of 2016.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228230000 +0000" stop="20161229011000 +0000" channel="VH1">
+    <title lang="en">LeAnn Rimes' Greatest Movie Hits</title>
+    <desc lang="en">The lovely LeAnn Rimes is here playing her favourite songs from the biggest flicks to hit the silver screen! Expect classic tracks from Titanic, Dirty Dancing, Grease and, of course, Coyote Ugly.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
   <programme start="20161227060000 +0000" stop="20161227070000 +0000" channel="Kiss TV">
@@ -486,28 +411,116 @@
     <desc lang="en">2016 was a great year for hook ups. We count down 20 of the hottest.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20161226000000 +0000" stop="20161226235900 +0000" channel="VOX Music Videos">
-    <title lang="en">VOX Music Videos</title>
+  <programme start="20161228003000 +0000" stop="20161228010000 +0000" channel="Kiss TV">
+    <title lang="en">KissMix: Hugest Tunes of 2016</title>
+    <desc lang="en">Tune in for our exclusive non-stop mix of the hugest tracks of the year to party-start your night.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228010000 +0000" stop="20161228060000 +0000" channel="Kiss TV">
+    <title lang="en">Up All Night! Kiss Beats</title>
+    <desc lang="en">Let the world sleep! But here at Kiss we are still up, still delivering the finest beats for your nocturnal jam.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228060000 +0000" stop="20161228070000 +0000" channel="Kiss TV">
+    <title lang="en">Get Turnt! Tunes of the Year</title>
+    <desc lang="en">Nothing but big tunes! All the best tracks from 2016.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228070000 +0000" stop="20161228103000 +0000" channel="Kiss TV">
+    <title lang="en">Official! R'n'B &amp; Dance Hits of 2016: Top 50</title>
+    <desc lang="en">Top 50. Bringing you all of the best RnB and Dance hits from 2016, all in one place.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228103000 +0000" stop="20161228104000 +0000" channel="Kiss TV">
+    <title lang="en">Skepta: 2016 Double Drop</title>
+    <desc lang="en">Say Konnichiwa to two of the best from Skepta.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228104000 +0000" stop="20161228105000 +0000" channel="Kiss TV">
+    <title lang="en">Craig David: 2016 Double Drop</title>
+    <desc lang="en">You know what to do when that bassline drops! It's two of the best from Craig David.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228105000 +0000" stop="20161228111500 +0000" channel="Kiss TV">
+    <title lang="en">Get Turnt! Tunes of the Year</title>
+    <desc lang="en">Nothing but big tunes! All the best tracks from 2016.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228111500 +0000" stop="20161228120000 +0000" channel="Kiss TV">
+    <title lang="en">KissMix: Hugest Tunes of 2016</title>
+    <desc lang="en">Tune in for our exclusive non-stop mix of the hugest tracks of the year to party-start your night.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228120000 +0000" stop="20161228133000 +0000" channel="Kiss TV">
+    <title lang="en">Top 20 Hot Hook Ups of 2016</title>
+    <desc lang="en">2016 was a great year for hook ups. We count down 20 of the hottest.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228133000 +0000" stop="20161228140000 +0000" channel="Kiss TV">
+    <title lang="en">Get Turnt! Tunes of the Year</title>
+    <desc lang="en">Nothing but big tunes! All the best tracks from 2016.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228140000 +0000" stop="20161228170000 +0000" channel="Kiss TV">
+    <title lang="en">UK HOTLIST Urban Chart of 2016: Top 40</title>
+    <desc lang="en">Andrea Zara counts down the UK's 40 hottest urban beats of the year, as compiled by Radio Monitor. Keep it locked.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228170000 +0000" stop="20161228180000 +0000" channel="Kiss TV">
+    <title lang="en">HYPE</title>
+    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats that exploded this year.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20161228180000 +0000" stop="20161228181000 +0000" channel="Kiss TV">
+    <title lang="en">Ariana Grande: 2016 Double Drop</title>
+    <desc lang="en">Two of the best from the Dangerous Woman herself, Ariana Grande.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228181000 +0000" stop="20161228190000 +0000" channel="Kiss TV">
+    <title lang="en">Get Turnt! Tunes of the Year</title>
+    <desc lang="en">Nothing but big tunes! All the best tracks from 2016.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228190000 +0000" stop="20161228230000 +0000" channel="Kiss TV">
+    <title lang="en">Slammin' R'n'B Party Beats: Top 50</title>
+    <desc lang="en">Get the party started with this countdown of the Top 50 R'n'B Party beats.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228230000 +0000" stop="20161228233000 +0000" channel="Kiss TV">
+    <title lang="en">KissMix: Hugest Tunes of 2016</title>
+    <desc lang="en">Tune in for our exclusive non-stop mix of the hugest tracks of the year to party-start your night.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20161228233000 +0000" stop="20161229010000 +0000" channel="Kiss TV">
+    <title lang="en">Top 20 Hot Baes Who Slayed 2016</title>
+    <desc lang="en">Here come the girls! All the girls that ruled 2016, check out the Top 20 right here.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20161227000000 +0000" stop="20161227235900 +0000" channel="VOX Music Videos">
     <title lang="en">VOX Music Videos</title>
   </programme>
-  <programme start="20161226000000 +0000" stop="20161226235900 +0000" channel="Vevo Nashville Music Videos">
-    <title lang="en">Vevo Nashville Music Videos</title>
+  <programme start="20161228000000 +0000" stop="20161228235900 +0000" channel="VOX Music Videos">
+    <title lang="en">VOX Music Videos</title>
   </programme>
   <programme start="20161227000000 +0000" stop="20161227235900 +0000" channel="Vevo Nashville Music Videos">
     <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
-  <programme start="20161226000000 +0000" stop="20161226235900 +0000" channel="Vevo Flow Music Videos">
-    <title lang="en">Vevo Flow Music Videos</title>
+  <programme start="20161228000000 +0000" stop="20161228235900 +0000" channel="Vevo Nashville Music Videos">
+    <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
   <programme start="20161227000000 +0000" stop="20161227235900 +0000" channel="Vevo Flow Music Videos">
     <title lang="en">Vevo Flow Music Videos</title>
   </programme>
-  <programme start="20161226000000 +0000" stop="20161226235900 +0000" channel="Vevo Hits Music Videos">
-    <title lang="en">Vevo Hits Music Videos</title>
+  <programme start="20161228000000 +0000" stop="20161228235900 +0000" channel="Vevo Flow Music Videos">
+    <title lang="en">Vevo Flow Music Videos</title>
   </programme>
   <programme start="20161227000000 +0000" stop="20161227235900 +0000" channel="Vevo Hits Music Videos">
+    <title lang="en">Vevo Hits Music Videos</title>
+  </programme>
+  <programme start="20161228000000 +0000" stop="20161228235900 +0000" channel="Vevo Hits Music Videos">
     <title lang="en">Vevo Hits Music Videos</title>
   </programme>
 </tv>
