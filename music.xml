@@ -24,102 +24,6 @@
   <channel id="Vevo Hits Music Videos">
     <display-name lang="en">Vevo Hits</display-name>
   </channel>
-  <programme start="20170415060000 +0100" stop="20170415080000 +0100" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415080000 +0100" stop="20170415090000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Chart Update</title>
-    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>6.8 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415090000 +0100" stop="20170415110000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Top 20 Singles Of The Year So Far</title>
-    <desc lang="en">We use exclusive official chart stats to count down the 20 best-selling singles of 2017 so far! What is the biggest single of the year? Tune in to find out.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415110000 +0100" stop="20170415120000 +0100" channel="MTV Hits">
-    <title lang="en">MTV Trax Trending Chart</title>
-    <desc lang="en">Find out which songs have been trending on MTV's very own music app 'MTV Trax' - This is the MTV Trax Trending Chart.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415120000 +0100" stop="20170415130000 +0100" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415130000 +0100" stop="20170415133000 +0100" channel="MTV Hits">
-    <title lang="en">Ariana Grande's 5 Easter Treats</title>
-    <desc lang="en">We have some Easter treats in store for you! Right now it's the biggest hits from Dangerous Woman, Ariana Grande.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415133000 +0100" stop="20170415140000 +0100" channel="MTV Hits">
-    <title lang="en">Ed Sheeran's 5 Easter Treats</title>
-    <desc lang="en">We have five tasty Easter treats in store for you right now with some of the biggest hits from British singer-songwriter and man of the moment, Ed Sheeran.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415140000 +0100" stop="20170415173000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Chart Update</title>
-    <desc lang="en">Countdown of the best-selling songs of the week so far.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>6.8 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415173000 +0100" stop="20170415180000 +0100" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415180000 +0100" stop="20170415200000 +0100" channel="MTV Hits">
-    <title lang="en">The Official UK Urban Chart</title>
-    <desc lang="en">Tune in to the official urban chart for an exclusive countdown of the week's best selling urban singles. As compiled by The Official Charts Company.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415200000 +0100" stop="20170415220000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Download Chart</title>
-    <sub-title lang="en">The Official UK Download Chart.</sub-title>
-    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>8.6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170415220000 +0100" stop="20170416030000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Top 50 Singles Of The Year So Far</title>
-    <desc lang="en">We use exclusive official chart stats to count down the 50 best-selling singles of 2017 so far! What is the biggest single of the year? Tune in to find out.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170416030000 +0100" stop="20170416060000 +0100" channel="MTV Hits">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Buying goods from the comfort of home.(n)</desc>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
-    <star-rating>
-      <value>2 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20170416060000 +0100" stop="20170416080000 +0100" channel="MTV Hits">
     <title lang="en">Big Fat Hits</title>
     <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
@@ -196,73 +100,115 @@
       <value>10 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170415060000 +0100" stop="20170415080000 +0100" channel="VH1">
-    <title lang="en">Music Sounds Better With VH1</title>
-    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
+  <programme start="20170417010000 +0100" stop="20170417030000 +0100" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20170415080000 +0100" stop="20170415100000 +0100" channel="VH1">
-    <title lang="en">Saturday Morning Soundtrack</title>
-    <desc lang="en">A lie in, recovering from last night, getting ready for the weekend... whatever reason you've given yourself for that well-earned relaxed Saturday morning, let VH1 provide the soundtrack.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415100000 +0100" stop="20170415142500 +0100" channel="VH1">
-    <title lang="en">Greatest 21st Century Collabs! Fab 50</title>
-    <desc lang="en">Stay tuned for this countdown showcasing 50 fabulous, era-defining collabs that captured the hearts of the public! It's 21st Century joy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415142500 +0100" stop="20170415150000 +0100" channel="VH1">
-    <title lang="en">Sia: The Hits</title>
-    <desc lang="en">We bring you the biggest and best hits from our favourite fringed superstar - Sia.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415150000 +0100" stop="20170415160000 +0100" channel="VH1">
-    <title lang="en">P!nk: The Hits</title>
-    <desc lang="en">Check out the biggest and best hits from P!nk.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415160000 +0100" stop="20170415170000 +0100" channel="VH1">
-    <title lang="en">Remember This? 2000</title>
-    <desc lang="en">It's blast from the past time! We've got the best hits from the year 2000! Test out your knowledge and see how many of these you remember.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415170000 +0100" stop="20170415180000 +0100" channel="VH1">
-    <title lang="en">VH1's Videos Of The Week</title>
-    <desc lang="en">Tune in to check out VH1's favourite videos of the week.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415180000 +0100" stop="20170415225000 +0100" channel="VH1">
-    <title lang="en">Jennifer Hudson's Biggest Voices In Pop</title>
-    <desc lang="en">Jennifer Hudson spins a belter of a playlist featuring her picks of the biggest voices in pop! Expect massive vocals from the likes of Rihanna, Mariah, Whitney, Miley and loads more.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415225000 +0100" stop="20170415230000 +0100" channel="VH1">
-    <title lang="en">Music Sounds Better With VH1</title>
-    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170415230000 +0100" stop="20170416000000 +0100" channel="VH1">
-    <title lang="en">Maroon 5: Official Top 10</title>
-    <desc lang="en">Exclusive countdown of Maroon 5's 10 biggest hits, according to Official sales figures.(n)</desc>
-    <category lang="en">Pop</category>
-  </programme>
-  <programme start="20170416000000 +0100" stop="20170416023000 +0100" channel="VH1">
-    <title lang="en">Throwback 30! Hits From The Movies</title>
-    <desc lang="en">It's time to look back to simpler times, when some of the better things in life were movies, popcorn and classic soundtracks. We've all got our favourites, but see if yours have made our list of 30.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170416023000 +0100" stop="20170416030000 +0100" channel="VH1">
-    <title lang="en">Music Sounds Better With VH1</title>
-    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170416030000 +0100" stop="20170416060000 +0100" channel="VH1">
+  <programme start="20170417030000 +0100" stop="20170417060000 +0100" channel="MTV Hits">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Buying goods from the comfort of home.(n)</desc>
     <category lang="en">Advertisement</category>
     <category lang="en">Shopping</category>
     <star-rating>
       <value>2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417060000 +0100" stop="20170417070000 +0100" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417070000 +0100" stop="20170417090000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Audio Streaming Chart Top 20</title>
+    <desc lang="en">Be the first to discover who is Number One in the only Official Streaming Chart compiled exclusively by the Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417090000 +0100" stop="20170417110000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Top 20 Singles Of The Year So Far</title>
+    <desc lang="en">We use exclusive official chart stats to count down the 20 best-selling singles of 2017 so far! What is the biggest single of the year? Tune in to find out.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417110000 +0100" stop="20170417143000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">Countdown of the best-selling songs of the week so far.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417143000 +0100" stop="20170417150000 +0100" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417150000 +0100" stop="20170417153000 +0100" channel="MTV Hits">
+    <title lang="en">Ed Sheeran's 5 Easter Treats</title>
+    <desc lang="en">We have five tasty Easter treats in store for you right now with some of the biggest hits from British singer-songwriter and man of the moment, Ed Sheeran.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417153000 +0100" stop="20170417160000 +0100" channel="MTV Hits">
+    <title lang="en">Katy Perry's 5 Easter Treats</title>
+    <desc lang="en">We have some Easter treats in store for you! Right now it's the five biggest hits from cool California girl Katy Perry.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417160000 +0100" stop="20170417180000 +0100" channel="MTV Hits">
+    <title lang="en">The Official UK Top 20</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>3.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417180000 +0100" stop="20170417190000 +0100" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417190000 +0100" stop="20170417193000 +0100" channel="MTV Hits">
+    <title lang="en">Ariana Grande's 5 Easter Treats</title>
+    <desc lang="en">We have some Easter treats in store for you! Right now it's the biggest hits from Dangerous Woman, Ariana Grande.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417193000 +0100" stop="20170417200000 +0100" channel="MTV Hits">
+    <title lang="en">Ed Sheeran's 5 Easter Treats</title>
+    <desc lang="en">We have five tasty Easter treats in store for you right now with some of the biggest hits from British singer-songwriter and man of the moment, Ed Sheeran.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417200000 +0100" stop="20170417210000 +0100" channel="MTV Hits">
+    <title lang="en">MTV Trax Trending Chart</title>
+    <desc lang="en">Find out which songs have been trending on MTV's very own music app 'MTV Trax' - This is the MTV Trax Trending Chart.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>9.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417210000 +0100" stop="20170417213000 +0100" channel="MTV Hits">
+    <title lang="en">Newest Vids &amp; Hot Hits</title>
+    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417213000 +0100" stop="20170418010000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">Countdown of the best-selling songs of the week so far.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
     </star-rating>
   </programme>
   <programme start="20170416060000 +0100" stop="20170416080000 +0100" channel="VH1">
@@ -310,67 +256,79 @@
     <desc lang="en">Stuck for the perfect Brit hit to sing along to? Fear no more, VH1 brings you some of the biggest british hits to get a proper sing-song going! Better warn the neighbours.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415060000 +0100" stop="20170415090000 +0100" channel="Kiss TV">
-    <title lang="en">Pound The Alarm</title>
-    <desc lang="en">Join Kiss for the best sounding alarm clock you can find. We welcome the day with the biggest bangers. There is nothing like Kiss in the morning.(n)</desc>
+  <programme start="20170417003000 +0100" stop="20170417030000 +0100" channel="VH1">
+    <title lang="en">Music Sounds Better With VH1</title>
+    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415090000 +0100" stop="20170415104000 +0100" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban</title>
-    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
+  <programme start="20170417030000 +0100" stop="20170417060000 +0100" channel="VH1">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Buying goods from the comfort of home.(n)</desc>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
     <star-rating>
-      <value>7 /10</value>
+      <value>2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170415104000 +0100" stop="20170415120000 +0100" channel="Kiss TV">
-    <title lang="en">Turn Up The Easter Party Weekend</title>
-    <desc lang="en">Get your Easter weekend party started with all the biggest and freshest beats around.(n)</desc>
+  <programme start="20170417060000 +0100" stop="20170417080000 +0100" channel="VH1">
+    <title lang="en">Music Sounds Better With VH1</title>
+    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415120000 +0100" stop="20170415161000 +0100" channel="Kiss TV">
-    <title lang="en">Slammin' R'n'B Party Beats: Top 50</title>
-    <desc lang="en">Get the party started with this countdown of the Top 50 R'n'B Party beats.(n)</desc>
+  <programme start="20170417080000 +0100" stop="20170417125500 +0100" channel="VH1">
+    <title lang="en">Jennifer Hudson's Biggest Voices In Pop</title>
+    <desc lang="en">Jennifer Hudson spins a belter of a playlist featuring her picks of the biggest voices in pop! Expect massive vocals from the likes of Rihanna, Mariah, Whitney, Miley and loads more.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415161000 +0100" stop="20170415170000 +0100" channel="Kiss TV">
-    <title lang="en">Turn Up The Easter Party Weekend</title>
-    <desc lang="en">Get your Easter weekend party started with all the biggest and freshest beats around.(n)</desc>
-    <category lang="en">reserved</category>
+  <programme start="20170417125500 +0100" stop="20170417130000 +0100" channel="VH1">
+    <title lang="en">Music Never Felt So Good</title>
+    <desc lang="en">Enjoy the best feelgood music from the VH1 vault!.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>5.8 /10</value>
+    </star-rating>
   </programme>
-  <programme start="20170415170000 +0100" stop="20170415180000 +0100" channel="Kiss TV">
-    <title lang="en">HotMix</title>
-    <desc lang="en">Exclusive non-stop mix of the hottest tracks to soundtrack your life!.(n)</desc>
+  <programme start="20170417130000 +0100" stop="20170417140000 +0100" channel="VH1">
+    <title lang="en">One Direction: Official Top 10</title>
+    <desc lang="en">Countdown of 1D's best-selling singles to date, as compiled by the Official Charts Company. Will 'What Makes You Beautiful', 'Kiss You' or 'Best Song Ever' claim the top spot? Tune in to find out!.(n)</desc>
     <category lang="en">Pop</category>
-    <star-rating>
-      <value>9.5 /10</value>
-    </star-rating>
   </programme>
-  <programme start="20170415180000 +0100" stop="20170415220000 +0100" channel="Kiss TV">
-    <title lang="en">Worldwide! The Female Elite</title>
-    <desc lang="en">Who run the world? Beyonce, J Lo, Nicki, Rihanna and more! The one and only DJ Shortee Blitz salutes the leading ladies in music.(n)</desc>
+  <programme start="20170417140000 +0100" stop="20170417170000 +0100" channel="VH1">
+    <title lang="en">Throwback 30! Heartbreaking Hits</title>
+    <desc lang="en">We've got 30 throwback tearjerkers for you right now on VH1, just make you've got a box of tissues ready.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415220000 +0100" stop="20170416010000 +0100" channel="Kiss TV">
-    <title lang="en">Blazin' Weekend Anthems! Top 40</title>
-    <desc lang="en">Join us for 40 incredible weekend anthems! These are absolutely scorching.(n)</desc>
+  <programme start="20170417170000 +0100" stop="20170417190000 +0100" channel="VH1">
+    <title lang="en">These Hits Don't Lie! Top 20</title>
+    <desc lang="en">No fooling, these are the hits that will stay with us! Check out our top 20 list full of modern masterpieces and old school faves.(n)</desc>
     <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
   </programme>
-  <programme start="20170416010000 +0100" stop="20170416020000 +0100" channel="Kiss TV">
-    <title lang="en">HotMix</title>
-    <desc lang="en">Exclusive non-stop mix of the hottest tracks to soundtrack your life!.(n)</desc>
-    <category lang="en">Pop</category>
-    <star-rating>
-      <value>9.5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170416020000 +0100" stop="20170416060000 +0100" channel="Kiss TV">
-    <title lang="en">Beats All Night</title>
-    <desc lang="en">All the freshest beats and biggest videos all the way through the night.(n)</desc>
+  <programme start="20170417190000 +0100" stop="20170417200000 +0100" channel="VH1">
+    <title lang="en">Justin Timberlake: The Hits</title>
+    <desc lang="en">Get the full Justin Timberlake experience right here! Join us as we take a look at the exciting career of the poster boy of pop.(n)</desc>
     <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417200000 +0100" stop="20170417210000 +0100" channel="VH1">
+    <title lang="en">Remember This? 2000</title>
+    <desc lang="en">It's blast from the past time! We've got the best hits from the year 2000! Test out your knowledge and see how many of these you remember.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417210000 +0100" stop="20170417230000 +0100" channel="VH1">
+    <title lang="en">Oops! They Did It Again! 20 Pop Comebacks</title>
+    <desc lang="en">We?re giving a massive shout out to 20 acts that have made the biggest comebacks in pop history! With artists including Mars, Gaga, Craig David and Drake, you don?t wanna miss it.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417230000 +0100" stop="20170418005000 +0100" channel="VH1">
+    <title lang="en">Fifth Harmony's Leading Ladies Of Pop</title>
+    <desc lang="en">These lovely ladies are stealing the show with their super-hot videos &amp; fierce voices, but who do they think are the leading ladies of pop at the moment?.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>9 /10</value>
+    </star-rating>
   </programme>
   <programme start="20170416060000 +0100" stop="20170416090000 +0100" channel="Kiss TV">
     <title lang="en">Pound The Alarm</title>
@@ -435,28 +393,93 @@
     <desc lang="en">We're throwing all the way back with some of the biggest tracks that took over the world.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170415000000 +0000" stop="20170415235900 +0000" channel="VOX Music Videos">
-    <title lang="en">VOX Music Videos</title>
+  <programme start="20170417000000 +0100" stop="20170417013000 +0100" channel="Kiss TV">
+    <title lang="en">Shutdown! UK Grime Top 20</title>
+    <desc lang="en">It's Grime Time! 20 of the freshest and biggest grime videos around.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417013000 +0100" stop="20170417060000 +0100" channel="Kiss TV">
+    <title lang="en">Beats All Night</title>
+    <desc lang="en">All the freshest beats and biggest videos all the way through the night.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417060000 +0100" stop="20170417085500 +0100" channel="Kiss TV">
+    <title lang="en">Hot Hits &amp; New Beats</title>
+    <desc lang="en">Back to back beats! The biggest tracks right now and the freshest vids altogther, right here.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417085500 +0100" stop="20170417090000 +0100" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <subtitles />
+    <star-rating>
+      <value>7.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417090000 +0100" stop="20170417130000 +0100" channel="Kiss TV">
+    <title lang="en">Bring The Bangin' Beats Party: Top 50</title>
+    <desc lang="en">Will Manning brings you the most bangin' beats that will get any party moving.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417130000 +0100" stop="20170417140000 +0100" channel="Kiss TV">
+    <title lang="en">Turn Up The Easter Party Weekend</title>
+    <desc lang="en">Get your Easter weekend party started with all the biggest and freshest beats around.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417140000 +0100" stop="20170417220000 +0100" channel="Kiss TV">
+    <title lang="en">Too Good! 101 Ultimate R&amp;B Party Jams</title>
+    <desc lang="en">Let's get the RnB Party Started! We've got the ulitmate list of 101 of the biggest and best RnB party tracks ever.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417220000 +0100" stop="20170417230000 +0100" channel="Kiss TV">
+    <title lang="en">HYPE</title>
+    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170417230000 +0100" stop="20170417233000 +0100" channel="Kiss TV">
+    <title lang="en">Craig David &amp; Fam</title>
+    <desc lang="en">All the biggest and best videos from Craig David along with hits from his collaborators and showbiz fam.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170417233000 +0100" stop="20170418000000 +0100" channel="Kiss TV">
+    <title lang="en">Big Up: Beyonce</title>
+    <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with her biggest videos back to back, it's Beyonce.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20170416000000 +0000" stop="20170416235900 +0000" channel="VOX Music Videos">
     <title lang="en">VOX Music Videos</title>
   </programme>
-  <programme start="20170415000000 +0000" stop="20170415235900 +0000" channel="Vevo Nashville Music Videos">
-    <title lang="en">Vevo Nashville Music Videos</title>
+  <programme start="20170417000000 +0000" stop="20170417235900 +0000" channel="VOX Music Videos">
+    <title lang="en">VOX Music Videos</title>
   </programme>
   <programme start="20170416000000 +0000" stop="20170416235900 +0000" channel="Vevo Nashville Music Videos">
     <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
-  <programme start="20170415000000 +0000" stop="20170415235900 +0000" channel="Vevo Flow Music Videos">
-    <title lang="en">Vevo Flow Music Videos</title>
+  <programme start="20170417000000 +0000" stop="20170417235900 +0000" channel="Vevo Nashville Music Videos">
+    <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
   <programme start="20170416000000 +0000" stop="20170416235900 +0000" channel="Vevo Flow Music Videos">
     <title lang="en">Vevo Flow Music Videos</title>
   </programme>
-  <programme start="20170415000000 +0000" stop="20170415235900 +0000" channel="Vevo Hits Music Videos">
-    <title lang="en">Vevo Hits Music Videos</title>
+  <programme start="20170417000000 +0000" stop="20170417235900 +0000" channel="Vevo Flow Music Videos">
+    <title lang="en">Vevo Flow Music Videos</title>
   </programme>
   <programme start="20170416000000 +0000" stop="20170416235900 +0000" channel="Vevo Hits Music Videos">
+    <title lang="en">Vevo Hits Music Videos</title>
+  </programme>
+  <programme start="20170417000000 +0000" stop="20170417235900 +0000" channel="Vevo Hits Music Videos">
     <title lang="en">Vevo Hits Music Videos</title>
   </programme>
 </tv>
