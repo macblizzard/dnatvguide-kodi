@@ -20,395 +20,6 @@
     <display-name lang="en">Sky News</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20170523010000 -0500" stop="20170523020000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Tucker Carlson Tonight</title>
-    <desc lang="en">A look at the latest news and headlines of the day features discussions of politics and culture , analysis of political correctness in "Campus Craziness" and reports on social media in "Tucker's TwitterStorm."(n)</desc>
-  </programme>
-  <programme start="20170523020000 -0500" stop="20170523030000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">The Five</title>
-    <desc lang="en">A round-table ensemble discusses and debates the day's news(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/82041.jpg" />
-  </programme>
-  <programme start="20170523030000 -0500" stop="20170523040000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Special Report With Bret Baier</title>
-    <desc lang="en">A weeknight look at the news, featuring interviews, analysis and panel discussions(n)</desc>
-  </programme>
-  <programme start="20170523040000 -0500" stop="20170523050000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Fox and Friends First</title>
-    <desc lang="en">A precursor to Fox News's morning show, featuring the news and first looks at the other stories of the day(n)</desc>
-  </programme>
-  <programme start="20170523050000 -0500" stop="20170523080000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">FOX &amp; Friends</title>
-    <desc lang="en">A morning show that highlights the latest headlines in news, weather, sports and entertainment, and is known for the cohosts' casual and spontaneous discussions(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/2263.jpg" />
-  </programme>
-  <programme start="20170523080000 -0500" stop="20170523100000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">America's Newsroom</title>
-    <desc lang="en">The day's news(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/85622.jpg" />
-  </programme>
-  <programme start="20170523100000 -0500" stop="20170523110000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Happening Now</title>
-    <desc lang="en">A news program hosted by Jon Scott and Jenna Lee with breaking news updates from Harris Faulkner(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/85612.jpg" />
-  </programme>
-  <programme start="20170523110000 -0500" stop="20170523120000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Outnumbered</title>
-    <desc lang="en">A news show featuring the top headlines of the day from pop culture to politics, which are discussed by a rotating panel of four women and one man(n)</desc>
-  </programme>
-  <programme start="20170523120000 -0500" stop="20170523130000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Happening Now</title>
-    <desc lang="en">A news program hosted by Jon Scott and Jenna Lee with breaking news updates from Harris Faulkner(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/85612.jpg" />
-  </programme>
-  <programme start="20170523130000 -0500" stop="20170523140000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">America's News HQ</title>
-    <desc lang="en">News coverage is provided(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/85623.jpg" />
-  </programme>
-  <programme start="20170523140000 -0500" stop="20170523150000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Shepard Smith Reporting</title>
-    <desc lang="en">Fast, fair-and-balanced coverage of the news in a way only Shepard Smith can deliver it(n)</desc>
-  </programme>
-  <programme start="20170523150000 -0500" stop="20170523160000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Your World With Neil Cavuto</title>
-    <desc lang="en">Business news and analysis(n)</desc>
-    <icon src="http://img2.tvtome.com/i/tvp/sm/23194.jpg" />
-  </programme>
-  <programme start="20170523160000 -0500" stop="20170523170000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">The Fox News Specialists</title>
-    <desc lang="en">The top stories driving the day's headlines are discussed(n)</desc>
-  </programme>
-  <programme start="20170523170000 -0500" stop="20170523180000 -0500" channel="Fox News Channel HDTV (FNCHD)">
-    <title lang="en">Special Report With Bret Baier</title>
-    <desc lang="en">A weeknight look at the news, featuring interviews, analysis and panel discussions(n)</desc>
-  </programme>
-  <programme start="20170523060000 +0100" stop="20170523083000 +0100" channel="BBC News">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">Round-up of national and international news, plus the latest from the money markets.(n)</desc>
-    <category lang="en">General Social</category>
-    <category lang="en">Political Issues</category>
-    <category lang="en">Economics</category>
-    <star-rating>
-      <value>1.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523083000 +0100" stop="20170523090000 +0100" channel="BBC News">
-    <title lang="en">BBC Business Live</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">A look at the global business stories.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>6.6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523090000 +0100" stop="20170523110000 +0100" channel="BBC News">
-    <title lang="en">Victoria Derbyshire</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Daily news and current-affairs programme offering discussion of breaking stories, exclusive interviews and audience interaction via social media.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>1.6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523110000 +0100" stop="20170523130000 +0100" channel="BBC News">
-    <title lang="en">BBC Newsroom Live</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">A chance to stay up to date on the day's leading stories, with the latest breaking news as it happens.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>5.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523130000 +0100" stop="20170523133000 +0100" channel="BBC News">
-    <title lang="en">BBC News at One; Weather</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20170523133000 +0100" stop="20170523140000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523140000 +0100" stop="20170523150000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523150000 +0100" stop="20170523160000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523160000 +0100" stop="20170523170000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523170000 +0100" stop="20170523180000 +0100" channel="BBC News">
-    <title lang="en">BBC News at Five</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">The BBC News at Five O'Clock with in-depth discussions and analysis as well as breaking news.(n)</desc>
-    <category lang="en">News</category>
-    <star-rating>
-      <value>2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523180000 +0100" stop="20170523183000 +0100" channel="BBC News">
-    <title lang="en">BBC News at Six; Weather</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20170523183000 +0100" stop="20170523184500 +0100" channel="BBC News">
-    <title lang="en">Sportsday</title>
-    <desc lang="en">Results and analysis from countrywide events.(n)</desc>
-    <category lang="en">General Sports</category>
-    <star-rating>
-      <value>3.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523184500 +0100" stop="20170523190000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523190000 +0100" stop="20170523194500 +0100" channel="BBC News">
-    <title lang="en">100 Days</title>
-    <sub-title lang="en">100 Days+: 23/05/2017.</sub-title>
-    <desc lang="en">BBC News teams in Washington DC and London report on the events that are shaping the world.(n)</desc>
-    <category lang="en">Documentary</category>
-    <star-rating>
-      <value>5.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523194500 +0100" stop="20170523200000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523200000 +0100" stop="20170523210000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523210000 +0100" stop="20170523213000 +0100" channel="BBC News">
-    <title lang="en">Outside Source</title>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>3.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523213000 +0100" stop="20170523220000 +0100" channel="BBC News">
-    <title lang="en">Outside Source</title>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>3.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523220000 +0100" stop="20170523223000 +0100" channel="BBC News">
-    <title lang="en">BBC News at Ten</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <category lang="en">News</category>
-    <star-rating>
-      <value>2.8 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523223000 +0100" stop="20170523224500 +0100" channel="BBC News">
-    <title lang="en">Sportsday</title>
-    <desc lang="en">Results and analysis from countrywide events.(n)</desc>
-    <category lang="en">General Sports</category>
-    <star-rating>
-      <value>3.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523224500 +0100" stop="20170523230000 +0100" channel="BBC News">
-    <title lang="en">The Papers</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">No need to wait until tomorrow morning to see what's in the papers - tune in to BBC News and hear a lively, informed and engaging conversation about the next day's papers.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523230000 +0100" stop="20170523231500 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523231500 +0100" stop="20170524000000 +0100" channel="BBC News">
-    <title lang="en">Newsnight</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Analysis of the day's events, presented by Evan Davis.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/newsnight.jpg" />
-    <star-rating>
-      <value>4.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524000000 +0100" stop="20170524003000 +0100" channel="BBC News">
-    <title lang="en">Newsday</title>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>2.9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524003000 +0100" stop="20170524010000 +0100" channel="BBC News">
-    <title lang="en">The Andrew Neil Interviews</title>
-    <sub-title lang="en">The Andrew Neil Interviews - Paul Nuttall.</sub-title>
-    <desc lang="en">The second in a series of programmes in which the broadcaster and journalist questions the leaders of the main parties on their policies and aims ahead of next month's General Election, with this instalment featuring the leader of the UK Independence Party.(n)</desc>
-    <category lang="en">Interview</category>
-    <episode-num system="xmltv_ns">0.1/6.</episode-num>
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524010000 +0100" stop="20170524013000 +0100" channel="BBC News">
-    <title lang="en">Newsday</title>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>2.9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524013000 +0100" stop="20170524014500 +0100" channel="BBC News">
-    <title lang="en">Asia Business Report</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524014500 +0100" stop="20170524020000 +0100" channel="BBC News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">News and results from around the world.(n)</desc>
-    <category lang="en">General Sports</category>
-    <star-rating>
-      <value>4.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524020000 +0100" stop="20170524023000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524023000 +0100" stop="20170524030000 +0100" channel="BBC News">
-    <title lang="en">HARDtalk</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
-    <category lang="en">Interview</category>
-    <star-rating>
-      <value>4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524030000 +0100" stop="20170524033000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524033000 +0100" stop="20170524040000 +0100" channel="BBC News">
-    <title lang="en">Panorama</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">In-depth current affairs report covering a story behind the headlines.(n)</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/Panorama.jpg" />
-    <star-rating>
-      <value>6.2 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524040000 +0100" stop="20170524043000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524043000 +0100" stop="20170524050000 +0100" channel="BBC News">
-    <title lang="en">HARDtalk</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
-    <category lang="en">Interview</category>
-    <star-rating>
-      <value>4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524050000 +0100" stop="20170524053000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524053000 +0100" stop="20170524054500 +0100" channel="BBC News">
-    <title lang="en">World Business Report</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">Financial news.(n)</desc>
-    <category lang="en">General Social</category>
-    <category lang="en">Political Issues</category>
-    <category lang="en">Economics</category>
-    <star-rating>
-      <value>4.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524054500 +0100" stop="20170524060000 +0100" channel="BBC News">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
-    <star-rating>
-      <value>3.1 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20170524060000 +0100" stop="20170524083000 +0100" channel="BBC News">
     <title lang="en">Breakfast</title>
     <desc lang="en">Round-up of national and international news, plus the latest from the money markets.(n)</desc>
@@ -609,415 +220,350 @@
       <value>4.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170523060000 +0100" stop="20170523063000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523063000 +0100" stop="20170523070000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523070000 +0100" stop="20170523073000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523073000 +0100" stop="20170523080000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523080000 +0100" stop="20170523083000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523083000 +0100" stop="20170523090000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523090000 +0100" stop="20170523093000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523093000 +0100" stop="20170523100000 +0100" channel="Sky News">
-    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
-    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523100000 +0100" stop="20170523103000 +0100" channel="Sky News">
-    <title lang="en">All Out Politics</title>
-    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
-    <category lang="en">General News</category>
+  <programme start="20170525000000 +0100" stop="20170525003000 +0100" channel="BBC News">
+    <title lang="en">Newsday</title>
+    <category lang="en">News Magazine</category>
     <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523103000 +0100" stop="20170523110000 +0100" channel="Sky News">
-    <title lang="en">All Out Politics</title>
-    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523110000 +0100" stop="20170523113000 +0100" channel="Sky News">
-    <title lang="en">All Out Politics</title>
-    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523113000 +0100" stop="20170523120000 +0100" channel="Sky News">
-    <title lang="en">All Out Politics</title>
-    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523120000 +0100" stop="20170523123000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523123000 +0100" stop="20170523130000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523130000 +0100" stop="20170523133000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523133000 +0100" stop="20170523140000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523140000 +0100" stop="20170523143000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523143000 +0100" stop="20170523150000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
-    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523150000 +0100" stop="20170523153000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523153000 +0100" stop="20170523160000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523160000 +0100" stop="20170523163000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523163000 +0100" stop="20170523170000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523170000 +0100" stop="20170523173000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523173000 +0100" stop="20170523180000 +0100" channel="Sky News">
-    <title lang="en">Sky News</title>
-    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
-    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523180000 +0100" stop="20170523183000 +0100" channel="Sky News">
-    <title lang="en">Sky News with Kay Burley</title>
-    <desc lang="en">An overview of the day's top news and sports stories, live interviews and weather summaries.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>3.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523183000 +0100" stop="20170523190000 +0100" channel="Sky News">
-    <title lang="en">Ian King Live</title>
-    <sub-title lang="en">23/05/2017.</sub-title>
-    <desc lang="en">All the day's business news live from Sky's City of London studio, with Ian King.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>6.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523190000 +0100" stop="20170523193000 +0100" channel="Sky News">
-    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
-    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523193000 +0100" stop="20170523200000 +0100" channel="Sky News">
-    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
-    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523200000 +0100" stop="20170523203000 +0100" channel="Sky News">
-    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
-    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523203000 +0100" stop="20170523210000 +0100" channel="Sky News">
-    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
-    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-  </programme>
-  <programme start="20170523210000 +0100" stop="20170523220000 +0100" channel="Sky News">
-    <title lang="en">The Campaign</title>
-    <desc lang="en">Sophy Ridge presents a round-up of the day's news from the general election campaign trail, including analysis from Sky's team of correspondents and a panel of guests.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <star-rating>
-      <value>8.7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523220000 +0100" stop="20170523223000 +0100" channel="Sky News">
-    <title lang="en">Sky News at Ten</title>
-    <desc lang="en">A round-up of the stories that have hit the headlines today, with Anna Botting.(n)</desc>
-    <category lang="en">National News</category>
-    <subtitles />
-    <star-rating>
-      <value>5.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523223000 +0100" stop="20170523230000 +0100" channel="Sky News">
-    <title lang="en">Press Preview</title>
-    <sub-title lang="en">23/05/2017 - 1.</sub-title>
-    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
-    <category lang="en">Broadcasting</category>
-    <category lang="en">Press</category>
-    <subtitles />
-    <star-rating>
-      <value>5.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523230000 +0100" stop="20170523233000 +0100" channel="Sky News">
-    <title lang="en">Sky News Tonight</title>
-    <desc lang="en">A round-up of the day's leading stories with Anna Botting.(n)</desc>
-    <category lang="en">General News</category>
-    <category lang="en">Current Affairs</category>
-    <subtitles />
-    <star-rating>
-      <value>5.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170523233000 +0100" stop="20170524000000 +0100" channel="Sky News">
-    <title lang="en">Press Preview</title>
-    <sub-title lang="en">23/05/2017 - 2.</sub-title>
-    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
-    <category lang="en">Broadcasting</category>
-    <category lang="en">Press</category>
-    <subtitles />
-    <star-rating>
-      <value>5.4 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524000000 +0100" stop="20170524003000 +0100" channel="Sky News">
-    <title lang="en">Sky Midnight News</title>
-    <desc lang="en">Update on the day's headlines, plus a weather report.(n)</desc>
-    <category lang="en">News</category>
-    <subtitles />
     <star-rating>
       <value>2.9 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524003000 +0100" stop="20170524010000 +0100" channel="Sky News">
-    <title lang="en">Press Preview</title>
-    <sub-title lang="en">23/05/2017 - 2.</sub-title>
-    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
-    <category lang="en">Broadcasting</category>
-    <category lang="en">Press</category>
+  <programme start="20170525003000 +0100" stop="20170525010000 +0100" channel="BBC News">
+    <title lang="en">The Andrew Neil Interviews</title>
+    <sub-title lang="en">The Andrew Neil Interviews - Tim Farron.</sub-title>
+    <desc lang="en">Andrew Neil interviews the Liberal Democrat leader Tim Farron, ahead of the General Election.(n)</desc>
+    <category lang="en">Interview</category>
+    <episode-num system="xmltv_ns">0.2/6.</episode-num>
+    <star-rating>
+      <value>4.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525010000 +0100" stop="20170525013000 +0100" channel="BBC News">
+    <title lang="en">Newsday</title>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>2.9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525013000 +0100" stop="20170525014500 +0100" channel="BBC News">
+    <title lang="en">Asia Business Report</title>
+    <sub-title lang="en">24/05/2017.</sub-title>
+    <desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525014500 +0100" stop="20170525020000 +0100" channel="BBC News">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">News and results from around the world.(n)</desc>
+    <category lang="en">General Sports</category>
+    <star-rating>
+      <value>4.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525020000 +0100" stop="20170525023000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525023000 +0100" stop="20170525030000 +0100" channel="BBC News">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">24/05/2017.</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">Interview</category>
+    <star-rating>
+      <value>4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525030000 +0100" stop="20170525033000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525033000 +0100" stop="20170525040000 +0100" channel="BBC News">
+    <title lang="en">Click</title>
+    <sub-title lang="en">19/05/2017.</sub-title>
+    <desc lang="en">A guide to the latest gadgets, websites, games and computer industry news.(n)</desc>
+    <category lang="en">Computers</category>
+    <category lang="en">Internet</category>
+    <category lang="en">Gaming</category>
+    <star-rating>
+      <value>7.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525040000 +0100" stop="20170525043000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525043000 +0100" stop="20170525050000 +0100" channel="BBC News">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">24/05/2017.</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">Interview</category>
+    <star-rating>
+      <value>4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525050000 +0100" stop="20170525053000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525053000 +0100" stop="20170525054500 +0100" channel="BBC News">
+    <title lang="en">World Business Report</title>
+    <sub-title lang="en">24/05/2017.</sub-title>
+    <desc lang="en">Financial news.(n)</desc>
+    <category lang="en">General Social</category>
+    <category lang="en">Political Issues</category>
+    <category lang="en">Economics</category>
+    <star-rating>
+      <value>4.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525054500 +0100" stop="20170525060000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525060000 +0100" stop="20170525083000 +0100" channel="BBC News">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">Round-up of national and international news, plus the latest from the money markets.(n)</desc>
+    <category lang="en">General Social</category>
+    <category lang="en">Political Issues</category>
+    <category lang="en">Economics</category>
     <subtitles />
     <star-rating>
-      <value>5.4 /10</value>
+      <value>1.3 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524010000 +0100" stop="20170524013000 +0100" channel="Sky News">
-    <title lang="en">Sky News on the Hour</title>
-    <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
+  <programme start="20170525083000 +0100" stop="20170525090000 +0100" channel="BBC News">
+    <title lang="en">BBC Business Live</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">A look at the global business stories.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>6.6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525090000 +0100" stop="20170525110000 +0100" channel="BBC News">
+    <title lang="en">Victoria Derbyshire</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">Daily news and current-affairs programme offering discussion of breaking stories, exclusive interviews and audience interaction via social media.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>1.6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525110000 +0100" stop="20170525130000 +0100" channel="BBC News">
+    <title lang="en">BBC Newsroom Live</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">A chance to stay up to date on the day's leading stories, with the latest breaking news as it happens.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>5.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525130000 +0100" stop="20170525133000 +0100" channel="BBC News">
+    <title lang="en">BBC News at One; Weather</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
     <category lang="en">News</category>
     <subtitles />
   </programme>
-  <programme start="20170524013000 +0100" stop="20170524020000 +0100" channel="Sky News">
-    <title lang="en">Press Preview</title>
-    <sub-title lang="en">23/05/2017 - 2.</sub-title>
-    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
-    <category lang="en">Broadcasting</category>
-    <category lang="en">Press</category>
+  <programme start="20170525133000 +0100" stop="20170525140000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525140000 +0100" stop="20170525150000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525150000 +0100" stop="20170525160000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525160000 +0100" stop="20170525170000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525170000 +0100" stop="20170525180000 +0100" channel="BBC News">
+    <title lang="en">BBC News at Five</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">The BBC News at Five O'Clock with in-depth discussions and analysis as well as breaking news.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525180000 +0100" stop="20170525183000 +0100" channel="BBC News">
+    <title lang="en">BBC News at Six; Weather</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <category lang="en">News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525183000 +0100" stop="20170525184500 +0100" channel="BBC News">
+    <title lang="en">Sportsday</title>
+    <desc lang="en">Results and analysis from countrywide events.(n)</desc>
+    <category lang="en">General Sports</category>
+    <star-rating>
+      <value>3.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525184500 +0100" stop="20170525190000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525190000 +0100" stop="20170525194500 +0100" channel="BBC News">
+    <title lang="en">100 Days</title>
+    <sub-title lang="en">100 Days+: 25/05/2017.</sub-title>
+    <desc lang="en">BBC News teams in Washington DC and London report on the events that are shaping the world.(n)</desc>
+    <category lang="en">Documentary</category>
+    <star-rating>
+      <value>5.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525194500 +0100" stop="20170525200000 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525200000 +0100" stop="20170525204500 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
+    <star-rating>
+      <value>3.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525204500 +0100" stop="20170525210000 +0100" channel="BBC News">
+    <title lang="en">Meet The Author</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">Writers talk about their latest books.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170525210000 +0100" stop="20170525213000 +0100" channel="BBC News">
+    <title lang="en">Outside Source</title>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>3.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525213000 +0100" stop="20170525220000 +0100" channel="BBC News">
+    <title lang="en">Outside Source</title>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>3.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525220000 +0100" stop="20170525223000 +0100" channel="BBC News">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <category lang="en">News</category>
     <subtitles />
     <star-rating>
-      <value>5.4 /10</value>
+      <value>2.8 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524020000 +0100" stop="20170524023000 +0100" channel="Sky News">
-    <title lang="en">Sky News on the Hour</title>
-    <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20170524023000 +0100" stop="20170524030000 +0100" channel="Sky News">
-    <title lang="en">CBS News</title>
-    <desc lang="en">The main evening bulletin from the leading US network, featuring headlines from across the Atlantic and around the world.(n)</desc>
-    <category lang="en">News</category>
+  <programme start="20170525223000 +0100" stop="20170525224500 +0100" channel="BBC News">
+    <title lang="en">Sportsday</title>
+    <desc lang="en">Results and analysis from countrywide events.(n)</desc>
+    <category lang="en">General Sports</category>
     <star-rating>
-      <value>5.7 /10</value>
+      <value>3.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524030000 +0100" stop="20170524033000 +0100" channel="Sky News">
-    <title lang="en">Sky World News</title>
-    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
-    <category lang="en">News</category>
+  <programme start="20170525224500 +0100" stop="20170525230000 +0100" channel="BBC News">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">No need to wait until tomorrow morning to see what's in the papers - tune in to BBC News and hear a lively, informed and engaging conversation about the next day's papers.(n)</desc>
+    <category lang="en">reserved</category>
     <star-rating>
-      <value>4.1 /10</value>
+      <value>2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524033000 +0100" stop="20170524040000 +0100" channel="Sky News">
-    <title lang="en">Sky World Review &amp; Business Report</title>
-    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
+  <programme start="20170525230000 +0100" stop="20170525231500 +0100" channel="BBC News">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
     <category lang="en">News</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/BBC-News.jpg" />
     <star-rating>
-      <value>5 /10</value>
+      <value>3.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524040000 +0100" stop="20170524043000 +0100" channel="Sky News">
-    <title lang="en">Sky World News</title>
-    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
-    <category lang="en">News</category>
+  <programme start="20170525231500 +0100" stop="20170525233000 +0100" channel="BBC News">
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">Analysis of the day's events, presented by Emily Maitlis.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="http://cdn.tvguide.co.uk/HighlightImages/Large/newsnight.jpg" />
     <star-rating>
-      <value>4.1 /10</value>
+      <value>4.2 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170524043000 +0100" stop="20170524050000 +0100" channel="Sky News">
-    <title lang="en">Sky World Review &amp; Business Report</title>
-    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
-    <category lang="en">News</category>
+  <programme start="20170525233000 +0100" stop="20170526000000 +0100" channel="BBC News">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">24/05/2017.</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">Interview</category>
     <star-rating>
-      <value>5 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524050000 +0100" stop="20170524053000 +0100" channel="Sky News">
-    <title lang="en">Sky World News</title>
-    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
-    <category lang="en">News</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170524053000 +0100" stop="20170524060000 +0100" channel="Sky News">
-    <title lang="en">Sky World Review &amp; Business Report</title>
-    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
-    <category lang="en">News</category>
-    <star-rating>
-      <value>5 /10</value>
+      <value>4 /10</value>
     </star-rating>
   </programme>
   <programme start="20170524060000 +0100" stop="20170524063000 +0100" channel="Sky News">
@@ -1322,6 +868,414 @@
   <programme start="20170524233000 +0100" stop="20170525000000 +0100" channel="Sky News">
     <title lang="en">Press Preview</title>
     <sub-title lang="en">24/05/2017 - 2.</sub-title>
+    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
+    <category lang="en">Broadcasting</category>
+    <category lang="en">Press</category>
+    <subtitles />
+    <star-rating>
+      <value>5.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525000000 +0100" stop="20170525003000 +0100" channel="Sky News">
+    <title lang="en">Sky Midnight News</title>
+    <desc lang="en">Update on the day's headlines, plus a weather report.(n)</desc>
+    <category lang="en">News</category>
+    <subtitles />
+    <star-rating>
+      <value>2.9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525003000 +0100" stop="20170525010000 +0100" channel="Sky News">
+    <title lang="en">Press Preview</title>
+    <sub-title lang="en">24/05/2017 - 2.</sub-title>
+    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
+    <category lang="en">Broadcasting</category>
+    <category lang="en">Press</category>
+    <subtitles />
+    <star-rating>
+      <value>5.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525010000 +0100" stop="20170525013000 +0100" channel="Sky News">
+    <title lang="en">Sky News on the Hour</title>
+    <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
+    <category lang="en">News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525013000 +0100" stop="20170525020000 +0100" channel="Sky News">
+    <title lang="en">Press Preview</title>
+    <sub-title lang="en">24/05/2017 - 2.</sub-title>
+    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
+    <category lang="en">Broadcasting</category>
+    <category lang="en">Press</category>
+    <subtitles />
+    <star-rating>
+      <value>5.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525020000 +0100" stop="20170525023000 +0100" channel="Sky News">
+    <title lang="en">Sky News on the Hour</title>
+    <desc lang="en">Review of the latest international news, with sport, weather and financial updates.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20170525023000 +0100" stop="20170525030000 +0100" channel="Sky News">
+    <title lang="en">CBS News</title>
+    <desc lang="en">The main evening bulletin from the leading US network, featuring headlines from across the Atlantic and around the world.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>5.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525030000 +0100" stop="20170525033000 +0100" channel="Sky News">
+    <title lang="en">Sky World News</title>
+    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>4.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525033000 +0100" stop="20170525040000 +0100" channel="Sky News">
+    <title lang="en">Sky World Review &amp; Business Report</title>
+    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525040000 +0100" stop="20170525043000 +0100" channel="Sky News">
+    <title lang="en">Sky World News</title>
+    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>4.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525043000 +0100" stop="20170525050000 +0100" channel="Sky News">
+    <title lang="en">Sky World Review &amp; Business Report</title>
+    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525050000 +0100" stop="20170525053000 +0100" channel="Sky News">
+    <title lang="en">Sky World News</title>
+    <desc lang="en">A comprehensive look at the biggest stories from around the globe.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>4.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525053000 +0100" stop="20170525060000 +0100" channel="Sky News">
+    <title lang="en">Sky World Review &amp; Business Report</title>
+    <desc lang="en">The biggest stories from around the globe. Including weather, sports and business news.(n)</desc>
+    <category lang="en">News</category>
+    <star-rating>
+      <value>5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525060000 +0100" stop="20170525063000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525063000 +0100" stop="20170525070000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525070000 +0100" stop="20170525073000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525073000 +0100" stop="20170525080000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525080000 +0100" stop="20170525083000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525083000 +0100" stop="20170525090000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525090000 +0100" stop="20170525093000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525093000 +0100" stop="20170525100000 +0100" channel="Sky News">
+    <title lang="en">Sunrise With Sarah-Jane Mee And Jonathan Samuels</title>
+    <desc lang="en">A round-up of all the main news stories of the morning with a review of the papers, showbiz news and a full weather forecast for the day ahead just before 7.00am.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525100000 +0100" stop="20170525103000 +0100" channel="Sky News">
+    <title lang="en">All Out Politics</title>
+    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525103000 +0100" stop="20170525110000 +0100" channel="Sky News">
+    <title lang="en">All Out Politics</title>
+    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525110000 +0100" stop="20170525113000 +0100" channel="Sky News">
+    <title lang="en">All Out Politics</title>
+    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525113000 +0100" stop="20170525120000 +0100" channel="Sky News">
+    <title lang="en">All Out Politics</title>
+    <desc lang="en">Adam Boulton tackles post-Brexit politics with probing interviews and passionate debate about the big issues of our time.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525120000 +0100" stop="20170525123000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525123000 +0100" stop="20170525130000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525130000 +0100" stop="20170525133000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525133000 +0100" stop="20170525140000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525140000 +0100" stop="20170525143000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525143000 +0100" stop="20170525150000 +0100" channel="Sky News">
+    <title lang="en">Sky News with Colin Brazier and Jayne Secker</title>
+    <desc lang="en">An overview of the day's top news and sports stories, presented by Colin Brazier and Jayne Secker, including live interviews and weather summaries.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525150000 +0100" stop="20170525153000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525153000 +0100" stop="20170525160000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525160000 +0100" stop="20170525163000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525163000 +0100" stop="20170525170000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525170000 +0100" stop="20170525173000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525173000 +0100" stop="20170525180000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525180000 +0100" stop="20170525183000 +0100" channel="Sky News">
+    <title lang="en">Sky News</title>
+    <sub-title lang="en">Sky News with Kay Burley.</sub-title>
+    <desc lang="en">A summary of the latest news headlines, with Kay Burley.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525183000 +0100" stop="20170525190000 +0100" channel="Sky News">
+    <title lang="en">Ian King Live</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">All the day's business news live from Sky's City of London studio, with Ian King.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>6.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525190000 +0100" stop="20170525193000 +0100" channel="Sky News">
+    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
+    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525193000 +0100" stop="20170525200000 +0100" channel="Sky News">
+    <title lang="en">Sky News Tonight With Dermot Murnaghan</title>
+    <desc lang="en">Dermot Murnaghan brings perspective to the day's national and international news, with in-depth reporting, interviews, analysis from our specialist correspondents and lively debate.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+  </programme>
+  <programme start="20170525200000 +0100" stop="20170525210000 +0100" channel="Sky News">
+    <title lang="en">The Pledge</title>
+    <sub-title lang="en">25/05/2017.</sub-title>
+    <desc lang="en">The panel members debate more of the big issues the whole country is talking about.(n)</desc>
+    <category lang="en">Discussion</category>
+    <category lang="en">Debate</category>
+    <subtitles />
+    <star-rating>
+      <value>5.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525210000 +0100" stop="20170525220000 +0100" channel="Sky News">
+    <title lang="en">The Campaign</title>
+    <desc lang="en">Sophy Ridge presents a round-up of the day's news from the general election campaign trail, including analysis from Sky's team of correspondents and a panel of guests.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <star-rating>
+      <value>8.7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525220000 +0100" stop="20170525223000 +0100" channel="Sky News">
+    <title lang="en">Sky News at Ten</title>
+    <desc lang="en">A round-up of the stories that have hit the headlines today, with Anna Botting.(n)</desc>
+    <category lang="en">National News</category>
+    <subtitles />
+    <star-rating>
+      <value>5.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525223000 +0100" stop="20170525230000 +0100" channel="Sky News">
+    <title lang="en">Press Preview</title>
+    <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
+    <category lang="en">Broadcasting</category>
+    <category lang="en">Press</category>
+    <subtitles />
+    <star-rating>
+      <value>5.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525230000 +0100" stop="20170525233000 +0100" channel="Sky News">
+    <title lang="en">Sky News Tonight</title>
+    <desc lang="en">A round-up of the day's leading stories with Anna Botting.(n)</desc>
+    <category lang="en">General News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating>
+      <value>5.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170525233000 +0100" stop="20170526000000 +0100" channel="Sky News">
+    <title lang="en">Press Preview</title>
+    <sub-title lang="en">25/05/2017 - 1.</sub-title>
     <desc lang="en">A preview of the stories appearing in tomorrow's national newspapers, with Anna Botting.(n)</desc>
     <category lang="en">Broadcasting</category>
     <category lang="en">Press</category>
