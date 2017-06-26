@@ -24,147 +24,6 @@
   <channel id="Vevo Hits Music Videos">
     <display-name lang="en">Vevo Hits</display-name>
   </channel>
-  <programme start="20170625060000 +0100" stop="20170625080000 +0100" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625080000 +0100" stop="20170625090000 +0100" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625090000 +0100" stop="20170625123000 +0100" channel="MTV Hits">
-    <title lang="en">The Official UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625123000 +0100" stop="20170625125500 +0100" channel="MTV Hits">
-    <title lang="en">Attention! Charlie Puth's Hot Vids</title>
-    <desc lang="en">Charlie Puth's certainly got our Attention with his latest single, but he's been dropping plenty of hot vids over the past two years... check out our favourites right here.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625125500 +0100" stop="20170625130000 +0100" channel="MTV Hits">
-    <title lang="en">Rita Ora: Brand New Vid</title>
-    <desc lang="en">Filmed in Vancouver, the 'Your Song' vid has finally dropped! We want Rita to come and liven up our office boardroom like in this clip.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625130000 +0100" stop="20170625140000 +0100" channel="MTV Hits">
-    <title lang="en">Ed Sheeran From The Beginning</title>
-    <desc lang="en">Ed counts down ten of his own videos, starting at the beginning and taking us right up to the present day! Including Sing, Thinking Out Loud and Shape Of You.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625140000 +0100" stop="20170625171000 +0100" channel="MTV Hits">
-    <title lang="en">MTV's Official Airplay Chart</title>
-    <desc lang="en">We've counted up all the official plays from MTV Music, MTV Hits, MTV Base, MTV Dance, MTV Rocks, MTV Live, MTV Classic, Viva and VH1 to find out what's the most played video on the MTV music network.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625171000 +0100" stop="20170625171500 +0100" channel="MTV Hits">
-    <title lang="en">Shawn Mendes: Brand New Vid</title>
-    <desc lang="en">Shawn Mendes turns up the intensity in his new video for 'Mercy'. Check it out to see if he can survive being trapped in a sinking car.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625171500 +0100" stop="20170625175500 +0100" channel="MTV Hits">
-    <title lang="en">Newest Vids &amp; Hot Hits</title>
-    <desc lang="en">MTV Hits gives you the newest vids, bound to be massive and today's biggest hits! Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625175500 +0100" stop="20170625180000 +0100" channel="MTV Hits">
-    <title lang="en">Artists for Grenfall</title>
-    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfell Tower.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-  </programme>
-  <programme start="20170625180000 +0100" stop="20170625185000 +0100" channel="MTV Hits">
-    <title lang="en">US Hotlist Top 10</title>
-    <desc lang="en">What are the hottest tracks in the US right now? Tune in to find out with our US Hotlist Top 10.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625185000 +0100" stop="20170625185500 +0100" channel="MTV Hits">
-    <title lang="en">Rita Ora: Brand New Vid</title>
-    <desc lang="en">Filmed in Vancouver, the 'Your Song' vid has finally dropped! We want Rita to come and liven up our office boardroom like in this clip.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625185500 +0100" stop="20170625190000 +0100" channel="MTV Hits">
-    <title lang="en">Shawn Mendes: Brand New Vid</title>
-    <desc lang="en">Shawn Mendes turns up the intensity in his new video for 'Mercy'. Check it out to see if he can survive being trapped in a sinking car.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625190000 +0100" stop="20170625205500 +0100" channel="MTV Hits">
-    <title lang="en">Should've Been Number Ones: Top 20</title>
-    <desc lang="en">Join Becca Dudley as she counts down 20 of the biggest pop anthems that just missed out on ruling the chart roost! Expect huge tunes from Justin Timberlake, The Weeknd and Bruno Mars.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625205500 +0100" stop="20170625210000 +0100" channel="MTV Hits">
-    <title lang="en">Selena Gomez: Brand New Video</title>
-    <desc lang="en">Who needs co-stars? Selena plays all four characters in her 'Bad Liar' video, ranging from shy schoolgirl to awkward dad..(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625210000 +0100" stop="20170625220000 +0100" channel="MTV Hits">
-    <title lang="en">Selena Gomez: Official Top 10</title>
-    <desc lang="en">Tune in for an exclusive countdown of Selena Gomez's ten biggest hits, according to Official sales figures.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625220000 +0100" stop="20170625224500 +0100" channel="MTV Hits">
-    <title lang="en">Hottest Summer Hits! Top 10</title>
-    <desc lang="en">We're turning up the heat with a top 10 summer playlist that sizzles so much you'll be breaking a sweat.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625224500 +0100" stop="20170625225000 +0100" channel="MTV Hits">
-    <title lang="en">DJ Khaled &amp; Rihanna: Brand New Vid</title>
-    <desc lang="en">Sampling the classic 90s track 'Maria Maria', DJ Khaled takes his party to Miami where the guests include Ri-Ri and Bryson Tiller. Check out the hot vid for 'Wild Thoughts'.(n)</desc>
-    <category lang="en">Pop</category>
-  </programme>
-  <programme start="20170625225000 +0100" stop="20170625225500 +0100" channel="MTV Hits">
-    <title lang="en">Shawn Mendes: Brand New Vid</title>
-    <desc lang="en">Shawn Mendes turns up the intensity in his new video for 'Mercy'. Check it out to see if he can survive being trapped in a sinking car.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625225500 +0100" stop="20170625230000 +0100" channel="MTV Hits">
-    <title lang="en">Selena Gomez: Brand New Video</title>
-    <desc lang="en">Who needs co-stars? Selena plays all four characters in her 'Bad Liar' video, ranging from shy schoolgirl to awkward dad..(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625230000 +0100" stop="20170626010000 +0100" channel="MTV Hits">
-    <title lang="en">The Official Audio Streaming Chart Top 20</title>
-    <desc lang="en">Be the first to discover who is Number One in the only Official Streaming Chart compiled exclusively by the Official Charts Company.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>10 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626010000 +0100" stop="20170626030000 +0100" channel="MTV Hits">
-    <title lang="en">Big Fat Hits</title>
-    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170626030000 +0100" stop="20170626060000 +0100" channel="MTV Hits">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Buying goods from the comfort of home.(n)</desc>
-    <category lang="en">Advertisement</category>
-    <category lang="en">Shopping</category>
-    <star-rating>
-      <value>2.1 /10</value>
-    </star-rating>
-  </programme>
   <programme start="20170626060000 +0100" stop="20170626070000 +0100" channel="MTV Hits">
     <title lang="en">Big Fat Hits</title>
     <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
@@ -188,7 +47,7 @@
   </programme>
   <programme start="20170626085500 +0100" stop="20170626090000 +0100" channel="MTV Hits">
     <title lang="en">Artists for Grenfall</title>
-    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfell Tower.(n)</desc>
+    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfall Tower.(n)</desc>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
@@ -225,7 +84,7 @@
   </programme>
   <programme start="20170626135500 +0100" stop="20170626140000 +0100" channel="MTV Hits">
     <title lang="en">Artists for Grenfall</title>
-    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfell Tower.(n)</desc>
+    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfall Tower.(n)</desc>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
@@ -296,7 +155,7 @@
   </programme>
   <programme start="20170626205500 +0100" stop="20170626210000 +0100" channel="MTV Hits">
     <title lang="en">Artists for Grenfall</title>
-    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfell Tower.(n)</desc>
+    <desc lang="en">A special recording of Bridge Over Troubled Water, performed by a variety of musicians in aid of charitable efforts to help the surviving residents of Kensington's Grenfall Tower.(n)</desc>
     <category lang="en">General Music</category>
     <category lang="en">Ballet</category>
     <category lang="en">Dance</category>
@@ -316,55 +175,20 @@
     <desc lang="en">We're turning up the heat with a top 10 summer playlist that sizzles so much you'll be breaking a sweat.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625060000 +0100" stop="20170625080000 +0100" channel="VH1">
-    <title lang="en">Music Sounds Better With VH1</title>
-    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
+  <programme start="20170627000000 +0100" stop="20170627010000 +0100" channel="MTV Hits">
+    <title lang="en">Little Mix: The Official Top 10</title>
+    <desc lang="en">We're counting down the 10 best-selling UK singles from Little mix and it's all according to Official Charts stats! Find out if 'Wings', 'Cannonball', 'DNA' or 'Salute' make it to their top spot!.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625080000 +0100" stop="20170625130000 +0100" channel="VH1">
-    <title lang="en">100 Unforgettable Power Ballads</title>
-    <desc lang="en">We're entering Power Ballad Heaven now on VH1! So grab that hairbrush, get your air guitar ready and sing your heart out, as we countdown 100 Unforgettable Power Ballads.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625130000 +0100" stop="20170625170000 +0100" channel="VH1">
-    <title lang="en">100 Unforgettable Power Ballads</title>
-    <desc lang="en">We're entering Power Ballad Heaven now on VH1! So grab that hairbrush, get your air guitar ready and sing your heart out, as we countdown 100 Unforgettable Power Ballads.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625170000 +0100" stop="20170625203000 +0100" channel="VH1">
-    <title lang="en">The Official UK Top 40</title>
-    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <star-rating>
-      <value>4.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625203000 +0100" stop="20170625210000 +0100" channel="VH1">
-    <title lang="en">Rita Ora: The Hits</title>
-    <desc lang="en">We bring you the biggest and best tunes from Rita Ora.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625210000 +0100" stop="20170625230000 +0100" channel="VH1">
-    <title lang="en">Jennifer Hudson's Biggest Voices In Pop</title>
-    <desc lang="en">Jennifer Hudson spins a belter of a playlist featuring her picks of the biggest voices in pop! Expect massive vocals from the likes of Rihanna, Mariah, Whitney, Miley and loads more.(n)</desc>
+  <programme start="20170627010000 +0100" stop="20170627030000 +0100" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
-      <value>10 /10</value>
+      <value>7 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170625230000 +0100" stop="20170626010000 +0100" channel="VH1">
-    <title lang="en">Sing It Loud! Karaoke Hits</title>
-    <desc lang="en">Get ready to sing your heart out as we provide you with the lyrics and hits to have your own karaoke session wherever you are.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170626010000 +0100" stop="20170626030000 +0100" channel="VH1">
-    <title lang="en">Music Sounds Better With VH1</title>
-    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170626030000 +0100" stop="20170626060000 +0100" channel="VH1">
+  <programme start="20170627030000 +0100" stop="20170627060000 +0100" channel="MTV Hits">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Buying goods from the comfort of home.(n)</desc>
     <category lang="en">Advertisement</category>
@@ -372,6 +196,96 @@
     <star-rating>
       <value>2.1 /10</value>
     </star-rating>
+  </programme>
+  <programme start="20170627060000 +0100" stop="20170627070000 +0100" channel="MTV Hits">
+    <title lang="en">Big Fat Hits</title>
+    <desc lang="en">Whether you're looking for a chart smash or the freshest pop sensation, MTV Hits is bursting with them.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627070000 +0100" stop="20170627090000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Download Chart</title>
+    <sub-title lang="en">The Official UK Download Chart.</sub-title>
+    <desc lang="en">Park yourself right here for an official countdown of the Top 20 songs by download alone. Who's dropped out and who has claimed the prestigious number one slot this week?.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>8.6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627090000 +0100" stop="20170627100000 +0100" channel="MTV Hits">
+    <title lang="en">Leading Ladies: RiRi Vs Katy Perry</title>
+    <desc lang="en">These are the hottest ladies around right now. Check out these big tunes from Katy Perry and Rihanna.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627100000 +0100" stop="20170627120000 +0100" channel="MTV Hits">
+    <title lang="en">The Official UK Top 20</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>3.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627120000 +0100" stop="20170627130000 +0100" channel="MTV Hits">
+    <title lang="en">Hottest Summer Hits! Top 10</title>
+    <desc lang="en">We're turning up the heat with a top 10 summer playlist that sizzles so much you'll be breaking a sweat.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627130000 +0100" stop="20170627140000 +0100" channel="MTV Hits">
+    <title lang="en">MTV Trax Trending Chart</title>
+    <desc lang="en">Find out which songs have been trending on MTV's very own music app 'MTV Trax' - This is the MTV Trax Trending Chart.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>9.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627140000 +0100" stop="20170627160000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Audio Streaming Chart Top 20</title>
+    <desc lang="en">Be the first to discover who is Number One in the only Official Streaming Chart compiled exclusively by the Official Charts Company.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627160000 +0100" stop="20170627180000 +0100" channel="MTV Hits">
+    <title lang="en">Top 20 Debut Number Ones With Becca Dudley</title>
+    <desc lang="en">MTV's own Becca Dudley counts down 20 of the best debut chart-toppers. Featuring massive tracks from Sam Smith, Lady Gaga, One Direction and many more.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627180000 +0100" stop="20170627190000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Chart Update</title>
+    <desc lang="en">A sneak peek at how this week's charts are shaping up, based on exclusive info from the Official Charts Company. Find out who's climbing, who's falling and who's heading for no.1 before anyone else.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>6.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627190000 +0100" stop="20170627200000 +0100" channel="MTV Hits">
+    <title lang="en">The Official Trending Chart Top 10</title>
+    <desc lang="en">The Official Trending Chart is our new weekly Top 10 highlighting the biggest tracks from the past 12 month which are still growing in popularity, week-on-week. Check out this week's biggest movers.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627200000 +0100" stop="20170627220000 +0100" channel="MTV Hits">
+    <title lang="en">The Official UK Urban Chart</title>
+    <desc lang="en">Tune in to the official urban chart for an exclusive countdown of the week's best selling urban singles. As compiled by The Official Charts Company.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627220000 +0100" stop="20170628000000 +0100" channel="MTV Hits">
+    <title lang="en">Top 20 Summer Hits Of The Decade</title>
+    <desc lang="en">Break out the bikinis and get ready to top up your tan with 20 sizzling summer songs. It's been a decade full of summer smashes so be sure to tune in and see if your favourite has made our list.(n)</desc>
+    <category lang="en">reserved</category>
   </programme>
   <programme start="20170626060000 +0100" stop="20170626080000 +0100" channel="VH1">
     <title lang="en">Music Sounds Better With VH1</title>
@@ -416,130 +330,76 @@
     <desc lang="en">Stuck for the perfect Brit hit to sing along to? Fear no more, VH1 brings you some of the biggest british hits to get a proper sing-song going! Better warn the neighbours.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625060000 +0100" stop="20170625090000 +0100" channel="Kiss TV">
-    <title lang="en">Pound The Alarm</title>
-    <desc lang="en">Join Kiss for the best sounding alarm clock you can find. We welcome the day with the biggest bangers. There is nothing like Kiss in the morning.(n)</desc>
+  <programme start="20170627010000 +0100" stop="20170627030000 +0100" channel="VH1">
+    <title lang="en">Music Sounds Better With VH1</title>
+    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625090000 +0100" stop="20170625095500 +0100" channel="Kiss TV">
-    <title lang="en">Get Lit: Weekend Anthems</title>
-    <desc lang="en">The weekend is here! The biggest anthems to soundtrack your weekend.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625095500 +0100" stop="20170625100000 +0100" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <subtitles />
+  <programme start="20170627030000 +0100" stop="20170627060000 +0100" channel="VH1">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Buying goods from the comfort of home.(n)</desc>
+    <category lang="en">Advertisement</category>
+    <category lang="en">Shopping</category>
     <star-rating>
-      <value>7.1 /10</value>
+      <value>2.1 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170625100000 +0100" stop="20170625120000 +0100" channel="Kiss TV">
-    <title lang="en">Back To The Old Skool! 00s Classics</title>
-    <desc lang="en">Turn back time as Kiss Radio's Pandora presents our old skool playlist of noughties nostalgia, with stone-cold classics from the likes of Kanye West, Ciara, Amerie and Usher.(n)</desc>
+  <programme start="20170627060000 +0100" stop="20170627080000 +0100" channel="VH1">
+    <title lang="en">Music Sounds Better With VH1</title>
+    <desc lang="en">We've got all of VH1's biggest and best tracks, all bundled up and wrapped in this perfect playlist package. Enjoy.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625120000 +0100" stop="20170625125500 +0100" channel="Kiss TV">
-    <title lang="en">Big Up: Beyonce</title>
-    <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with her biggest videos back to back, it's Beyonce.(n)</desc>
+  <programme start="20170627080000 +0100" stop="20170627100000 +0100" channel="VH1">
+    <title lang="en">Official Top 20 Girl Group Hits Of The Past 20 Years</title>
+    <desc lang="en">We use exclusive official charts data to count down the biggest and best girl groups from the past two decades. Who will be Number 1? Tune in to find out.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625125500 +0100" stop="20170625130000 +0100" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <subtitles />
-    <star-rating>
-      <value>7.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625130000 +0100" stop="20170625140000 +0100" channel="Kiss TV">
-    <title lang="en">HYPE</title>
-    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>6.3 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625140000 +0100" stop="20170625153000 +0100" channel="Kiss TV">
-    <title lang="en">The Best Hip Hop Anthems In The World</title>
-    <desc lang="en">That's right! We've got 20 of the biggest and best Hip Hop anthems in the world, right here.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625153000 +0100" stop="20170625160000 +0100" channel="Kiss TV">
-    <title lang="en">Big Up: Kanye West</title>
-    <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with his biggest videos back to back, it's Kanye West.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625160000 +0100" stop="20170625173000 +0100" channel="Kiss TV">
-    <title lang="en">20 Most Played On Kiss</title>
-    <desc lang="en">Bringing you the 20 most played videos here on Kiss this week.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>9 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625173000 +0100" stop="20170625175500 +0100" channel="Kiss TV">
-    <title lang="en">Turn Up For Summer</title>
-    <desc lang="en">Turn up the heat and turn up the volume! The hottest tracks right now for some serious summer vibes.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625175500 +0100" stop="20170625180000 +0100" channel="Kiss TV">
-    <title lang="en">VIP Track of the Week</title>
-    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
-    <category lang="en">General Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <subtitles />
-    <star-rating>
-      <value>7.1 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625180000 +0100" stop="20170625200000 +0100" channel="Kiss TV">
-    <title lang="en">25 Blazing Hot Hook Ups</title>
-    <desc lang="en">We're turning the heat all the way up with 25 of the most sizzling hot hook ups ever.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625200000 +0100" stop="20170625210000 +0100" channel="Kiss TV">
-    <title lang="en">Kisstory: Old Skool &amp; Anthems</title>
-    <desc lang="en">It's time to go back in time with KISSTORY! The biggest old skool anthems ever from your favourite artists.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625210000 +0100" stop="20170625223000 +0100" channel="Kiss TV">
-    <title lang="en">UK HOTLIST Urban</title>
-    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
-    <category lang="en">reserved</category>
-    <star-rating>
-      <value>7 /10</value>
-    </star-rating>
-  </programme>
-  <programme start="20170625223000 +0100" stop="20170625230000 +0100" channel="Kiss TV">
-    <title lang="en">Tinie Tempah &amp; Fam</title>
-    <desc lang="en">All the best and biggest videos from Tinie Tempah along with hits from his collaborators and showbiz fam.(n)</desc>
-    <category lang="en">reserved</category>
-  </programme>
-  <programme start="20170625230000 +0100" stop="20170626003000 +0100" channel="Kiss TV">
-    <title lang="en">Shutdown! UK Grime Top 20</title>
-    <desc lang="en">It's Grime Time! 20 of the freshest and biggest grime videos around.(n)</desc>
+  <programme start="20170627100000 +0100" stop="20170627110000 +0100" channel="VH1">
+    <title lang="en">Ed Sheeran From The Beginning</title>
+    <desc lang="en">Ed counts down ten of his own videos, starting at the beginning and taking us right up to the present day! Including Sing, Thinking Out Loud and Shape Of You.(n)</desc>
     <category lang="en">reserved</category>
     <star-rating>
       <value>10 /10</value>
     </star-rating>
   </programme>
-  <programme start="20170626003000 +0100" stop="20170626013000 +0100" channel="Kiss TV">
-    <title lang="en">Big Up: Drake</title>
-    <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with his biggest videos back to back, it's Drake.(n)</desc>
+  <programme start="20170627110000 +0100" stop="20170627150000 +0100" channel="VH1">
+    <title lang="en">Sing Along With The Brits</title>
+    <desc lang="en">Stuck for the perfect Brit hit to sing along to? Fear no more, VH1 brings you some of the biggest british hits to get a proper sing-song going! Better warn the neighbours.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170626013000 +0100" stop="20170626060000 +0100" channel="Kiss TV">
-    <title lang="en">Beats All Night</title>
-    <desc lang="en">All the freshest beats and biggest videos all the way through the night.(n)</desc>
+  <programme start="20170627150000 +0100" stop="20170627160000 +0100" channel="VH1">
+    <title lang="en">Beyonce: The Hits</title>
+    <desc lang="en">Who runs the world? Beyonce! To show just how much we love her, we've selected our favourite songs from her Bootylicious back catalogue. Enjoy.(n)</desc>
     <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627160000 +0100" stop="20170627180000 +0100" channel="VH1">
+    <title lang="en">Boys Of The 10s: Official Top 20</title>
+    <category lang="en">Pop</category>
+  </programme>
+  <programme start="20170627180000 +0100" stop="20170627190000 +0100" channel="VH1">
+    <title lang="en">Summer Of 2011</title>
+    <desc lang="en">Right now we're taking you back to the summer of 2011 to relive some of those great tunes from that great summer.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627190000 +0100" stop="20170627200000 +0100" channel="VH1">
+    <title lang="en">VH1's Videos Of The Week</title>
+    <desc lang="en">Tune in to check out VH1's favourite videos of the week.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627200000 +0100" stop="20170627210000 +0100" channel="VH1">
+    <title lang="en">Maroon 5: Official Top 10</title>
+    <desc lang="en">Exclusive countdown of Maroon 5's 10 biggest hits, according to Official sales figures.(n)</desc>
+    <category lang="en">Pop</category>
+  </programme>
+  <programme start="20170627210000 +0100" stop="20170628003000 +0100" channel="VH1">
+    <title lang="en">The Official UK Top 40</title>
+    <desc lang="en">Exclusive first look at the biggest selling songs of the week as we reveal the winners and losers of the race to the Official UK Number one spot.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <star-rating>
+      <value>4.1 /10</value>
+    </star-rating>
   </programme>
   <programme start="20170626060000 +0100" stop="20170626085500 +0100" channel="Kiss TV">
     <title lang="en">Pound The Alarm</title>
@@ -664,28 +524,155 @@
     <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with his biggest videos back to back, it's The Weeknd.(n)</desc>
     <category lang="en">reserved</category>
   </programme>
-  <programme start="20170625000000 +0000" stop="20170625235900 +0000" channel="VOX Music Videos">
-    <title lang="en">VOX Music Videos</title>
+  <programme start="20170627000000 +0100" stop="20170627013000 +0100" channel="Kiss TV">
+    <title lang="en">Replay 20: Garage Anthems</title>
+    <desc lang="en">It's time to re-rewind as we take a look at 20 of the best garage classics ever.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627013000 +0100" stop="20170627060000 +0100" channel="Kiss TV">
+    <title lang="en">Beats All Night</title>
+    <desc lang="en">All the freshest beats and biggest videos all the way through the night.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627060000 +0100" stop="20170627085500 +0100" channel="Kiss TV">
+    <title lang="en">Pound The Alarm</title>
+    <desc lang="en">Join Kiss for the best sounding alarm clock you can find. We welcome the day with the biggest bangers. There is nothing like Kiss in the morning.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627085500 +0100" stop="20170627090000 +0100" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <subtitles />
+    <star-rating>
+      <value>7.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627090000 +0100" stop="20170627103000 +0100" channel="Kiss TV">
+    <title lang="en">US Anthems Vs The World: Big 20</title>
+    <desc lang="en">We battle out the biggest US hits against the biggest hits from the rest of the world.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627103000 +0100" stop="20170627110000 +0100" channel="Kiss TV">
+    <title lang="en">Summer Vibes</title>
+    <desc lang="en">We've got your summer covered here on Kiss with the biggest tracks to make it the hottest summer yet.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627110000 +0100" stop="20170627113500 +0100" channel="Kiss TV">
+    <title lang="en">Big Up: The Weeknd</title>
+    <desc lang="en">It's time to hear from one of our favourite artists here at Kiss, with his biggest videos back to back, it's The Weeknd.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627113500 +0100" stop="20170627120000 +0100" channel="Kiss TV">
+    <title lang="en">5 New Drops This Week</title>
+    <desc lang="en">5 of the freshest new videos dropping right here on Kiss this week.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>4.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627120000 +0100" stop="20170627134000 +0100" channel="Kiss TV">
+    <title lang="en">UK HOTLIST Urban</title>
+    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627134000 +0100" stop="20170627140000 +0100" channel="Kiss TV">
+    <title lang="en">Fresh Flows &amp; Summer Jamz</title>
+    <desc lang="en">It's officially the summertime! Let's tun up the heat with some of the freshest tracks.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627140000 +0100" stop="20170627150000 +0100" channel="Kiss TV">
+    <title lang="en">HYPE</title>
+    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.3 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627150000 +0100" stop="20170627164000 +0100" channel="Kiss TV">
+    <title lang="en">UK HOTLIST Urban</title>
+    <desc lang="en">Andrea Zara counts down the UK's 20 hottest urban beats, as compiled by Radio Monitor. Keep it locked.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627164000 +0100" stop="20170627165500 +0100" channel="Kiss TV">
+    <title lang="en">Summer Vibes</title>
+    <desc lang="en">We've got your summer covered here on Kiss with the biggest tracks to make it the hottest summer yet.(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20170627165500 +0100" stop="20170627170000 +0100" channel="Kiss TV">
+    <title lang="en">VIP Track of the Week</title>
+    <desc lang="en">A must-hear tune as selected by 4Music.(n)</desc>
+    <category lang="en">General Music</category>
+    <category lang="en">Ballet</category>
+    <category lang="en">Dance</category>
+    <subtitles />
+    <star-rating>
+      <value>7.1 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627170000 +0100" stop="20170627180000 +0100" channel="Kiss TV">
+    <title lang="en">HotMix</title>
+    <desc lang="en">Exclusive non-stop mix of the hottest tracks to soundtrack your life!.(n)</desc>
+    <category lang="en">Pop</category>
+    <star-rating>
+      <value>9.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627180000 +0100" stop="20170627220000 +0100" channel="Kiss TV">
+    <title lang="en">Power Players! YouTube's Hugest</title>
+    <sub-title lang="en">Power Players! YouTube's Hugest Top 50.</sub-title>
+    <desc lang="en">Feel the power! Compiled from YouTube data, these are the 50 Power Players getting the most video views on a global scale. If you lot are clicking on them, you can expect to see them here.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>10 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627220000 +0100" stop="20170627230000 +0100" channel="Kiss TV">
+    <title lang="en">HotMix</title>
+    <desc lang="en">Exclusive non-stop mix of the hottest tracks to soundtrack your life!.(n)</desc>
+    <category lang="en">Pop</category>
+    <star-rating>
+      <value>9.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20170627230000 +0100" stop="20170628000000 +0100" channel="Kiss TV">
+    <title lang="en">HYPE</title>
+    <desc lang="en">Catch the biggest music videos from emerging talent and today's stars. Keep it locked for your guide to the buzziest R'n'B, Hip Hop and Dance beats.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>6.3 /10</value>
+    </star-rating>
   </programme>
   <programme start="20170626000000 +0000" stop="20170626235900 +0000" channel="VOX Music Videos">
     <title lang="en">VOX Music Videos</title>
   </programme>
-  <programme start="20170625000000 +0000" stop="20170625235900 +0000" channel="Vevo Nashville Music Videos">
-    <title lang="en">Vevo Nashville Music Videos</title>
+  <programme start="20170627000000 +0000" stop="20170627235900 +0000" channel="VOX Music Videos">
+    <title lang="en">VOX Music Videos</title>
   </programme>
   <programme start="20170626000000 +0000" stop="20170626235900 +0000" channel="Vevo Nashville Music Videos">
     <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
-  <programme start="20170625000000 +0000" stop="20170625235900 +0000" channel="Vevo Flow Music Videos">
-    <title lang="en">Vevo Flow Music Videos</title>
+  <programme start="20170627000000 +0000" stop="20170627235900 +0000" channel="Vevo Nashville Music Videos">
+    <title lang="en">Vevo Nashville Music Videos</title>
   </programme>
   <programme start="20170626000000 +0000" stop="20170626235900 +0000" channel="Vevo Flow Music Videos">
     <title lang="en">Vevo Flow Music Videos</title>
   </programme>
-  <programme start="20170625000000 +0000" stop="20170625235900 +0000" channel="Vevo Hits Music Videos">
-    <title lang="en">Vevo Hits Music Videos</title>
+  <programme start="20170627000000 +0000" stop="20170627235900 +0000" channel="Vevo Flow Music Videos">
+    <title lang="en">Vevo Flow Music Videos</title>
   </programme>
   <programme start="20170626000000 +0000" stop="20170626235900 +0000" channel="Vevo Hits Music Videos">
+    <title lang="en">Vevo Hits Music Videos</title>
+  </programme>
+  <programme start="20170627000000 +0000" stop="20170627235900 +0000" channel="Vevo Hits Music Videos">
     <title lang="en">Vevo Hits Music Videos</title>
   </programme>
 </tv>
